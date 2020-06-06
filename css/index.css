@@ -214,6 +214,8 @@ pre {
 
 /* Tags */
 .tag {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
   display: inline-block;
   vertical-align: text-top;
   text-transform: uppercase;
