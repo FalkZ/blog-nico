@@ -1,23 +1,50 @@
 :root {
-  --red: #C5004A;
-  --darkred: #7F0036;
+  --red: #3cd093;
+  --darkred: #7f0036;
   --lightgray: #e0e0e0;
-  --gray: #C0C0C0;
-  --darkgray: #333;
-  --navy: #17050F;
+  --gray: #c0c0c0;
+  --darkgray: #011936;
+  --navy: #17050f;
   --blue: #082840;
-  --white: #fff;
+  --white: #ccccdd11;
 }
 * {
   box-sizing: border-box;
 }
+
+.highlight {
+  background: var(--darkgray);
+  color: white;
+  display: inline-block;
+  padding: 0 5px;
+}
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: system-ui, sans-serif;
+  font-family: "Roboto Slab", serif;
   color: var(--darkgray);
+}
+
+html {
   background-color: var(--white);
+}
+
+body {
+  margin: 0 auto;
+  display: block;
+  width: 600px;
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: system-ui, sans-serif;
 }
 p:last-child {
   margin-bottom: 0;
@@ -30,6 +57,7 @@ img {
 p,
 .tmpl-post li {
   line-height: 1.45;
+  letter-spacing: 0.01em;
 }
 a[href] {
   color: var(--blue);
@@ -38,7 +66,7 @@ a[href]:visited {
   color: var(--navy);
 }
 main {
-  padding: 1rem;
+  padding: 1rem 0;
 }
 main :first-child {
   margin-top: 0;
@@ -61,7 +89,10 @@ table th {
 
 pre,
 code {
-  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
+  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono",
+    "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
+    "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L",
+    "Courier New", Courier, monospace;
   line-height: 1.5;
 }
 pre {
@@ -80,7 +111,7 @@ pre {
   -ms-hyphens: none;
   hyphens: none;
   padding: 1em;
-  margin: .5em 0;
+  margin: 0.5em 0;
   background-color: #f6f6f6;
 }
 .highlight-line {
@@ -105,7 +136,7 @@ pre {
 }
 .highlight-line-active {
   background-color: #444;
-  background-color: hsla(0, 0%, 27%, .8);
+  background-color: hsla(0, 0%, 27%, 0.8);
 }
 .highlight-line-add {
   background-color: #45844b;
@@ -116,10 +147,10 @@ pre {
 
 /* Header */
 .home {
-  padding: 0 1rem;
+  padding: 0;
   float: left;
   margin: 1rem 0; /* 16px /16 */
-  font-size: 1em; /* 16px /16 */
+  font-size: 2em; /* 16px /16 */
 }
 .home :link:not(:hover) {
   text-decoration: none;
@@ -129,12 +160,14 @@ pre {
 .nav {
   padding: 0;
   list-style: none;
-  float: left;
-  margin-left: 1em;
+  float: right;
+  font-weight: bold;
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .nav-item {
   display: inline-block;
-  margin-right: 1em;
+  margin-left: 1em;
 }
 .nav-item a[href]:not(:hover) {
   text-decoration: none;
@@ -179,7 +212,6 @@ pre {
   font-weight: 700;
 }
 
-
 /* Tags */
 .tag {
   display: inline-block;
@@ -212,7 +244,7 @@ a[href].tag:visited {
   font-family: sans-serif;
   text-decoration: none;
   font-style: normal;
-  margin-left: .1em;
+  margin-left: 0.1em;
 }
 a[href].direct-link,
 a[href].direct-link:visited {
