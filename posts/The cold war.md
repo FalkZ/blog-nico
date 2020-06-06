@@ -1,7 +1,7 @@
 ---
 title: The cold war.
 description: This is a post on My Blog about touchpoints and circling wagons.
-date: 2018-09-30
+date: 2020-06-07
 tags:
   - second-tag
   - second-t
