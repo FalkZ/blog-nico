@@ -14,6 +14,11 @@ layout: layouts/post.njk
 
 
 
+> "The bastards have never been bombed like they’re going to be bombed this time"
+
+- Richard Nixon
+
+
 
 
 ## Ground war
@@ -34,8 +39,5 @@ The american's spread tons of defoliants over the vietnamese Jungle, to be accur
 #### Header 4
 
 
-> "The bastards have never been bombed like they’re going to be bombed this time"
-
-- Richard Nixon
 
 test
