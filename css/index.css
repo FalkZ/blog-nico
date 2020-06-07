@@ -52,11 +52,11 @@ h6 {
 p:last-child {
   margin-bottom: 0;
 }
-p,
+/* p,
 .tmpl-post li,
 img {
   max-width: 37.5em; /* 600px /16 */
-}
+} */
 p,
 .tmpl-post li {
   font-size: 16px;
@@ -128,6 +128,8 @@ pre {
 main blockquote {
   background: #ccccdd22;
   margin: 0 1em;
+  width: auto;
+
   padding: 0.5em 1em;
   padding-right: 2em;
   font-style: italic;
@@ -256,6 +258,20 @@ main blockquote {
     margin-left: 0px;
   }
 }
+
+
+img{
+  width: calc(100% + 90px);
+  margin: 0 -45px;
+}
+
+@media only screen and (max-width: 720px) {
+  img{
+    width: calc(100% + 20px);
+  margin: 0 -10px;
+}
+}
+
 
 .postlist-link {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
