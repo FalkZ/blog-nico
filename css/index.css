@@ -76,7 +76,7 @@ main :first-child {
   margin-top: 0;
 }
 header {
-  border-bottom: 0.1px solid #ccccdd55
+  border-bottom: 0.5px solid #ccccddee;
 }
 header:after {
   content: "";
