@@ -10,15 +10,17 @@ layout: layouts/post.njk
 
 
 
-## Propaganda
+## Bombing
 
 
+
+
+
+# Ground war
 ![dfgfg](/img/1570290412_71718475_3100852099929071_1513491160226594816_n.jpg)
-# Monsanto and chemical warfare
 
 
-
-## Header 2
+## Chemical warfare
 
 ### Header 3
 
