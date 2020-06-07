@@ -36,6 +36,7 @@ body {
   display: block;
   width: 600px;
   max-width: 100%;
+  padding: 0 10px;
 }
 
 h1,
@@ -44,7 +45,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: system-ui, sans-serif;
+  margin-top: 1em;
+  margin-bottom: 10px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 p:last-child {
   margin-bottom: 0;
@@ -56,6 +59,7 @@ img {
 }
 p,
 .tmpl-post li {
+  font-size: 16px;
   line-height: 1.45;
   letter-spacing: 0.01em;
 }
@@ -63,8 +67,8 @@ a[href] {
   color: var(--blue);
 }
 a[href]:visited {
-  color: var(--navy);
-}
+ 
+} 
 main {
   padding: 1rem 0;
 }
@@ -72,7 +76,7 @@ main :first-child {
   margin-top: 0;
 }
 header {
-  border-bottom: 1px dashed var(--lightgray);
+  border-bottom: 0.1px solid #ccccdd55
 }
 header:after {
   content: "";
@@ -114,6 +118,38 @@ pre {
   margin: 0.5em 0;
   background-color: #f6f6f6;
 }
+.description{
+  font-weight: 300;
+  font-size: 21px;
+  margin-top: 0;
+  margin-bottom: 2em;
+}
+
+main blockquote {
+  background: #ccccdd22;
+  margin: 0 1em;
+  padding: 0.5em 1em;
+  padding-right: 2em;
+  font-style: italic;
+  
+  font-size: 16px;
+}
+.post ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.post li {
+  padding-left: 1em;
+  text-indent: -1em;
+}
+
+.post li:before {
+  content: "–";
+  padding-right: 5px;
+}
+
 .highlight-line {
   display: block;
   padding: 0.125em 1em;
@@ -156,18 +192,24 @@ pre {
   text-decoration: none;
 }
 
+
+
 /* Nav */
 .nav {
   padding: 0;
   list-style: none;
   float: right;
+  position: relative;
+  top: 15px;
   font-weight: bold;
 
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
 }
 .nav-item {
   display: inline-block;
   margin-left: 1em;
+
 }
 .nav-item a[href]:not(:hover) {
   text-decoration: none;
@@ -183,26 +225,49 @@ pre {
   padding: 0;
 }
 .postlist-item {
-  counter-increment: start-from -1;
+  /* counter-increment: start-from -1; */
+  display: block;
+  padding: 0;
+  //margin-bottom: 0.2em;
 }
 .postlist-item:before {
   display: inline-block;
   pointer-events: none;
-  content: "" counter(start-from, decimal-leading-zero) ". ";
+  /* content: "" counter(start-from, decimal-leading-zero) ". "; */
   line-height: 100%;
   text-align: right;
 }
 .postlist-date,
 .postlist-item:before {
-  font-size: 0.8125em; /* 13px /16 */
+  /* font-size: 0.8125em; 13px /16 */
   color: var(--darkgray);
 }
 .postlist-date {
   word-spacing: -0.5px;
+  display: inline-block;
+  width: 70px;
+  margin-left: -70px;
+  text-align: right;
+  padding: 10px;
+  font-size: 14px;
 }
+@media only screen and (max-width: 720px) {
+  .postlist-date {
+    margin-left: 0px;
+  }
+}
+
 .postlist-link {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
   display: inline-block;
   padding: 0.25em 0.1875em; /* 4px 3px /16 */
+  padding-left: 0;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: -5px;
 }
 .postlist-item-active .postlist-link {
   font-weight: bold;
@@ -214,7 +279,8 @@ pre {
 
 /* Tags */
 .tag {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
   font-weight: bold;
   display: inline-block;
   vertical-align: text-top;
@@ -243,7 +309,8 @@ a[href].tag:visited {
 
 /* Direct Links / Markdown Headers */
 .direct-link {
-  font-family: sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
   text-decoration: none;
   font-style: normal;
   margin-left: 0.1em;
@@ -257,4 +324,27 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
   color: #aaa;
+}
+
+
+a{
+  display: inline !important;
+}
+
+footer{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background: var(--red);
+  position: absolute;
+  margin-top: 40px;
+   left: 0;
+  right: 0;
+  display: block;
+  padding: 20px 10px;
+}
+footer a{
+  text-decoration: none;
+}
+.post{
+  display: block;
+  min-height: calc(100vh - 150px);
 }
