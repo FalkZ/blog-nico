@@ -365,6 +365,6 @@ footer a{
   min-height: calc(100vh - 150px);
 }
 
-main, p, a, li, blockquote{
+main, p, li, blockquote{
   font-size: 18px;
 }
