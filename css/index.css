@@ -59,7 +59,7 @@ img {
 } */
 p,
 .tmpl-post li {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.45;
   letter-spacing: 0.01em;
 }
@@ -134,7 +134,7 @@ main blockquote {
   padding-right: 2em;
   font-style: italic;
   
-  font-size: 16px;
+  font-size: 18px;
 }
 .post ul {
   list-style: none;
@@ -363,4 +363,8 @@ footer a{
 .post{
   display: block;
   min-height: calc(100vh - 150px);
+}
+
+main, p, a, li, blockquote{
+  font-size: 18px;
 }
