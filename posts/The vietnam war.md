@@ -17,6 +17,10 @@ layout: layouts/post.njk
 
 
 ## Ground war
+
+The offensive of the US started on the 8th of March 1965.
+3500 troops were deployed in South Vietnam in zhe near od Da Nang.
+
 ![dfgfg](/img/1570290412_71718475_3100852099929071_1513491160226594816_n.jpg)
 
 
