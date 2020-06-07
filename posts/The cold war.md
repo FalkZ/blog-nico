@@ -1,5 +1,5 @@
 ---
-title: The cold war.
+title: The vietnam war.
 description: The Vietnam war happened between 1955 to 1975. It was a horrific scenario for all members of the war and for the civil population. 
 date: 2020-06-07
 tags:
