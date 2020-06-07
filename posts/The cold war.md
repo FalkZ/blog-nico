@@ -1,6 +1,6 @@
 ---
 title: The cold war.
-description: This is a post on My Blog about touchpoints and circling wagons.
+description: The Vietnam war happened between 1955 to 1975. It was a horrific scenario for all members of the war and for the civil population. 
 date: 2020-06-07
 tags:
   - second-tag
