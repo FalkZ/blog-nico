@@ -24,7 +24,7 @@ layout: layouts/post.njk
 
 #### Header 4
 
-> Blockquote
+
 > "The bastards have never been bombed like they’re going to be bombed this time"
 
 - Richard Nixon
