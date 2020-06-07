@@ -1,7 +1,7 @@
 ---
-title: This is my fourth post.
+title: The cold war.
 description: This is a post on My Blog about touchpoints and circling wagons.
-date: 2018-09-30
+date: 2020-06-07
 tags:
   - second-tag
   - second-t
@@ -18,6 +18,7 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 
 dkfdsja
 
+![dfgfg](/img/1570290412_71718475_3100852099929071_1513491160226594816_n.jpg)
 # Header 1
 
 ## Header 2
