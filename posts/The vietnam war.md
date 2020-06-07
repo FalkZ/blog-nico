@@ -22,6 +22,9 @@ layout: layouts/post.njk
 
 ## Chemical warfare
 
+The operation was called "Ranch Hand" they used chemicals with the codename Agent Orange.
+The american's spread tons of defoliants over the vietnamese Jungle, to be accurate it was 80 million tons of Agent Orange produced by Monsanto and Dow Chemical. Monsanto was an American agrochemical and agricultural biotechnology corporation founded in 1901 and Dow Chemical is among the three largest chemical producers in the world.
+
 ### Header 3
 
 #### Header 4
