@@ -1,9 +1,9 @@
 {
   "title": "Die Weltkunde",
   "url": "https://myurl.com/",
-  "description": "Berichte",
+  "description": "Übersicht",
   "feed": {
-    "subtitle": "Berichte",
+    "subtitle": "Übersicht",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://myurl.com/"
