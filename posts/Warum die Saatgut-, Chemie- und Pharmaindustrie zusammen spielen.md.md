@@ -1,5 +1,5 @@
 ---
-title: Barbapapa
+title: Warum die Saatgut-, Chemie- und Pharmaindustrie zusammen spielen.md
 description: This is a post on My Blog about leveraging agile frameworks.
 date: 2020-06-08
 tags:
