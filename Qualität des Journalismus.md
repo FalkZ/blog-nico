@@ -1,6 +1,6 @@
 ---
 title: Qualität des Journalismus.
-description: This is a post on My Blog about agile frameworks.
+description: Laut einer Untersuchung des Vereins Medienqualität Schweiz sinkt die Qualität von Berichten stetig. Wieso?
 date: 2018-05-01
 tags:
   - another-tag
