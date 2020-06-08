@@ -1,7 +1,7 @@
 ---
 title: Der Kampf um Wasser.
 description: This is a post on My Blog about win-win survival strategies.
-date: 2018-08-24
+date: 2020-06-08
 tags:
   - second-tag
 layout: layouts/post.njk
