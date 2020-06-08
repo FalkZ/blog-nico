@@ -1,10 +1,6 @@
 ---
 title: Wie Umweltfreundlich ist der Tesla wirklich?.
-description: >
-  This is a post on My Blog about touchpoints and circling wagons.
-  jasdffdsalkj
-  sdsdsf dssjfdsfdsdf
-  sdfas
+description:
 date: 2018-09-30
 tags:
   - second-tag
