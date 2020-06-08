@@ -1,9 +1,9 @@
 {
   "title": "Die Weltkunde",
   "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a navel-gazer.",
+  "description": "Berichte",
   "feed": {
-    "subtitle": "I am writing about my experiences as a navel-gazer.",
+    "subtitle": "Berichte",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://myurl.com/"
