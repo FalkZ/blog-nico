@@ -231,7 +231,16 @@ main blockquote {
 
 .block{
   display: inline-block;
+
 }
+
+@media only screen and (max-width: 720px) {
+  .block {
+    max-width: calc(100% - 100px);
+  }
+}
+
+
 /* Posts list */
 .postlist {
   list-style: none;
@@ -265,6 +274,9 @@ main blockquote {
   padding-top: 0;
   font-size: 14px;
   vertical-align: top;
+  float: left;
+  display: block;
+  padding-top: 2px;
 }
 @media only screen and (max-width: 720px) {
   .postlist-date {
@@ -289,7 +301,6 @@ img{
 .postlist-link {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
-  display: inline-block;
   padding: 0.25em 0.1875em; /* 4px 3px /16 */
   padding-left: 0;
   text-decoration: none;
@@ -316,10 +327,10 @@ padding: 10px 0;
 
 
 }
-@media only screen and (max-width: 720px) {.tags{
+.tags{
   display: block;
   min-width: 50%;
-  }}
+  }
 
 .tag {
   vertical-align: top;
