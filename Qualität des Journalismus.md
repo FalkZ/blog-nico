@@ -1,6 +1,6 @@
 ---
 title: Qualität des Journalismus.
-description: Laut einer Untersuchung des Vereins Medienqualität Schweiz sinkt die Qualität von Berichten stetig. Wieso?
+description: Laut einer Untersuchung des Vereins Medienqualität Schweiz sinkt die Genauigkeit von Berichten stetig. Wieso?
 date: 2018-05-01
 tags:
   - another-tag
