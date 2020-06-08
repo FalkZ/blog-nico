@@ -1,5 +1,5 @@
 ---
-title: This is my second post.
+title: Warum die Saatgut-, Chemie- und Pharmaindustrie zusammen spielen.
 description: This is a post on My Blog about leveraging agile frameworks.
 date: 2018-07-04
 tags:
