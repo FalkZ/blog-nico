@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post
+---
+
+<span class="post about">
+
+<h2 class="description">{{ description }}</h2>
+
+{{ content | safe }}
+
+
+</span>
+<footer>
+    <a href="{{ '/' | url }}">← Home</a>
+    <a href="{{ '/posts/The%20cold%20war/' }}" style="float: right">Diese Webseite verwendet keine Cookies</a>
+</footer>
