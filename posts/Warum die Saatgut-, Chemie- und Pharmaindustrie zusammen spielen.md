@@ -1,5 +1,5 @@
 ---
-title: Warum die Saatgut-, Chemie- und Pharmaindustrie zusammen spielen.md
+title: Warum die Saatgut-, Chemie- und Pharmaindustrie zusammen spielen.
 description: This is a post on My Blog about leveraging agile frameworks.
 date: 2020-06-08
 tags:
