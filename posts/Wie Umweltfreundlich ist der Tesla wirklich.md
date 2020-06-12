@@ -1,7 +1,7 @@
 ---
 title: Wie Umweltfreundlich ist der Tesla wirklich? [In progress]
 description:
-date: 2018-09-30
+date: 2020-06-12
 tags:
   - Technik
   - Industrie
