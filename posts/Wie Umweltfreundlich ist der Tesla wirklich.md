@@ -3,32 +3,34 @@ title: Wie Umweltfreundlich ist der Tesla wirklich? [In progress]
 description:
 date: 2018-09-30
 tags:
-  - second-tag
-  - second-t
+  - Technik
+  - Industrie
 layout: layouts/post.njk
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## Der Akku
 
-## Section Header
+Um mit diesem kontroversem Thema zu beginnen fange ich am besten bei dem Akku eines Elektrofahrzeugs an. Ganz kurz zum Aufbau eines Akkus: Dieser besteht aus einer Kathode, Anode und einem Elektrolyt. Wobei der Minus Pol die Kathode ist und meist aus Grafit besteht. Die Anode ist die Positive Elektrode und besteht meist aus Kobalt. Der letzte Teil ist der Elektrolyt aus Lithium. Der Elektrolyt ist nicht mit einem anderen Material ersetzbar oder bisher nicht. Nehmen wir die einzelnen Materialien auseinander.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+# Kathode -
+## Material
+## Ressource Länderanteil
+## Herstellung
+## Gesundheitsrisiko
 
-dkfdsja
+# Anode +
+## Material 
+## Ressource Länderanteil
+## Herstellung
+## Gesundheitsrisiko
 
-# Header 1
+# Elektrolyt
+## Material 
+## Ressource Länderanteil
+## Herstellung
+## Gesundheitsrisiko
 
-## Header 2
-
-### Header 3
-
-#### Header 4
 
 > Blockquote
 > dlksjfas
-
-- Mahatma Ghandi
-
-test
