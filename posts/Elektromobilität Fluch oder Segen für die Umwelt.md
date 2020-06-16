@@ -75,10 +75,28 @@ Pflanzen, die auf mit Kobalt kontaminierten Böden wachsen, reichern es in klein
 
 -Lenntech.de
 ## Elektrolyt - Lithium
+Bisher ist der Elektrolyt Lithium nicht ersetzbar für einen Akku, also wird die ganze Elektrofahrzeugbranche abhänging von diesem Rohstoff sein.
 ### Produktionsländer
-### Herstellung
-### Gesundheitsrisiko
+Hier wird unterteilt in Sole oder Festgestein des Lithium Vorkommens. Das sogenannte Länderdreieck Bolivien, Argentinien und Chile handelt mit dem Sole Vorkommen ihrer Salzseen und macht 70% der weltweiten Solevorkommen aus. Danach folgen die USA. Wenn es um den Abbau von Festgestein geht, dann sind die Länder Australien, China, Brasilien, Portugal und Zimbabwe die Vorreiter. Die Produktion, Handel und Vorkommen fallen hier sehr unterschiedlich aus, deshalb habe ich in Produktion und das Vorkommen unterteilt. Die grössten Händler von Lithium sind eindeutig China und die USA. Produktion und Vorkommen habe ich in den folgenden Diagrammen aufgelistet.
 
+(DIAGRAMM)
+
+(DIAGRAMM)
+
+### Herstellung
+>Die Sole wird in zirka 200 bis 400 Meter Tiefe unter den Salzseen Boliviens, Argentiniens und Chile aufgefunden, wobei sich das Festgestein in Minen befindet.
+Der Salzsee Boliviens, Salar de Uyuni, ist der grösste der Welt. Als Chemiker herausfanden, dass sich in diesem Salzsee mehr als nur Kochsalz verbirgt, versuchte Evo Morales die Lithiumgewinnung aus eigener Kraft zu stemmen. Viele internationale Firmen boten der Regierung Handelsverträge an, wie in Argentinien und Chile, wo der Abbau bereits floriert.
+Laut dem NZZ lud Evo Morales 8 internationale Konsorten ein. «Was er unter allen Umständen verhindern wollte, war ein Vertrag mit einem ausländischen Unternehmen, das lediglich am Verkauf des Rohstoffs interessiert wäre.“
+
+-NZZ
+
+2018 handelte Bolivien einen Vertrag mit der deutschen Firma ACI Systems aus, wobei es sich um ein Joint Venture Projekt zwischen Staat- und Privatem Unternehmen handelt. Bolivien besitzt 51% Anteil am Unternehmen und ist somit der Besitzer der Firma. Im Jahr 2022 sollen über 40‘000 zusätzliche Tonnen Lithium aus dem See gewonnen werden.
+2020 jedoch gab es mehrere Demonstrationen der Zivilbevölkerung gegen den Abbau. Die Demonstranten haben ihre Position klar ausgesprochen. Sie wollen keine Internationalen Firmen die die Bodenschätze Boliviens ausrauben. Die Regierung annullierte das Abkommen mit ACI Systems. Eine offizielle Begründung wurde nicht bekannt gegeben. Ob es eine Verbindung zwischen den Demonstrationen und dem Entscheid Evo’s gibt, ist nicht bekannt.
+
+### Gesundheitsrisiko
+(.IMG)
+Gemäß Carl Roth sind folgende Sicherheitsmaßnahmen einzuhalten unter den entsprechenden Umständen:
+Auch hier ist ein Hautschutz sowie Augenschutz zu verwenden und bei Staubpartikeln wird ein Partikelschutz von mindestens. 94% benötigt. Bei Augenkontakt ist mit starken Augenreizungen zu rechnen. Sonst gibt es keine spezifischen Angaben über die Toxizität.
 
 > Blockquote
 > dlksjfas
