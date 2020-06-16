@@ -17,6 +17,7 @@ Kathode – Graphit
 ## Kathode - Graphit
 ### Produktionsländer
 China dominiert den Weltmarkt von Graphit mit einem Anteil von 68%. Ein zunehmend wichtiges Material, da man von einem Wachstum von Elektrofahrzeugen ausgeht.
+
 (DIAGRAMM.IMG)
 ### Herstellung
 Viele Graphit Minen wurden stillgelegt und das Graphit hat an Wert verloren. Durch die Elektroauto Branche stieg die Nachfrage enorm. Wie zum Beispiel die Kropfmühl AG in Niederbayern, die deshalb am 21. Juni 2012 wieder geöffnet wurde.
@@ -25,7 +26,9 @@ Graphit ist als nicht toxisch einzustufen. Staubpartikel sind gefährlich für d
 
 ## Anode - Kobalt
 ### Produktionsländer
+
 (DIAGRAMM.IMG)
+
 ### Herstellung
 Die Herstellung ist verrufen, da 64% des Kobalts aus dem Kongo stammt und unter sehr schlechten Bedingungen abgebaut. Kinderarbeit in den Minen und bereits mehrere tödliche Unfälle wurden bestätigt. CBS war live vor Ort und bestätigte, dass über 10‘000 etwa 10 Jährige Kinder ohne Sicherheitsvorkehrungen arbeiteten. In den Minen wird es abgebaut und in Flüssen sauber gewaschen. Danach wird es in verschiedenen Seidensäcken, meist von Hand oder mit provisorischen Fortbewegungsmittel transportiert. Die Säcke werden nicht angeschrieben und Kobalt ist nicht das einzige Produkt, welches aus den Minen abgebaut wird. So ist eine Verfolgung sehr schwer nachzuvollziehen. Die Reporterin, Debora Patta und ihr Team vom Nachrichten Sender CBS filmte die Szene vor Ort und befragte einen chinesischen Käufer, an welche Firma das Kobalt geliefert werde. Dieser jedoch antwortete nur, das Kobalt sei rein. Einheimische erzählten ihr von einer chinesischen Firma Namens Congo Dong Fang Mining. CDM gehört Huayou, laut offizieller Aussage hat Huayou seit 2017 nichts mehr mit diesem Markt zu tun. Aber nicht nur Huayou sondern, alle Firmen die Akkus benötigen, beziehen das Kobalt größtenteils von diesem Markt. Betroffene Firmen geben die Probleme zu sagen aber, sie bräuchten Unterstützer um verantwortungsvolle Beschaffungsrechtlinien einzuführen. Der Wohltätigkeitsverein „Good Shepard Project“ hilft vor Ort, um Kinder von den Minen abzubringen und die Möglichkeit auf Bildung gewährt. Nachdem es öffentlich wurde, dass, Congo Don Fang Kinderarbeit in der Kobalt Beschaffung miteinschließt, spendete CDM US$71‘000. Der Betrag ist jedoch kläglich wenn man berücksichtigt, dass die Firma alleine mit dem Markt dort, einen jährlichen Umsatz von über 100 Millionen US Dollar erzielt.
 
@@ -52,6 +55,7 @@ Auch Tesla meldete sich, Sie sind seit 2018 auf der Suche nach einer effektivere
 4.	Wolfram
 5.	jegliche Derivate der genannten Rohstoffe.
 >Diese Richtlinie verfolgt das Ziel, sicherzustellen, dass Produkte von Tesla weder direkt noch indirekt bewaffnete Gruppen finanzieren oder Gruppen zugutekommen, die sich durch den Bergbau oder den >Mineralienhandel in der Demokratischen Republik Kongo oder einem angrenzenden Land bereichern.“
+
 -Tesla
 
 ### Die Meinung von Amnesty
