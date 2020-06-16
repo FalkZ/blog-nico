@@ -52,9 +52,25 @@ Auch Tesla meldete sich, Sie sind seit 2018 auf der Suche nach einer effektivere
 4.	Wolfram
 5.	jegliche Derivate der genannten Rohstoffe.
 
-Diese Richtlinie verfolgt das Ziel, sicherzustellen, dass Produkte von Tesla weder direkt noch indirekt bewaffnete Gruppen finanzieren oder Gruppen zugutekommen, die sich durch den Bergbau oder den Mineralienhandel in der Demokratischen Republik Kongo oder einem angrenzenden Land bereichern.“
+Diese Richtlinie verfolgt das Ziel, sicherzustellen, dass Produkte von Tesla weder direkt noch indirekt bewaffnete Gruppen finanzieren oder Gruppen zugutekommen, die sich durch den Bergbau oder den >Mineralienhandel in der Demokratischen Republik Kongo oder einem angrenzenden Land bereichern.“
 
+### Die Meinung von Amnesty
+
+> „Time to Recharge untersucht die Fortschritte, die Huayou Cobalt und 28 weitere Unternehmen ge-macht haben, seit sie mit dem Vorwurf der Kinderarbeit im Januar 2016 konfrontiert wurden. Dabei zeigt sich: Keines der Unternehmen unternimmt angemessene Schritte, um internationale Standards tatsächlich zu befolgen. Und das, obwohl alle 29 Unternehmen über die Menschenrechtsrisiken und die Missbrauchsfälle informiert wurden.
+Deshalb hat Amnesty International in der Schweiz gemeinsam mit 70 weiteren Organisationen die Kon-zernverantwortungsinitiative lanciert. Ziel dieser Initiative ist es, verbindliche Regeln für Konzerne zum Schutz von Mensch und Umwelt zu schaffen – auch bei Auslandstätigkeiten. Die Sorgfaltsprüfungspflicht ist ein zentrales Element, um im wirtschaftlichen Wettbewerb auch mehr Fairness zu schaffen. Denn ein grosser Teil der Schweizer Unternehmen handelt schon heute vorbildlich und soll gegenüber skrupello-sen Konkurrenten nicht länger benachteiligt bleiben.
+Liste der angefragten Firmen:
+Ahong, Apple, BYD, Daimler, Dell, HP, Huawei, Inventec, Lenovo, LG, Microsoft, Samsung, Sony, Voda-fone, >Volkswagen und ZTE.“
 ### Gesundheitsrisiko
+(.IMG) (.IMG2) (.IMG3)
+Gemäß Carl Roth sind folgende Sicherheitsmaßnahmen einzuhalten unter den entsprechenden Umstände.
+Es ist immer einen Hautschutz zu verwenden wie auch ein Augen- oder Gesichtsschutz. Erholungsphasen zur Regeneration der Haut sind einzulegen. Bei Staubentwicklung ist ein Partikelfiltergerät vorgeschrieben, dessen Filter mindestens 99.95% der Partikel absorviert.
+Das Einatmen oder der Hautkontakt kann die Fruchtbarkeit beeinträchtigen, Krebs erzeugen und vermutlich genetische Defekte verursachen. Beim Einatmen können Atembeschwerden bis Atemnot eintreffen. Es wirkt aggressiv auf Niere, Herz, die Bauchspeicheldrüse und führt zu Blutdruckabfall.
+Ist sehr giftig für Wasserorganismen.
+
+>„So schädigt das Einatmen hoher Konzentrationen die Lunge, Asthma und Lungenentzündungen können eintreten. Zur gefährdeten Personengruppe zählen vor allem Arbeiter, die mit Kobalt hantieren müssen. 
+Pflanzen, die auf mit Kobalt kontaminierten Böden wachsen, reichern es in kleinen Partikeln an- Haupt-sächlich in den Teilen, die gegessen werden, wie in Früchten und Samen. Stark kontaminiert sind meist >Böden in der Nähe von Bergbau- und Schmelzwerken. 
+
+-Lenntech.de
 ## Elektrolyt - Lithium
 ### Produktionsländer
 ### Herstellung
