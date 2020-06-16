@@ -46,13 +46,14 @@ Bereits zeigen sich Reaktionen wenn auch wenige. Laut „international rights ad
 Auch Tesla meldete sich, Sie sind seit 2018 auf der Suche nach einer effektiveren und nachhaltigeren Lösung für den Akku. Anfangs 2020 wurde bekannt, dass Tesla gemeinsam mit dem chinesischen Batteriehersteller CATL eine Möglichkeit sucht, die Produktion von Lithium-Eisenphosphat-Batterien zu ermöglichen. Über das Konfliktmaterial Kobalt äusserte sich die Firma im Impact Report.
 
 > „Teslas Zulieferer müssen alle zumutbaren Anstrengungen unternehmen, um sicherzustellen, dass an Tesla gelieferte Teile und Produkte „konfliktfrei“ in Bezug auf die Demokratische Republik Kongo sind. Das bedeutet, dass solche Konfliktrohstoffe keine bewaffneten Gruppen in der Demokratischen Republik Kongo begünstigen dürfen. Konfliktfrei bedeutet hier, dass solche Teile und Lieferungen keine Metalle enthalten, die aus „Konfliktrohstoffen“ hergestellt wurden. Diese werden wie folgt definiert:
-1. 	Columbo-Tantalit (Tantal)
+>1. 	Columbo-Tantalit (Tantal)
 2. 	Kassiterit (Zinnstein)
 3. 	Gold
 4.	Wolfram
 5.	jegliche Derivate der genannten Rohstoffe.
 
-Diese Richtlinie verfolgt das Ziel, sicherzustellen, dass Produkte von Tesla weder direkt noch indirekt bewaffnete Gruppen finanzieren oder Gruppen zugutekommen, die sich durch den Bergbau oder den >Mineralienhandel in der Demokratischen Republik Kongo oder einem angrenzenden Land bereichern.“
+>Diese Richtlinie verfolgt das Ziel, sicherzustellen, dass Produkte von Tesla weder direkt noch indirekt bewaffnete Gruppen finanzieren oder Gruppen zugutekommen, die sich durch den Bergbau oder den >Mineralienhandel in der Demokratischen Republik Kongo oder einem angrenzenden Land bereichern.“
+-Tesla
 
 ### Die Meinung von Amnesty
 
@@ -60,6 +61,7 @@ Diese Richtlinie verfolgt das Ziel, sicherzustellen, dass Produkte von Tesla wed
 Deshalb hat Amnesty International in der Schweiz gemeinsam mit 70 weiteren Organisationen die Kon-zernverantwortungsinitiative lanciert. Ziel dieser Initiative ist es, verbindliche Regeln für Konzerne zum Schutz von Mensch und Umwelt zu schaffen – auch bei Auslandstätigkeiten. Die Sorgfaltsprüfungspflicht ist ein zentrales Element, um im wirtschaftlichen Wettbewerb auch mehr Fairness zu schaffen. Denn ein grosser Teil der Schweizer Unternehmen handelt schon heute vorbildlich und soll gegenüber skrupello-sen Konkurrenten nicht länger benachteiligt bleiben.
 Liste der angefragten Firmen:
 Ahong, Apple, BYD, Daimler, Dell, HP, Huawei, Inventec, Lenovo, LG, Microsoft, Samsung, Sony, Voda-fone, >Volkswagen und ZTE.“
+-Amnesty International
 ### Gesundheitsrisiko
 (.IMG) (.IMG2) (.IMG3)
 Gemäß Carl Roth sind folgende Sicherheitsmaßnahmen einzuhalten unter den entsprechenden Umstände.
