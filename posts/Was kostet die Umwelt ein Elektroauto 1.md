@@ -8,8 +8,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-
-# Was kostet die Umwelt ein Elektrofahrzeug wirklich?
 Um mit diesem kontroversen Thema zu beginnen fange ich am besten bei dem Akku eines Elektrofahrzeugs an. Ganz kurz zum Aufbau eines Akkus: Dieser besteht aus einer Kathode, Anode und einem Elektrolyten. Bei einem Elektrofahrzeug handelt es sich um einen lithiumbasierten Akku. Hier besteht der Minus Pol also die Kathode meist aus Grafit. Die Anode ist die positive Elektrode und besteht aus Kobalt. Der letzte Teil ist der Elektrolyt aus Lithium. Der Elektrolyt ist nicht mit einem anderen Material ersetzbar oder bisher noch nicht. Nehmen wir die einzelnen Materialien auseinander.
 Kathode – Graphit
 
