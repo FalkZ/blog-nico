@@ -16,7 +16,7 @@ Kathode – Graphit
 ### Produktionsländer
 China dominiert den Weltmarkt von Graphit mit einem Anteil von 68%. Ein zunehmend wichtiges Material, da man von einem Wachstum von Elektrofahrzeugen ausgeht.
 
-(DIAGRAMM.IMG)
+(/img/Graphit.jpg)
 ### Herstellung
 Viele Graphit Minen wurden stillgelegt und das Graphit hat an Wert verloren. Durch die Elektroauto Branche stieg die Nachfrage enorm. Wie zum Beispiel die Kropfmühl AG in Niederbayern, die deshalb am 21. Juni 2012 wieder geöffnet wurde.
 ### Gesundheitsrisiko
@@ -25,7 +25,8 @@ Graphit ist als nicht toxisch einzustufen. Staubpartikel sind gefährlich für d
 ## Anode - Kobalt
 ### Produktionsländer
 
-(DIAGRAMM.IMG)
+(/img/Kobalt.jpg)
+
 
 ### Herstellung
 Die Herstellung ist verrufen, da 64% des Kobalts aus dem Kongo stammt und unter sehr schlechten Bedingungen abgebaut. Kinderarbeit in den Minen und bereits mehrere tödliche Unfälle wurden bestätigt. CBS war live vor Ort und bestätigte, dass über 10‘000 etwa 10 Jährige Kinder ohne Sicherheitsvorkehrungen arbeiteten. In den Minen wird es abgebaut und in Flüssen sauber gewaschen. Danach wird es in verschiedenen Seidensäcken, meist von Hand oder mit provisorischen Fortbewegungsmittel transportiert. Die Säcke werden nicht angeschrieben und Kobalt ist nicht das einzige Produkt, welches aus den Minen abgebaut wird. So ist eine Verfolgung sehr schwer nachzuvollziehen. Die Reporterin, Debora Patta und ihr Team vom Nachrichten Sender CBS filmte die Szene vor Ort und befragte einen chinesischen Käufer, an welche Firma das Kobalt geliefert werde. Dieser jedoch antwortete nur, das Kobalt sei rein. Einheimische erzählten ihr von einer chinesischen Firma Namens Congo Dong Fang Mining. CDM gehört Huayou, laut offizieller Aussage hat Huayou seit 2017 nichts mehr mit diesem Markt zu tun. Aber nicht nur Huayou sondern, alle Firmen die Akkus benötigen, beziehen das Kobalt größtenteils von diesem Markt. Betroffene Firmen geben die Probleme zu sagen aber, sie bräuchten Unterstützer um verantwortungsvolle Beschaffungsrechtlinien einzuführen. Der Wohltätigkeitsverein „Good Shepard Project“ hilft vor Ort, um Kinder von den Minen abzubringen und die Möglichkeit auf Bildung gewährt. Nachdem es öffentlich wurde, dass, Congo Don Fang Kinderarbeit in der Kobalt Beschaffung miteinschließt, spendete CDM US$71‘000. Der Betrag ist jedoch kläglich wenn man berücksichtigt, dass die Firma alleine mit dem Markt dort, einen jährlichen Umsatz von über 100 Millionen US Dollar erzielt.
@@ -66,7 +67,7 @@ Ahong, Apple, BYD, Daimler, Dell, HP, Huawei, Inventec, Lenovo, LG, Microsoft, S
 -Amnesty International
 
 ### Gesundheitsrisiko
-(.IMG) (.IMG2) (.IMG3)
+(/img/gesundheitsschaedigend.jpg) (/img/vorsicht.jpg) (/img/gewaessergefaehrdend.jpg)
 Gemäß Carl Roth sind folgende Sicherheitsmaßnahmen einzuhalten unter den entsprechenden Umstände.
 Es ist immer einen Hautschutz zu verwenden wie auch ein Augen- oder Gesichtsschutz. Erholungsphasen zur Regeneration der Haut sind einzulegen. Bei Staubentwicklung ist ein Partikelfiltergerät vorgeschrieben, dessen Filter mindestens 99.95% der Partikel absorviert.
 Das Einatmen oder der Hautkontakt kann die Fruchtbarkeit beeinträchtigen, Krebs erzeugen und vermutlich genetische Defekte verursachen. Beim Einatmen können Atembeschwerden bis Atemnot eintreffen. Es wirkt aggressiv auf Niere, Herz, die Bauchspeicheldrüse und führt zu Blutdruckabfall.
@@ -81,9 +82,9 @@ Bisher ist der Elektrolyt Lithium nicht ersetzbar für einen Akku, also wird die
 ### Produktionsländer
 Hier wird unterteilt in Sole oder Festgestein des Lithium Vorkommens. Das sogenannte Länderdreieck Bolivien, Argentinien und Chile handelt mit dem Sole Vorkommen ihrer Salzseen und macht 70% der weltweiten Solevorkommen aus. Danach folgen die USA. Wenn es um den Abbau von Festgestein geht, dann sind die Länder Australien, China, Brasilien, Portugal und Zimbabwe die Vorreiter. Die Produktion, Handel und Vorkommen fallen hier sehr unterschiedlich aus, deshalb habe ich in Produktion und das Vorkommen unterteilt. Die grössten Händler von Lithium sind eindeutig China und die USA. Produktion und Vorkommen habe ich in den folgenden Diagrammen aufgelistet.
 
-(DIAGRAMM)
+(/img/Lithium.jpg)
 
-(DIAGRAMM)
+(/img/Lithiumvorkommen.jpg)
 
 ### Herstellung
 >Die Sole wird in zirka 200 bis 400 Meter Tiefe unter den Salzseen Boliviens, Argentiniens und Chile aufgefunden, wobei sich das Festgestein in Minen befindet.
@@ -96,6 +97,6 @@ Laut dem NZZ lud Evo Morales 8 internationale Konsorten ein. «Was er unter alle
 2020 jedoch gab es mehrere Demonstrationen der Zivilbevölkerung gegen den Abbau. Die Demonstranten haben ihre Position klar ausgesprochen. Sie wollen keine Internationalen Firmen die die Bodenschätze Boliviens ausrauben. Die Regierung annullierte das Abkommen mit ACI Systems. Eine offizielle Begründung wurde nicht bekannt gegeben. Ob es eine Verbindung zwischen den Demonstrationen und dem Entscheid Evo’s gibt, ist nicht bekannt.
 
 ### Gesundheitsrisiko
-(.IMG)
+(/img/vorsicht.jpg)
 Gemäß Carl Roth sind folgende Sicherheitsmaßnahmen einzuhalten unter den entsprechenden Umständen:
 Auch hier ist ein Hautschutz sowie Augenschutz zu verwenden und bei Staubpartikeln wird ein Partikelschutz von mindestens. 94% benötigt. Bei Augenkontakt ist mit starken Augenreizungen zu rechnen. Sonst gibt es keine spezifischen Angaben über die Toxizität.
