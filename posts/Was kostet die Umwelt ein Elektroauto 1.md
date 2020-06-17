@@ -16,7 +16,7 @@ Kathode – Graphit
 ### Produktionsländer
 China dominiert den Weltmarkt von Graphit mit einem Anteil von 68%. Ein zunehmend wichtiges Material, da man von einem Wachstum von Elektrofahrzeugen ausgeht.
 
-! [sfg](/img/Graphit.png)
+[](/img/Graphit.png)
 ### Herstellung
 Viele Graphit Minen wurden stillgelegt und das Graphit hat an Wert verloren. Durch die Elektroauto Branche stieg die Nachfrage enorm. Wie zum Beispiel die Kropfmühl AG in Niederbayern, die deshalb am 21. Juni 2012 wieder geöffnet wurde.
 ### Gesundheitsrisiko
