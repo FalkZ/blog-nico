@@ -3,7 +3,8 @@ title: Was kostet die Umwelt ein Elektroauto? (Teil 2)
 description: This is a post on My Blog about leveraging agile frameworks.
 date: 2020-06-08
 tags:
-  - number-2
+  - Technik
+  - Industrie
 layout: layouts/post.njk
 ---
 
