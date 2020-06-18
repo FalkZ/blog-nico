@@ -109,11 +109,13 @@ Hier wird unterteilt in Sole oder Festgestein des Lithium Vorkommens. Das sogena
 
 ### Herstellung
 
-> Die Sole wird in zirka 200 bis 400 Meter Tiefe unter den Salzseen Boliviens, Argentiniens und Chile aufgefunden, wobei sich das Festgestein in Minen befindet.
-> Der Salzsee Boliviens, Salar de Uyuni, ist der grösste der Welt. Als Chemiker herausfanden, dass sich in diesem Salzsee mehr als nur Kochsalz verbirgt, versuchte Evo Morales die Lithiumgewinnung aus eigener Kraft zu stemmen. Viele internationale Firmen boten der Regierung Handelsverträge an, wie in Argentinien und Chile, wo der Abbau bereits floriert.
-> Laut dem NZZ lud Evo Morales 8 internationale Konsorten ein. «Was er unter allen Umständen verhindern wollte, war ein Vertrag mit einem ausländischen Unternehmen, das lediglich am Verkauf des Rohstoffs interessiert wäre.“
+Die Sole wird in zirka 200 bis 400 Meter Tiefe unter den Salzseen Boliviens, Argentiniens und Chile aufgefunden, wobei sich das Festgestein in Minen befindet.
+>„Für die Erzeugung von Lithium wird das stark mineralhaltige Grundwasser (die Salzlake) zum gezielten Verdunsten in riesige künstlich angelegte Becken gepumpt. Durch zahlreiche Verdunstungsschritte ist es möglich, die benötigte Konzentration an Lithium zu erreichen, um Lithium-Karbonat zu erzeugen, welches weiterverarbeitet wird. Neben Lithium kann auch Kaliumchlorid mit diesem Verfahren gewonnen werden. Je nach Abbaugebiet ist das Haupterzeugnis Lithium und das Nebenprodukt Kalium oder umgekehrt.“
 
-- NZZ
+-Global2000.at
+
+Der Salzsee Boliviens, Salar de Uyuni, ist der grösste der Welt. Als Chemiker herausfanden, dass sich in diesem Salzsee mehr als nur Kochsalz verbirgt, versuchte Evo Morales die Lithiumgewinnung aus eigener Kraft zu stemmen. Viele internationale Firmen boten der Regierung Handelsverträge an, wie in Argentinien und Chile, wo der Abbau bereits floriert.
+Laut dem NZZ lud Evo Morales 8 internationale Konsorten ein. «Was er unter allen Umständen verhindern wollte, war ein Vertrag mit einem ausländischen Unternehmen, das lediglich am Verkauf des Rohstoffs interessiert wäre.“
 
 2018 handelte Bolivien einen Vertrag mit der deutschen Firma ACI Systems aus, wobei es sich um ein Joint Venture Projekt zwischen Staat- und Privatem Unternehmen handelt. Bolivien besitzt 51% Anteil am Unternehmen und ist somit der Besitzer der Firma. Im Jahr 2022 sollen über 40‘000 zusätzliche Tonnen Lithium aus dem See gewonnen werden.
 2020 jedoch gab es mehrere Demonstrationen der Zivilbevölkerung gegen den Abbau. Die Demonstranten haben ihre Position klar ausgesprochen. Sie wollen keine Internationalen Firmen die die Bodenschätze Boliviens ausrauben. Die Regierung annullierte das Abkommen mit ACI Systems. Eine offizielle Begründung wurde nicht bekannt gegeben. Ob es eine Verbindung zwischen den Demonstrationen und dem Entscheid Evo’s gibt, ist nicht bekannt.
