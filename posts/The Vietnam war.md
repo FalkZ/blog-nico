@@ -4,7 +4,7 @@ description: The Vietnam war happened between 1955 and 1975. It was a horrific s
 date: 2020-06-07
 tags:
   - Konflikte
-  - second-t
+  - Geschichte
 layout: layouts/post.njk
 ---
 
