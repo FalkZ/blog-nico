@@ -128,7 +128,8 @@ pre {
 
 main blockquote {
   background: #ccccdd22;
-  margin: 0 1em;
+  margin:  1em;
+  /* margin-top: 1em; */
   width: auto;
 
   padding: 0.5em 1em;
@@ -143,12 +144,12 @@ main blockquote {
   padding-left: 0;
 }
 
-.post li {
+.post ul li {
   padding-left: 1em;
   text-indent: -1em;
 }
 
-.post li:before {
+.post ul li:before {
   content: "–";
   padding-right: 5px;
 }
@@ -286,15 +287,23 @@ main blockquote {
 
 
 img{
+  
   width: calc(100% + 90px);
   margin: 0 -45px;
 }
 
 @media only screen and (max-width: 720px) {
   img{
-    width: calc(100% + 20px);
+  width: calc(100% + 20px);
   margin: 0 -10px;
 }
+}
+
+.inline img{
+  width: auto;
+  display: inline-block;
+  margin: 0;
+  margin-right: 10px;
 }
 
 .about img[alt="Profilbild"]{
