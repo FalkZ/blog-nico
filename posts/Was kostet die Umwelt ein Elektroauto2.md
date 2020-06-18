@@ -30,3 +30,8 @@ Tesla haben seit Anfangs 2020 Verhandlungen mit dem Schweizer Unternehmen Glenco
 > „Wir haben unsere Lieferketten neu strukturiert und werden ab 2020 Kobalt und Lithium direkt einkaufen“
 
 -Andreas Wendt (Einkaufsvorstand BMW)
+
+
+## Lithium
+
+Mitte 2018 beschliesst Tesla sein Lithium von Kidman Resources einem australischem Unternehmen und von Ganfeng Lithium aus China zu beziehen.
