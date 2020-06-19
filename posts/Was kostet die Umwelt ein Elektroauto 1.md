@@ -140,3 +140,6 @@ Laut dem NZZ lud Evo Morales 8 internationale Konsorten ein.
 
 Gemäß Carl Roth sind folgende Sicherheitsmaßnahmen einzuhalten unter den entsprechenden Umständen:
 Auch hier ist ein Hautschutz sowie Augenschutz zu verwenden und bei Staubpartikeln wird ein Partikelschutz von mindestens. 94% benötigt. Bei Augenkontakt ist mit starken Augenreizungen zu rechnen. Sonst gibt es keine spezifischen Angaben über die Toxizität.
+
+
+*Alle Diagramme wurden selbst erstellt.
