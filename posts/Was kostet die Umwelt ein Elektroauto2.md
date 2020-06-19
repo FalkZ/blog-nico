@@ -19,7 +19,7 @@ Tesla möchte alle Fabriken komplett durch erneuerbare Energien Versorgen und is
 
 -Elon Musk
 
-Teslamag.com publiziert 2018, dass die Gigafactory 1 hat das weltweit grösste "Solarpaneldach".
+2018 publiziert das Teslamag.com, dass die Gigafactory 1 das weltweit grösste "Solarpaneldach" besitzt.
 
 ## Wasserverbrauch
 Laut Maximilian Fichtner, Direktor am Helmholtz-Institut verdunstet nach den gängigen Berechnungsmethoden 3840 Liter Wasser für die Gewinnung von Lithium zur Herstellung eines Akkus mit einer Kapazität von 64Kw/h. Dies entspricht dem Verbrauch bei der Produktion von 250 Gramm Rindfleisch, zehn Avocados, 30 Tassen Kaffee oder einer halben Jeans. Laut Fichtner ist der Entwicklungsstand bereits soweit, dass 2025, Kobaltfreie Akkumulatoren auf dem Markt sein werden.
