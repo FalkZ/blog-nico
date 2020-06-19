@@ -1,6 +1,6 @@
 ---
 title: Was kostet die Umwelt ein Elektroauto? Teil 2
-description: Tesla ist eine US Amerikamische Firma und der bedeutensten Elektromobil Hersteller der Welt. Bekannt dafür als erster ernstzunehmender Konkurrent der konventionellen Fahrzeugindustrie. Und da er eben für sein Umweltbewusstes auftreten einsteht nehmen wir uns in Augenschein ob das wirklich stimmt.
+description: Tesla ist eine US amerikamische Firma und der bedeutensten Elektromobil Hersteller der Welt. Bekannt dafür als erster ernstzunehmender Konkurrent der konventionellen Fahrzeugindustrie. Und da er eben für sein Umweltbewusstes auftreten einsteht nehmen wir uns in Augenschein ob das wirklich stimmt.
 date: 2020-06-19
 tags:
   - Technik
