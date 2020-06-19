@@ -51,7 +51,8 @@ Ein Verbrennungsmotor müsste technisch gesehen als eine mobile Heizung angesehe
 
 In Österreich zwischen Köchen und Wallensee verunfallte eine Person mit einem Tesla. Mit 60Km/h fuhr er in einen Baum, als ein anderer Autofahrer ihm hinaus half, fing der Tesla an zu Rauchen und ging dannach in Flammen auf. Laut Aussage der verunfallten sei das Auto 3 mal Explodiert. Correctiv ging einen Faktencheck durch und nahm Kontakt mit der Person auf. Da der Akku sich mehrmalig Entzünden kann, wurde
 aus Sicherheitgründen das komplette Auto für 3 Tage in einen Wassercontainer gelegt. Der Akku wurde danach ausgebaut und zu Utersuchungs- und Forschungszwecken an Tesla übergeben und der Rest des Fahrzeugs Entsorgt. Tesla bestätigte gegenüber Corrective, dass sie keine Brandsimulation durchführen konnten da die Batterie 3 Tage im Wasser lag. Es gibt Zeitungen von beiden seiten. Die einen behaupten sie brannte, die anderen das der Akku noch intakt war. Zudem gibt es Bilder des Entnommenen Akkus, jedoch lässt sich durch das trotzdem nicht bestätigen ob die Batterie brannte oder nicht. Es gibt keine Beweise weder dafür noch dagegen. 
-Ein E-Auto muss verschiedene Prüfungen absolvieren, wie zum Beispiel die
+Ein E-Auto muss verschiedene Prüfungen absolvieren, wie zum Beispiel die ECE R100 (gilt nicht für Handyakkus). Dieser Test schliesst Expolsionen aus.
+Jedoch ist klar, dass es noch an mangelnder Schulung bei der Feuerwehr und den Entsorgungsstellen fehlt. Um diese Infrastruktur bereit zu stellen seien minimale Anforderungen nötig.
 
 ## CO2 Bilanz
 
