@@ -1,7 +1,7 @@
 ---
 title: Was kostet die Umwelt ein Elektroauto? Teil 2
 description: Tesla
-date: 2020-06-08
+date: 2020-06-19
 tags:
   - Technik
   - Industrie
