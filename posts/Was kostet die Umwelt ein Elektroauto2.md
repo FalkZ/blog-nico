@@ -1,5 +1,5 @@
 ---
-title: Was kostet die Umwelt ein Elektroauto? (Teil 2)
+title: Was kostet die Umwelt ein Elektroauto? Teil 2
 description: Tesla
 date: 2020-06-08
 tags:
