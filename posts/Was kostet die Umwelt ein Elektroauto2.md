@@ -1,6 +1,6 @@
 ---
 title: Was kostet die Umwelt ein Elektroauto? Teil 2
-description: Tesla
+description: Tesla ist einer der bedeutensten Elektromobil Hersteller der Welt und deswegen ist es wichtig, ihn, in Augenschein zu nehmen.
 date: 2020-06-19
 tags:
   - Technik
