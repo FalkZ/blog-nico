@@ -45,3 +45,12 @@ Ein Verbrennungsmotor müsste technisch gesehen als eine mobile Heizung angesehe
 ### Der Akku der expoldiert
 
 ## CO2 Bilanz
+
+Das schwedische Institut IVL hat 2017 eine Studie veröffentlich welche die CO2 Werte direkt mit einem Diesel Motor verglich. Diese gab an  17 Tonnen CO2 auszustossen für die Herstellung eines Tesla's. Die Zahlen sind falsch. Der Journalist Johan Kristensson gab seinen Fehler zu:
+
+>"Da eine 100-Kilowattstunden-Batterie eine im Vergleich sehr große ist, ist die Aussage, dass ein durchschnittlicher E-Auto-Akku solche Emissionen verursacht, natürlich nicht gültig.“
+
+-Johan Kristesson
+
+Das bedeutet es wurde der Ausstoss des grössten verfügbaren Akkus genommen und mit dem durchschnitt eines Verbrennungsmotor verglichen wobei alle Hybridfahrzeuge miteinbezogen wurden. 
+2019 wurde sie aktualisiert hier als PDF erhältlich (https://www.ivl.se/download/18.14d7b12e16e3c5c36271070/1574923989017/C444.pdf).
