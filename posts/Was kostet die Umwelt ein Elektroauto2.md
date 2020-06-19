@@ -63,7 +63,8 @@ Das schwedische Institut IVL hat 2017 eine Studie veröffentlich welche die CO2 
 -Johan Kristesson
 
 Das bedeutet es wurde der Ausstoss des grössten verfügbaren Akkus genommen und mit dem durchschnitt eines Verbrennungsmotor verglichen wobei alle Hybridfahrzeuge miteinbezogen wurden. 
-2019 wurde sie aktualisiert hier als PDF erhältlich (https://www.ivl.se/download/18.14d7b12e16e3c5c36271070/1574923989017/C444.pdf).
+2019 wurde sie aktualisiert hier als PDF erhältlich:
+(https://www.ivl.se/download/18.14d7b12e16e3c5c36271070/1574923989017/C444.pdf).
 Nach den neuen Angaben beträgt der Ausstoss eines Elektrofahrzeugs 61 bis 106 kg CO2 pro kilowattstunde.
 Das bedeutet nach 50'000Km fahrt, fährt man Nachhaltiger als mit dem Verbrenner samt den Produktionskosten. Dies ist natürlich Abhängig von der Stromquelle. 50'000Km ist durch den Strommix in Europa errechnet. Bezieht die Quelle jedoch Strom ausschliesslich von einem Kohlekraftwerk, trifft der Punkt erst ab 310'000Km. Das bedeutet die Nachhaltigkeit der Quelle bestimmt wie Umweltfreundlich ein Elektrofahrzeug ist.
 
