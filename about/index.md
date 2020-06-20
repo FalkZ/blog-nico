@@ -9,9 +9,9 @@ eleventyNavigation:
 
 ![Profilbild](/img/Profilbild.jpg)
 
-# N.D.
+# Nicolas Dobler
 
-#### A Writer 2 mehr Wörter
+
 
 Im Moment arbeite ich als Automatiker, bereits seit 3 Jahren um genau zu sein. Nach der Lehre absolvierte ich einen Englischsprachaufenthalt und ging dann zurück auf diesen Beruf. Ich lese gerne Zeitungen, Reportagen und Sachbücher. Über die Jahre habe ich die verschiedensten Kampfkunstarten betrieben. Zur Zeit widme ich einen Teil meiner Freizeit einem Kampfsport mit dem Namen MMA und durfte bereits in Thailand trainieren. Diese Sportart wird mich bestimmt mein Leben lang begleiten.
 
