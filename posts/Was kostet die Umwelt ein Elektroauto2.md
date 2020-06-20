@@ -31,11 +31,15 @@ Viele Elektromobilhersteller zeigen sich zurückhaltend mit der Offenlegung der 
 ## Konfliktmaterial
 Nach eigener Aussage bezieht Elon Musk, Grafit auf sauberen Weg aus Japan über die Firma „Sumitomo Metal Mining“.
 Woher Tesla sein Kobalt bezieht ist schwierig nachzuvollziehen. Tesla produziert in seiner Gigafactory in China eigene Batteriezellen, viele jedoch bezieht er über andere Hersteller. Die Materialzulieferer funktionieren meist über mehrere Firmen. Laut der Sammelklage von IR Advocates wird Tesla angeklagt, betreffend eine seiner Lieferanten, LGChem. LGChem ist ein koreanisches Unternehmen und beliefert unter anderem: General Motor, Ford, Audi und Renault mit Batteriezellen.
-Tesla haben seit Anfangs 2020 Verhandlungen mit dem Schweizer Unternehmen Glencore laut Financal Times, ein Jahr später als BMW. Glencore besitzt Minen in den DRC, Australien und in Marokko. Die Begründung ist beide wollen ihr Kobalt aus ethnisch vertretbaren Quellen zu gewinnen. Tesla und Glencore äusserten sich nicht zu den Verhandlungen. BMW handelt bereits Anfangs 2019 mit Glencore und sichert sich seine Materialien bis 2025. Zudem meldeten sie, sie werden das Kobalt nurnoch aus Australien und Marokko beziehen und den kauf aus den DRC einstellen.
+Tesla haben seit Anfangs 2020 Verhandlungen mit dem Schweizer Unternehmen Glencore laut Financal Times, ein Jahr später als BMW. Glencore besitzt Minen in den DRC, Australien und in Marokko. Die Begründung ist beide wollen ihr Kobalt aus ethnisch vertretbaren Quellen gewinnen. Tesla und Glencore äusserten sich nicht zu den Verhandlungen. BMW handelt bereits Anfangs 2019 mit Glencore und sichert sich seine Materialien bis 2025. Zudem meldeten sie, sie werden das Kobalt nurnoch aus Australien und Marokko beziehen und den kauf aus den DRC einstellen.
 
 > „Wir haben unsere Lieferketten neu strukturiert und werden ab 2020 Kobalt und Lithium direkt einkaufen“
 
 -Andreas Wendt (Einkaufsvorstand BMW)
+
+###Ermittlung gegen Glencore
+
+Gemäss dem Tagesanzeiger vom 20.Juni 2020, ermittelt die Bundesanwaltschaft gegen Glencore. Der Zuger Rohstoffkonzern steht unter Korruptionsverdacht. Es handelt sich darum wie Glencore 2007 an die Schürfrechte im Kongo gelangt ist. Mit hilfe eines Einflussreichen Geschäftsmann, Dan Gertler gelangte es dem Konzern die Schürfechte für einen viel zu tiefen Preis zu erwerben. Es ist nicht das erste Strafverfahren wegen Verdachts auf Bestechung fremder Amtsträger. Auslöser der Ermittlung ist NGO public eye die bereits 2019 eine Strafanzeige gegen Glencore erhoben.
 
 
 ## Lithium
