@@ -1,6 +1,7 @@
 ---
 title: Was kostet die Umwelt ein Elektroauto? Teil 1
-description:
+description: Schon zu oft wurde mit Schlagzeilen die Elektromobilindustrie in Frage gestellt. Auch verschiedene Studien wollten Beweisen sie sei umweltschädlicher als die konventionelle Autoindustrie. Dabei kommt es auf den Vergleich drauf an. Was klar ist, es wurde mehr spekuliert als Fakten aufgezählt und hiermit soll dieser Bericht Klarheit über den heutigen Stand bringen. 
+
 date: 2020-06-12
 tags:
   - Technik
@@ -8,6 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
+# Die Batterie
 Um mit diesem kontroversen Thema zu beginnen fange ich am besten bei dem Akku eines Elektrofahrzeugs an. Ganz kurz zum Aufbau eines Akkus: Dieser besteht aus einer Kathode, Anode und einem Elektrolyten. Bei einem Elektrofahrzeug handelt es sich um einen lithiumbasierten Akku. Hier besteht der Minus Pol also die Kathode meist aus Grafit. Die Anode ist die positive Elektrode und besteht aus Kobalt. Der letzte Teil ist der Elektrolyt aus Lithium. Der Elektrolyt ist nicht mit einem anderen Material ersetzbar oder bisher noch nicht. Nehmen wir die einzelnen Materialien auseinander.
 
 ## Kathode - Graphit
@@ -141,4 +143,4 @@ Gemäß Carl Roth sind folgende Sicherheitsmaßnahmen einzuhalten unter den ents
 Auch hier ist ein Hautschutz sowie Augenschutz zu verwenden und bei Staubpartikeln wird ein Partikelschutz von mindestens. 94% benötigt. Bei Augenkontakt ist mit starken Augenreizungen zu rechnen. Sonst gibt es keine spezifischen Angaben über die Toxizität.
 
 
-*Alle Diagramme wurden selbst erstellt.
+*Alle Diagramme wurden mit Daten von https://www.usgs.gov/ und https://www.deutsche-rohstoffagentur.de selbst erstellt.
