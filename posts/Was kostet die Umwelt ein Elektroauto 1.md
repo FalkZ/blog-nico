@@ -116,7 +116,7 @@ Die Sole wird in zirka 200 bis 400 Meter Tiefe unter den Salzseen Boliviens, Arg
 
 -[Global2000.at](https://www.global2000.at/lithium)
 
-Dies hat keine grosse Auswirkung auf die Umwelt, wobei der Abbau als Festgestein grosse Ausgrabungstätte erfordert. Wie im norden Portugals, im Dorf Covas wo eine bekannte Grünfläche die "Hinter den Bergen" benannt ist, zum Steinbruch wurde. Dies führte zum Aufruhr der Bevölkerung, jedoch sieht der Energiestaatssekräter João Galamba die Zukunft dieser Ressource. Wie das [Magazin Deutschlandfunkkultur](https://www.deutschlandfunkkultur.de/lithium-krieg-in-portugal-elektroautos-und-die-folgen.979.de.html?dram:article_id=468799) bekannt gab.
+Dies hat keine grosse Auswirkung auf die Umwelt, wobei der Abbau als Festgestein grosse Ausgrabungstätte erfordert. Wie im norden Portugals, im Dorf Covas wo eine bekannte Grünfläche die "Hinter den Bergen" benannt ist, zum Steinbruch wurde. Dies führte zum Aufruhr der Bevölkerung, jedoch sieht der Energiestaatssekräter João Galamba die Zukunft dieser Ressource. Wie das Magazin [Deutschlandfunkkultur](https://www.deutschlandfunkkultur.de/lithium-krieg-in-portugal-elektroautos-und-die-folgen.979.de.html?dram:article_id=468799) bekannt gab.
 
 >„Es geht um rund 300 Arbeitsplätze im Bergwerk und viele im weiterverarbeitenden Bereich. Unser Lithium-Plan ist ein wichtiger Impuls für die Industrie und schafft Arbeitsplätze in infrastrukturschwachen, abgelegenen Regionen. Wenn das umweltverträglich geschieht und die Lebensqualität in den benachteiligten Regionen entscheidend verbessert, ist das ein wichtiger Beitrag zur Regionalentwicklung.“
 
