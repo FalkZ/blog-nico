@@ -11,14 +11,14 @@ layout: layouts/post.njk
 # Tesla und Nachhaltigkeit
 
 Tesla steht für Nachhaltigkeit und für eine Zukunftsvision vom Öl befreiten Transportmittel. Wahrscheinlich fragte man sich schon 2006 als der erste Tesla (Roadster) vorgestellt wurde „Ist es nur eine Vision oder hat es wirklich Zukunft?“ Die umstrittenen Themen wie Autopilot, Herstellung und Kosten der Batterie sind ein Thema, sowie die Gewinnung der Ressourcen zur Herstellung eines Fahrzeugs.
-Hier hat Tesla klar Stellung bezogen. Den meisten jedoch ist das unbekannt. In ihrem Impact Report beantworten sie gewisse Fragen bezüglich der Nachhaltigkeit. Natürlich muss sich Tesla in der Nachhaltigkeit verbessern, aber wie belastend ist die Herstellung wirklich im Vergleich zu einem Verbrennungsmotor?
+Hier hat Tesla klar Stellung bezogen. Den meisten jedoch ist das unbekannt. In ihrem [Impact Report](https://www.tesla.com/ns_videos/tesla-impact-report-2019.pdf) beantworten sie gewisse Fragen bezüglich der Nachhaltigkeit. Natürlich muss sich Tesla in der Nachhaltigkeit verbessern, aber wie belastend ist die Herstellung wirklich im Vergleich zu einem Verbrennungsmotor?
 Tesla möchte alle Fabriken komplett durch erneuerbare Energien versorgen und ist bereits auf bestem Wege dazu. So soll Ende 2019 die Gigafactory 1 in Nevada komplett selbst versorgt werden.
 
-> "Fossil fuel merchants of doubt have been pushing that bs for years. Tesla Gigafactory will be 100% renewable powered (by Tesla Solar) by end of next year."
+> "Fossil fuel merchants of doubt have been pushing that bs (bullshit) for years. Tesla Gigafactory will be 100% renewable powered (by Tesla Solar) by end of next year."
 
 -Elon Musk
 
-2018 publiziert das Teslamag.com, dass die Gigafactory 1 das weltweit grösste "Solarpaneldach" besitzt.
+2018 publiziert das [Teslamag.com](https://teslamag.de/news/tesla-gigafactory-1-weltweit-groesstes-solardach-200000-solarpanele-19797), dass die Gigafactory 1 das weltweit grösste "Solarpaneldach" besitzt.
 
 ## Wasserverbrauch
 
