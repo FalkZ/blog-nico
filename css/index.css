@@ -443,4 +443,9 @@ main, p, li, blockquote{
 
 .title{
   margin-top: 1em !important;
+  white-space: pre-wrap;
+}
+.description{
+  white-space: pre-wrap;
+
 }
