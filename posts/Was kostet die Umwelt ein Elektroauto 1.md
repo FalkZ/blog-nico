@@ -22,7 +22,7 @@ China dominiert den Weltmarkt von Graphit mit einem Anteil von 68%. Ein zunehmen
 
 ### Herstellung
 
-Viele Graphit Minen wurden stillgelegt und das Graphit hat an Wert verloren. Durch die Elektroauto Branche stieg die Nachfrage enorm. Wie zum Beispiel die Kropfmühl AG in Niederbayern, wie der [Bayrischer Rundfunk](https://www.br.de/radio/bayern2/sendungen/land-und-leute/graphit-abbau-in-niederbayern-zwack100.html) berichtet. die deshalb am 21. Juni 2012 wieder geöffnet wurde.
+Viele Graphit Minen wurden stillgelegt und das Graphit hat an Wert verloren. Durch die Elektroauto Branche stieg die Nachfrage enorm. Wie zum Beispiel die Kropfmühl AG in Niederbayern. Wie der [Bayrischer Rundfunk](https://www.br.de/radio/bayern2/sendungen/land-und-leute/graphit-abbau-in-niederbayern-zwack100.html) berichtet, wurde sie am 21. Juni 2012 wieder geöffnet.
 
 ### Gesundheitsrisiko
 
