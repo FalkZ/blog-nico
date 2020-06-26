@@ -1,7 +1,7 @@
 ---
 title: Das Fleischbuisness. (In Progress)
 description: Die Nachfrage auf Fleisch steigt. In den letzten 50 Jahren hat sich die Produktion knapp vervierfacht, jedoch nahm die Bevölkerungszahl ebenfalls stetig zu. Was hat dies für Auswirkungen und wie können wir damit in der Zukunft umgehen?  
-date: 2020-06-08
+date: 2020-00-00
 tags:
   - Wirtschaft
   - Umwelt
