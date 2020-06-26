@@ -1,7 +1,7 @@
 ---
 title: Öl das schwarze Gold. (In Progress)
 description: 
-date: 2020-06-08
+date: 2020-00-00
 tags:
   - Wirtschaft
   - Geopolitik
