@@ -1,5 +1,5 @@
 ---
-title: Die Geschichte Afrikas Teil 1
+title: Die Geschichte Afrikas Teil 1 (In Progress)
 description:
 date: 2020-06-12
 tags:
