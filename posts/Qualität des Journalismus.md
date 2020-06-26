@@ -1,5 +1,5 @@
 ---
-title: Qualität des Journalismus.
+title: Qualität des Journalismus. (In Progress)
 description: Laut einer Untersuchung des Vereins Medienqualität Schweiz sinkt die Genauigkeit von Berichten stetig. Wieso?
 date: 2020-06-08
 tags:
