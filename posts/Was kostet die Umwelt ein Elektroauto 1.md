@@ -6,6 +6,7 @@ date: 2020-06-12
 tags:
   - Technik
   - Industrie
+  - Umwelt
 layout: layouts/post.njk
 ---
 
