@@ -1,13 +1,12 @@
 ---
 title: |
-Was kostet die Umwelt ein Elektroauto? 
-[Teil 1]
+  Was kostet die Umwelt ein Elektroauto? 
+  [Teil 1]
 description: >
   Schon zu oft wurde mit Schlagzeilen die Elektromobilindustrie in Frage gestellt. Auch verschiedene
   Studien wollten beweisen sie sei umweltschädlicher als die konventionelle Autoindustrie. Was klar ist,
   es wurde mehr spekuliert als Fakten aufgezählt. Dieser Bericht soll Klarheit über den heutigen Stand 
   bringen. 
-
 date: 2020-06-12
 tags:
   - Technik
