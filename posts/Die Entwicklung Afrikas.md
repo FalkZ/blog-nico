@@ -1,5 +1,7 @@
 ---
-title: Die Entwicklung Afrikas (In Progress)
+title: |
+  Die Entwicklung Afrikas. 
+  (In Progress)
 description:
 date: 2020-01-01
 tags:
