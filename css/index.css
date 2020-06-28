@@ -49,7 +49,7 @@ main {
   display: block;
   width: 600px;
   max-width: 100%;
-  padding: 0 10px;
+  padding: 0 10px !important;
 }
 
 h1,
@@ -226,7 +226,7 @@ main blockquote {
   padding: 0;
   list-style: none;
   float: right;
- padding-top: 30px;
+ padding-top: 10px;
   vertical-align: bottom;
  
   font-weight: bold;
