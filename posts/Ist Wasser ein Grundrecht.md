@@ -1,5 +1,7 @@
 ---
-title: Ist Wasser ein Grundrecht? (In Progress)
+title:  |
+  Ist Wasser ein Grundrecht? 
+  (In Progress)
 description: 
 date: 2020-01-01
 tags:
