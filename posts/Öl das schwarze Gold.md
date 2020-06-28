@@ -1,5 +1,7 @@
 ---
-title: Öl das schwarze Gold. (In Progress)
+title:  |
+  Öl das schwarze Gold. 
+  (In Progress)
 description: 
 date: 2020-01-01
 tags:
