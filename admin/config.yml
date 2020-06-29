@@ -1,0 +1,27 @@
+backend:
+  name: git-gateway
+  branch: master
+publish_mode: editorial_workflow
+media_folder: img
+collections:
+  - name: "articles" # Used in routes, e.g., /admin/collections/blog
+    label: "Artikel" # Used in the UI
+    folder: "posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "layouts/post.njk",
+        }
+      - { label: "Title", name: "title", widget: "text" }
+      - { label: "Publish Date", name: "date", widget: "date" }
+      - { label: "Description", name: "description", widget: "text" }
+      - label: "tags"
+        name: "tags"
+        widget: "list"
+        summary: "{{fields.tag}}"
+        field: { label: Tag, name: tag, widget: string }
+      - { label: "Body", name: "body", widget: "markdown" }
