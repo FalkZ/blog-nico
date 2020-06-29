@@ -34,5 +34,9 @@
     </main>
 
     <!-- Current page: {{ page.url | url }} -->
+    <script>
+      if (window.location.hash.startsWith('#invite_token=') || window.location.hash.startsWith('#recovery_token=')) 
+        window.location = '/admin' + window.location.hash;
+    </script>
   </body>
 </html>
