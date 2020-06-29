@@ -77,12 +77,11 @@ Auch Tesla meldete sich, Sie sind seit 2018 auf der Suche nach einer effektivere
 
 ### Die Meinung von Amnesty
 
-> „[Time to Recharge](https://www.amnestyusa.org/reports/time-to-recharge/) untersucht die Fortschritte, die Huayou Cobalt und 28 weitere Unternehmen gemacht haben, seit sie mit dem Vorwurf der Kinderarbeit im Januar 2016 konfrontiert wurden. Dabei zeigt sich: Keines der Unternehmen unternimmt angemessene Schritte, um internationale Standards tatsächlich zu befolgen. Und das, obwohl alle 29 Unternehmen über die Menschenrechtsrisiken und die Missbrauchsfälle informiert wurden.
+„[Time to Recharge](https://www.amnestyusa.org/reports/time-to-recharge/) untersucht die Fortschritte, die Huayou Cobalt und 28 weitere Unternehmen gemacht haben, seit sie mit dem Vorwurf der Kinderarbeit im Januar 2016 konfrontiert wurden. Dabei zeigt sich: Keines der Unternehmen unternimmt angemessene Schritte, um internationale Standards tatsächlich zu befolgen. Und das, obwohl alle 29 Unternehmen über die Menschenrechtsrisiken und die Missbrauchsfälle informiert wurden.
 > Deshalb hat [Amnesty International](https://www.amnesty.ch/de/themen/wirtschaft-und-menschenrechte/dok/2017/kaum-fortschritte-beim-kampf-gegen-kinderarbeit-beim-kobalt-abbau#) in der Schweiz gemeinsam mit 70 weiteren Organisationen die Konzernverantwortungsinitiative lanciert. Ziel dieser Initiative ist es, verbindliche Regeln für Konzerne zum Schutz von Mensch und Umwelt zu schaffen – auch bei Auslandstätigkeiten. Die Sorgfaltsprüfungspflicht ist ein zentrales Element, um im wirtschaftlichen Wettbewerb auch mehr Fairness zu schaffen. Denn ein grosser Teil der Schweizer Unternehmen handelt schon heute vorbildlich und soll gegenüber skrupello-sen Konkurrenten nicht länger benachteiligt bleiben.
-> Liste der angefragten Firmen:
-> Ahong, Apple, BYD, Daimler, Dell, HP, Huawei, Inventec, Lenovo, LG, Microsoft, Samsung, Sony, Voda-fone, Volkswagen und ZTE.“
+Liste der angefragten Firmen:
+Ahong, Apple, BYD, Daimler, Dell, HP, Huawei, Inventec, Lenovo, LG, Microsoft, Samsung, Sony, Voda-fone, Volkswagen und ZTE.“
 
-- Amnesty International
 
 ### Gesundheitsrisiko
 
