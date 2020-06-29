@@ -13,7 +13,7 @@
 }
 
 .highlight {
-  background:  black; /*  var(--darkgray); */
+  background:   var(--darkgray); 
   color: white;
   display: inline-block;
   padding:  5px;
@@ -212,7 +212,7 @@ main blockquote {
 }
 .home a {
   text-decoration: none;
-  color: black ;
+  
 }
 
 .home :link:not(:hover) {
@@ -465,4 +465,11 @@ main, p, li, blockquote{
 .description, .postlist-link{
   white-space: pre-wrap;
 
+}
+
+@media only screen and (max-width: 720px) {
+.postlist-link{
+    white-space: initial;
+  
+  }
 }
