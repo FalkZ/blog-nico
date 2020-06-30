@@ -16,7 +16,7 @@ collections:
           widget: "hidden",
           default: "layouts/post.njk",
         }
-      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Title", name: "title", widget: "text" }
       - { label: "Publish Date", name: "date", widget: "date" }
       - { label: "Description", name: "description", widget: "text" }
       - label: "tags"
