@@ -4,11 +4,10 @@ templateClass: tmpl-post
 ---
 
 <span class="post">
-<h1 class="title">{{ title }}</h1>
-<h2 class="description">{{ description }}</h2>
+    <h1 class="title">{{ heading }}</h1>
+    <h2 class="description">{{ description }}</h2>
 
-{{ content | safe }}
-
+    {{ content | safe }}
 
 </span>
 <footer>

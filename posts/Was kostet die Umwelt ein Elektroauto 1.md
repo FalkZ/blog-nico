@@ -1,12 +1,13 @@
 ---
-title: |
+title: Was kostet die Umwelt ein Elektroauto 1
+heading: |
   Was kostet die Umwelt ein Elektroauto? 
   Teil 1
 description: >
   Schon zu oft wurde mit Schlagzeilen die Elektromobilindustrie in Frage gestellt. Auch verschiedene
   Studien wollten beweisen sie sei umweltschädlicher als die konventionelle Autoindustrie. Was klar ist,
   es wurde mehr spekuliert als Fakten aufgezählt. Dieser Bericht soll Klarheit über den heutigen Stand 
-  bringen. 
+  bringen.
 date: 2020-06-12
 tags:
   - Technik
@@ -16,6 +17,7 @@ layout: layouts/post.njk
 ---
 
 # Die Batterie
+
 Um mit diesem kontroversen Thema zu beginnen fange ich am besten bei dem Akku eines Elektrofahrzeugs an. Ganz kurz zum Aufbau eines Akkus: Dieser besteht aus einer Kathode, Anode und einem Elektrolyten. Bei einem Elektrofahrzeug handelt es sich um einen lithiumbasierten Akku. Hier besteht der Minus Pol also die Kathode meist aus Grafit. Die Anode ist die positive Elektrode und besteht aus Kobalt. Der letzte Teil ist der Elektrolyt aus Lithium. Der Elektrolyt ist nicht mit einem anderen Material ersetzbar oder bisher noch nicht. Nehmen wir die einzelnen Materialien auseinander.
 
 ## Kathode - Graphit
@@ -34,7 +36,6 @@ Viele Graphit Minen wurden stillgelegt und das Graphit hat an Wert verloren. Dur
 
 Aus dem Datenblatt von [Carl Roth](https://www.carlroth.com/medias/SDB-7614-DE-DE.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wxNzc5MzJ8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oMjEvaDJlLzg5NDc5NDkxNDIwNDYucGRmfDU4NzgxY2M3MjFhOTM3MGZlMWEyNTllMWJiZmZlOGRjYjRmMjI1NWFkOGEyMjU4N2I5ZjU4MWFjOTViNTJjZDM) ist zu entnehmen, dass Graphit als nicht toxisch einzustufen ist. Staubpartikel sind gefährlich für die Lungen, wie jeder Fremdkörper der in die Lunge gelangt.
 
-
 ## Anode - Kobalt
 
 ### Produktionsländer
@@ -43,7 +44,7 @@ Aus dem Datenblatt von [Carl Roth](https://www.carlroth.com/medias/SDB-7614-DE-D
 
 ### Herstellung
 
-Die Herstellung ist verrufen, da 64% des Kobalts aus dem Kongo stammt und unter sehr schlechten Bedingungen abgebaut. Kinderarbeit in den Minen und bereits mehrere tödliche Unfälle wurden bestätigt. [CBS](https://www.cbsnews.com/) war live vor Ort und bestätigte, dass über 10‘000 etwa 10 Jährige Kinder ohne Sicherheitsvorkehrungen arbeiteten. In den Minen wird es abgebaut und in Flüssen sauber gewaschen. Danach wird es in verschiedenen Seidensäcken, meist von Hand oder mit provisorischen Fortbewegungsmittel transportiert. Die Säcke werden nicht angeschrieben und Kobalt ist nicht das einzige Produkt, welches aus den Minen abgebaut wird. So ist eine Verfolgung sehr schwer nachzuvollziehen. Die Reporterin, Debora Patta und ihr Team vom Nachrichten Sender CBS [filmte](https://www.youtube.com/watch?v=RBf58FjxJmk) die Szene vor Ort und befragte einen chinesischen Käufer, an welche Firma das Kobalt geliefert werde. Dieser jedoch antwortete nur, das Kobalt sei rein. Einheimische erzählten ihr von einer chinesischen Firma Namens Congo Dong Fang Mining kurz CDM. CDM gehört Huayou, laut offizieller Aussage hat Huayou seit 2017 nichts mehr mit diesem Markt zu tun. Aber nicht nur Huayou sondern, alle Firmen die Akkus benötigen, beziehen das Kobalt größtenteils von diesem Markt. Betroffene Firmen geben die Probleme zu sagen aber, sie bräuchten Unterstützer um verantwortungsvolle Beschaffungsrechtlinien einzuführen. Der Wohltätigkeitsverein [Good Shepard Project](https://www.goodshepherdproject.org.uk/about) hilft vor Ort, um Kinder von den Minen abzubringen und die Möglichkeit auf Bildung gewährt. Nachdem es öffentlich wurde, dass, Congo Don Fang Kinderarbeit in der Kobalt Beschaffung miteinschließt, spendete CDM US$71‘000. Der Betrag ist jedoch kläglich wenn man berücksichtigt, dass die Firma alleine mit dem Markt dort, einen jährlichen Umsatz von über 100 Millionen US Dollar erzielt.
+Die Herstellung ist verrufen, da 64% des Kobalts aus dem Kongo stammt und unter sehr schlechten Bedingungen abgebaut. Kinderarbeit in den Minen und bereits mehrere tödliche Unfälle wurden bestätigt. [CBS](https://www.cbsnews.com/) war live vor Ort und bestätigte, dass über 10‘000 etwa 10 Jährige Kinder ohne Sicherheitsvorkehrungen arbeiteten. In den Minen wird es abgebaut und in Flüssen sauber gewaschen. Danach wird es in verschiedenen Seidensäcken, meist von Hand oder mit provisorischen Fortbewegungsmittel transportiert. Die Säcke werden nicht angeschrieben und Kobalt ist nicht das einzige Produkt, welches aus den Minen abgebaut wird. So ist eine Verfolgung sehr schwer nachzuvollziehen. Die Reporterin, Debora Patta und ihr Team vom Nachrichten Sender CBS [filmte](https://www.youtube.com/watch?v=RBf58FjxJmk) die Szene vor Ort und befragte einen chinesischen Käufer, an welche Firma das Kobalt geliefert werde. Dieser jedoch antwortete nur, das Kobalt sei rein. Einheimische erzählten ihr von einer chinesischen Firma Namens Congo Dong Fang Mining kurz CDM. CDM gehört Huayou, laut offizieller Aussage hat Huayou seit 2017 nichts mehr mit diesem Markt zu tun. Aber nicht nur Huayou sondern, alle Firmen die Akkus benötigen, beziehen das Kobalt größtenteils von diesem Markt. Betroffene Firmen geben die Probleme zu sagen aber, sie bräuchten Unterstützer um verantwortungsvolle Beschaffungsrechtlinien einzuführen. Der Wohltätigkeitsverein [Good Shepard Project](https://www.goodshepherdproject.org.uk/about) hilft vor Ort, um Kinder von den Minen abzubringen und die Möglichkeit auf Bildung gewährt. Nachdem es öffentlich wurde, dass, Congo Don Fang Kinderarbeit in der Kobalt Beschaffung miteinschließt, spendete CDM US\$71‘000. Der Betrag ist jedoch kläglich wenn man berücksichtigt, dass die Firma alleine mit dem Markt dort, einen jährlichen Umsatz von über 100 Millionen US Dollar erzielt.
 
 ## Sammelklage an Apple, Alphabet, Google, Dell, Microsoft and Tesla
 
@@ -78,10 +79,10 @@ Auch Tesla meldete sich, Sie sind seit 2018 auf der Suche nach einer effektivere
 ### Die Meinung von Amnesty
 
 „[Time to Recharge](https://www.amnestyusa.org/reports/time-to-recharge/) untersucht die Fortschritte, die Huayou Cobalt und 28 weitere Unternehmen gemacht haben, seit sie mit dem Vorwurf der Kinderarbeit im Januar 2016 konfrontiert wurden. Dabei zeigt sich: Keines der Unternehmen unternimmt angemessene Schritte, um internationale Standards tatsächlich zu befolgen. Und das, obwohl alle 29 Unternehmen über die Menschenrechtsrisiken und die Missbrauchsfälle informiert wurden.
-> Deshalb hat [Amnesty International](https://www.amnesty.ch/de/themen/wirtschaft-und-menschenrechte/dok/2017/kaum-fortschritte-beim-kampf-gegen-kinderarbeit-beim-kobalt-abbau#) in der Schweiz gemeinsam mit 70 weiteren Organisationen die Konzernverantwortungsinitiative lanciert. Ziel dieser Initiative ist es, verbindliche Regeln für Konzerne zum Schutz von Mensch und Umwelt zu schaffen – auch bei Auslandstätigkeiten. Die Sorgfaltsprüfungspflicht ist ein zentrales Element, um im wirtschaftlichen Wettbewerb auch mehr Fairness zu schaffen. Denn ein grosser Teil der Schweizer Unternehmen handelt schon heute vorbildlich und soll gegenüber skrupello-sen Konkurrenten nicht länger benachteiligt bleiben.
-Liste der angefragten Firmen:
-Ahong, Apple, BYD, Daimler, Dell, HP, Huawei, Inventec, Lenovo, LG, Microsoft, Samsung, Sony, Voda-fone, Volkswagen und ZTE.“
 
+> Deshalb hat [Amnesty International](https://www.amnesty.ch/de/themen/wirtschaft-und-menschenrechte/dok/2017/kaum-fortschritte-beim-kampf-gegen-kinderarbeit-beim-kobalt-abbau#) in der Schweiz gemeinsam mit 70 weiteren Organisationen die Konzernverantwortungsinitiative lanciert. Ziel dieser Initiative ist es, verbindliche Regeln für Konzerne zum Schutz von Mensch und Umwelt zu schaffen – auch bei Auslandstätigkeiten. Die Sorgfaltsprüfungspflicht ist ein zentrales Element, um im wirtschaftlichen Wettbewerb auch mehr Fairness zu schaffen. Denn ein grosser Teil der Schweizer Unternehmen handelt schon heute vorbildlich und soll gegenüber skrupello-sen Konkurrenten nicht länger benachteiligt bleiben.
+> Liste der angefragten Firmen:
+> Ahong, Apple, BYD, Daimler, Dell, HP, Huawei, Inventec, Lenovo, LG, Microsoft, Samsung, Sony, Voda-fone, Volkswagen und ZTE.“
 
 ### Gesundheitsrisiko
 
@@ -116,20 +117,21 @@ Hier wird unterteilt in Sole oder Festgestein des Lithium Vorkommens. Das sogena
 ### Herstellung
 
 Die Sole wird in zirka 200 bis 400 Meter Tiefe unter den Salzseen Boliviens, Argentiniens und Chile aufgefunden, wobei sich das Festgestein in Minen befindet. In Salzseen wird es wie folgt abgebaut:
->„Für die Erzeugung von Lithium wird das stark mineralhaltige Grundwasser (die Salzlake) zum gezielten Verdunsten in riesige künstlich angelegte Becken gepumpt. Durch zahlreiche Verdunstungsschritte ist es möglich, die benötigte Konzentration an Lithium zu erreichen, um Lithium-Karbonat zu erzeugen, welches weiterverarbeitet wird. Neben Lithium kann auch Kaliumchlorid mit diesem Verfahren gewonnen werden. Je nach Abbaugebiet ist das Haupterzeugnis Lithium und das Nebenprodukt Kalium oder umgekehrt.“
+
+> „Für die Erzeugung von Lithium wird das stark mineralhaltige Grundwasser (die Salzlake) zum gezielten Verdunsten in riesige künstlich angelegte Becken gepumpt. Durch zahlreiche Verdunstungsschritte ist es möglich, die benötigte Konzentration an Lithium zu erreichen, um Lithium-Karbonat zu erzeugen, welches weiterverarbeitet wird. Neben Lithium kann auch Kaliumchlorid mit diesem Verfahren gewonnen werden. Je nach Abbaugebiet ist das Haupterzeugnis Lithium und das Nebenprodukt Kalium oder umgekehrt.“
 
 -[Global2000.at](https://www.global2000.at/lithium)
 
 Dies hat keine grosse Auswirkung auf die Umwelt, wobei der Abbau als Festgestein grosse Ausgrabungstätte erfordert. Wie im norden Portugals, im Dorf Covas wo eine bekannte Grünfläche die "Hinter den Bergen" benannt ist, zum Steinbruch wurde. Dies führte zum Aufruhr der Bevölkerung, jedoch sieht der Energiestaatssekräter João Galamba die Zukunft dieser Ressource. Wie das Magazin [Deutschlandfunkkultur](https://www.deutschlandfunkkultur.de/lithium-krieg-in-portugal-elektroautos-und-die-folgen.979.de.html?dram:article_id=468799) bekannt gab.
 
->„Es geht um rund 300 Arbeitsplätze im Bergwerk und viele im weiterverarbeitenden Bereich. Unser Lithium-Plan ist ein wichtiger Impuls für die Industrie und schafft Arbeitsplätze in infrastrukturschwachen, abgelegenen Regionen. Wenn das umweltverträglich geschieht und die Lebensqualität in den benachteiligten Regionen entscheidend verbessert, ist das ein wichtiger Beitrag zur Regionalentwicklung.“
+> „Es geht um rund 300 Arbeitsplätze im Bergwerk und viele im weiterverarbeitenden Bereich. Unser Lithium-Plan ist ein wichtiger Impuls für die Industrie und schafft Arbeitsplätze in infrastrukturschwachen, abgelegenen Regionen. Wenn das umweltverträglich geschieht und die Lebensqualität in den benachteiligten Regionen entscheidend verbessert, ist das ein wichtiger Beitrag zur Regionalentwicklung.“
 
 -João Galamba
 
 Der Salzsee Boliviens, Salar de Uyuni, ist der grösste der Welt. Als Chemiker herausfanden, dass sich in diesem Salzsee mehr als nur Kochsalz verbirgt, versuchte Evo Morales die Lithiumgewinnung aus eigener Kraft zu stemmen. Viele internationale Firmen boten der Regierung Handelsverträge an, wie in Argentinien und Chile, wo der Abbau bereits floriert.
-Laut dem [NZZ](https://www.nzz.ch/wirtschaft/fuer-bolivien-schlaegt-die-stunde-des-lithiums-ld.1406025) lud Evo Morales 8 internationale Konsorten ein. 
+Laut dem [NZZ](https://www.nzz.ch/wirtschaft/fuer-bolivien-schlaegt-die-stunde-des-lithiums-ld.1406025) lud Evo Morales 8 internationale Konsorten ein.
 
->"Was er unter allen Umständen verhindern wollte, war ein Vertrag mit einem ausländischen Unternehmen, das lediglich am Verkauf des Rohstoffs interessiert wäre."
+> "Was er unter allen Umständen verhindern wollte, war ein Vertrag mit einem ausländischen Unternehmen, das lediglich am Verkauf des Rohstoffs interessiert wäre."
 
 -NZZ
 
@@ -147,6 +149,4 @@ Laut dem [NZZ](https://www.nzz.ch/wirtschaft/fuer-bolivien-schlaegt-die-stunde-d
 Gemäß [Carl Roth](https://www.carlroth.com/medias/SDB-3995-DE-DE.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wxOTg3Mzd8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oZjEvaDhjLzg5NDc4Mzc1MDE0NzAucGRmfDBhNzY2NjM1M2E3N2U2YmQ2ZTMwNGE2YTVlZjQwNWUzOGYyNWI0ZGQ1NDU1ZDAyYTA1YjA2MWVkNDdhNTc1OTY) sind folgende Sicherheitsmaßnahmen einzuhalten unter den entsprechenden Umständen:
 Auch hier ist ein Hautschutz sowie Augenschutz zu verwenden und bei Staubpartikeln wird ein Partikelschutz von mindestens. 94% benötigt. Bei Augenkontakt ist mit starken Augenreizungen zu rechnen. Sonst gibt es keine spezifischen Angaben über die Toxizität.
 
-
-
-*Alle Diagramme wurden mit den Daten von https://www.usgs.gov/ und https://www.deutsche-rohstoffagentur.de zusammen getragen und selbst erstellt.
+\*Alle Diagramme wurden mit den Daten von https://www.usgs.gov/ und https://www.deutsche-rohstoffagentur.de zusammen getragen und selbst erstellt.

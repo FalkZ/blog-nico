@@ -1,5 +1,6 @@
 ---
-title: |
+title: The Vietnam war
+heading: |
   The Vietnam war 
   [layout check].
 description: >

@@ -1,5 +1,6 @@
 ---
-title: |
+title: Was kostet die Umwelt ein Elektroauto 2
+heading: |
   Was kostet die Umwelt ein Elektroauto? 
   Teil 2
 description: Tesla ist eine US amerikanische Firma und der bedeutendste Elektromobil Hersteller der Welt. Bekannt dafür als erster ernstzunehmender Konkurrent der konventionellen Fahrzeugindustrie. Nehmen wir in Augenschein, ob die Firma wirklich so Umweltbewusst produziert wie sie behauptet.
@@ -29,8 +30,6 @@ Tesla möchte alle Fabriken komplett durch erneuerbare Energien versorgen und is
 Der Wasserverbrauch ist somit verkraftbar, wenn man es mit dem Wasserverbrauch zur Herstellung einer halben Jeans zu tun hat. Ein guter Vergleich hierzu ist das leistungsstarke Tesla Model 3, welches 900‘000km Fahrt garantiert bevor man den Akku ersetzen muss.
 
 ## Recycling
-
-
 
 ## Herstellung
 
@@ -79,7 +78,4 @@ Das bedeutet, es wurde der Ausstoss des grössten verfügbaren Akkus genommen un
 Nach den neuen Angaben beträgt der Ausstoss eines Elektrofahrzeugs 61 bis 106 kg CO2 pro Kilowattstunde.
 Das bedeutet, nach 50'000Km Fahrt, fährt man nachhaltiger als mit einem Verbrenner samt den Produktionskosten. Diese Daten sind natürlich abhängig von der Stromquelle. 50'000Km ist durch den Strommix in Europa errechnet. Bezieht die Quelle jedoch ausschliesslich Strom von einem Kohlekraftwerk, trifft der Punkt erst ab 310'000Km. Das bedeutet die Nachhaltigkeit der Quelle bestimmt wie umweltfreundlich ein Elektrofahrzeug ist.
 
-
 # Fazit
-
-

@@ -1,5 +1,6 @@
 ---
-title: |
+title: Die Entwicklung Afrikas
+heading: |
   Die Entwicklung Afrikas. 
   (In Progress)
 description:
@@ -8,5 +9,3 @@ tags:
   - Geschichte
 layout: layouts/post.njk
 ---
-
-
