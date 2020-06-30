@@ -472,4 +472,8 @@ main, p, li, blockquote{
     white-space: initial;
   
   }
+
+  .home{
+    font-size: 35px;
+  }
 }
