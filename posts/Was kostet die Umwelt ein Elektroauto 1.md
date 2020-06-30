@@ -43,15 +43,15 @@ Aus dem Datenblatt von [Carl Roth](https://www.carlroth.com/medias/SDB-7614-DE-D
 
 ### Herstellung
 
-Die Herstellung ist verrufen, da 64% des Kobalts aus dem Kongo stammt und unter sehr schlechten Bedingungen abgebaut. Kinderarbeit in den Minen und bereits mehrere tödliche Unfälle wurden bestätigt. [CBS](https://www.cbsnews.com/) war live vor Ort und bestätigte, dass über 10‘000 etwa 10 Jährige Kinder ohne Sicherheitsvorkehrungen arbeiteten. In den Minen wird es abgebaut und in Flüssen sauber gewaschen. Danach wird es in verschiedenen Seidensäcken, meist von Hand oder mit provisorischen Fortbewegungsmittel transportiert. Die Säcke werden nicht angeschrieben und Kobalt ist nicht das einzige Produkt, welches aus den Minen abgebaut wird. So ist eine Verfolgung sehr schwer nachzuvollziehen. Die Reporterin, Debora Patta und ihr Team vom Nachrichten Sender CBS [filmte](https://www.youtube.com/watch?v=RBf58FjxJmk) die Szene vor Ort und befragte einen chinesischen Käufer, an welche Firma das Kobalt geliefert werde. Dieser jedoch antwortete nur, das Kobalt sei rein. Einheimische erzählten ihr von einer chinesischen Firma Namens Congo Dong Fang Mining. CDM gehört Huayou, laut offizieller Aussage hat Huayou seit 2017 nichts mehr mit diesem Markt zu tun. Aber nicht nur Huayou sondern, alle Firmen die Akkus benötigen, beziehen das Kobalt größtenteils von diesem Markt. Betroffene Firmen geben die Probleme zu sagen aber, sie bräuchten Unterstützer um verantwortungsvolle Beschaffungsrechtlinien einzuführen. Der Wohltätigkeitsverein [Good Shepard Project](https://www.goodshepherdproject.org.uk/about) hilft vor Ort, um Kinder von den Minen abzubringen und die Möglichkeit auf Bildung gewährt. Nachdem es öffentlich wurde, dass, Congo Don Fang Kinderarbeit in der Kobalt Beschaffung miteinschließt, spendete CDM US$71‘000. Der Betrag ist jedoch kläglich wenn man berücksichtigt, dass die Firma alleine mit dem Markt dort, einen jährlichen Umsatz von über 100 Millionen US Dollar erzielt.
+Die Herstellung ist verrufen, da 64% des Kobalts aus dem Kongo stammt und unter sehr schlechten Bedingungen abgebaut. Kinderarbeit in den Minen und bereits mehrere tödliche Unfälle wurden bestätigt. [CBS](https://www.cbsnews.com/) war live vor Ort und bestätigte, dass über 10‘000 etwa 10 Jährige Kinder ohne Sicherheitsvorkehrungen arbeiteten. In den Minen wird es abgebaut und in Flüssen sauber gewaschen. Danach wird es in verschiedenen Seidensäcken, meist von Hand oder mit provisorischen Fortbewegungsmittel transportiert. Die Säcke werden nicht angeschrieben und Kobalt ist nicht das einzige Produkt, welches aus den Minen abgebaut wird. So ist eine Verfolgung sehr schwer nachzuvollziehen. Die Reporterin, Debora Patta und ihr Team vom Nachrichten Sender CBS [filmte](https://www.youtube.com/watch?v=RBf58FjxJmk) die Szene vor Ort und befragte einen chinesischen Käufer, an welche Firma das Kobalt geliefert werde. Dieser jedoch antwortete nur, das Kobalt sei rein. Einheimische erzählten ihr von einer chinesischen Firma Namens Congo Dong Fang Mining kurz CDM. CDM gehört Huayou, laut offizieller Aussage hat Huayou seit 2017 nichts mehr mit diesem Markt zu tun. Aber nicht nur Huayou sondern, alle Firmen die Akkus benötigen, beziehen das Kobalt größtenteils von diesem Markt. Betroffene Firmen geben die Probleme zu sagen aber, sie bräuchten Unterstützer um verantwortungsvolle Beschaffungsrechtlinien einzuführen. Der Wohltätigkeitsverein [Good Shepard Project](https://www.goodshepherdproject.org.uk/about) hilft vor Ort, um Kinder von den Minen abzubringen und die Möglichkeit auf Bildung gewährt. Nachdem es öffentlich wurde, dass, Congo Don Fang Kinderarbeit in der Kobalt Beschaffung miteinschließt, spendete CDM US$71‘000. Der Betrag ist jedoch kläglich wenn man berücksichtigt, dass die Firma alleine mit dem Markt dort, einen jährlichen Umsatz von über 100 Millionen US Dollar erzielt.
 
 ## Sammelklage an Apple, Alphabet, Google, Dell, Microsoft and Tesla
 
-> “Apple, Alphabet, Dell, Microsoft and Tesla, Which Are Aiding and Abetting Extreme Abuse of Children Mining Cobalt in DRC, Must Provide Support to the Mining Families That Have Suffered Serious Injuries and Require Their Suppliers Glencore and Huayou Cobalt”
+> “Apple, Alphabet, Dell, Microsoft and Tesla, which are aiding and abetting extreme abuse of children mining cobalt in DRC, must provide support to the mining families that have suffered serious injuries and require their suppliers Glencore and Huayou Cobalt”
 
 - Iradvocates
 
-Die Menschenrechtsorganisation [International rights advocates](http://www.iradvocates.org/) nahm Kontakt auf zu betroffenen Minenarbeitern und deren Familien. Am 15.12.2019 reichte die Vereinigung [Beschwerde](http://iradvocates.org/sites/iradvocates.org/files/stamped%20-Complaint.pdf) ein. In 79 Seiten fassen sie Unfälle, darunter tödliche zusammen, zeigen rechtwidrige Arbeitsbedingungen auf und wie die angeklagten Firmen diese Umstände unterstützen und Verantwortung übernehmen sollen.
+Die Menschenrechtsorganisation "International rights advocates" nahm Kontakt auf zu betroffenen Minenarbeitern und deren Familien. Am 15.12.2019 reichte die Vereinigung [Beschwerde](http://iradvocates.org/sites/iradvocates.org/files/stamped%20-Complaint.pdf) ein. In 79 Seiten fassen sie Unfälle, darunter tödliche zusammen, zeigen rechtwidrige Arbeitsbedingungen auf und wie die angeklagten Firmen diese Umstände unterstützen und Verantwortung übernehmen sollen.
 Auch Glencore steht in Anklage, da in dessen Minen auch Kinderarbeit stattfinden soll. Glencore verkauft sein Kobalt an Umicore, einem belgischen Unternehmen, dieses beliefert wiederum Apple, Google, Tesla, Microsoft und Dell mit Kobalt.
 Die Anklage behauptet, dass Apple, Microsoft und Dell direkte Unterstütze von Huayou seien in, dessen Minen ebenfalls Kinderarbeit betrieben wird.
 Die Familien, die in den Minen arbeiten, sagten sie verdienen 2\$ pro Tag mit ihrer Arbeit.
@@ -72,18 +72,16 @@ Auch Tesla meldete sich, Sie sind seit 2018 auf der Suche nach einer effektivere
 3.  Gold
 4.  Wolfram
 5.  jegliche Derivate der genannten Rohstoffe.
-    > Diese Richtlinie verfolgt das Ziel, sicherzustellen, dass Produkte von Tesla weder direkt noch indirekt bewaffnete Gruppen finanzieren oder Gruppen zugutekommen, die sich durch den Bergbau oder den >Mineralienhandel in der Demokratischen Republik Kongo oder einem angrenzenden Land bereichern.“
 
 - Tesla
 
 ### Die Meinung von Amnesty
 
-> „[Time to Recharge](https://www.amnestyusa.org/reports/time-to-recharge/) untersucht die Fortschritte, die Huayou Cobalt und 28 weitere Unternehmen gemacht haben, seit sie mit dem Vorwurf der Kinderarbeit im Januar 2016 konfrontiert wurden. Dabei zeigt sich: Keines der Unternehmen unternimmt angemessene Schritte, um internationale Standards tatsächlich zu befolgen. Und das, obwohl alle 29 Unternehmen über die Menschenrechtsrisiken und die Missbrauchsfälle informiert wurden.
+„[Time to Recharge](https://www.amnestyusa.org/reports/time-to-recharge/) untersucht die Fortschritte, die Huayou Cobalt und 28 weitere Unternehmen gemacht haben, seit sie mit dem Vorwurf der Kinderarbeit im Januar 2016 konfrontiert wurden. Dabei zeigt sich: Keines der Unternehmen unternimmt angemessene Schritte, um internationale Standards tatsächlich zu befolgen. Und das, obwohl alle 29 Unternehmen über die Menschenrechtsrisiken und die Missbrauchsfälle informiert wurden.
 > Deshalb hat [Amnesty International](https://www.amnesty.ch/de/themen/wirtschaft-und-menschenrechte/dok/2017/kaum-fortschritte-beim-kampf-gegen-kinderarbeit-beim-kobalt-abbau#) in der Schweiz gemeinsam mit 70 weiteren Organisationen die Konzernverantwortungsinitiative lanciert. Ziel dieser Initiative ist es, verbindliche Regeln für Konzerne zum Schutz von Mensch und Umwelt zu schaffen – auch bei Auslandstätigkeiten. Die Sorgfaltsprüfungspflicht ist ein zentrales Element, um im wirtschaftlichen Wettbewerb auch mehr Fairness zu schaffen. Denn ein grosser Teil der Schweizer Unternehmen handelt schon heute vorbildlich und soll gegenüber skrupello-sen Konkurrenten nicht länger benachteiligt bleiben.
-> Liste der angefragten Firmen:
-> Ahong, Apple, BYD, Daimler, Dell, HP, Huawei, Inventec, Lenovo, LG, Microsoft, Samsung, Sony, Voda-fone, Volkswagen und ZTE.“
+Liste der angefragten Firmen:
+Ahong, Apple, BYD, Daimler, Dell, HP, Huawei, Inventec, Lenovo, LG, Microsoft, Samsung, Sony, Voda-fone, Volkswagen und ZTE.“
 
-- Amnesty International
 
 ### Gesundheitsrisiko
 
@@ -98,7 +96,7 @@ Es ist immer einen Hautschutz zu verwenden wie auch ein Augen- oder Gesichtsschu
 Das Einatmen oder der Hautkontakt kann die Fruchtbarkeit beeinträchtigen, Krebs erzeugen und vermutlich genetische Defekte verursachen. Beim Einatmen können Atembeschwerden bis Atemnot eintreffen. Es wirkt aggressiv auf Niere, Herz, die Bauchspeicheldrüse und führt zu Blutdruckabfall.
 Ist sehr giftig für Wasserorganismen.
 
-> „So schädigt das Einatmen hoher Konzentrationen die Lunge, Asthma und Lungenentzündungen können eintreten. Zur gefährdeten Personengruppe zählen vor allem Arbeiter, die mit Kobalt hantieren müssen.
+> „So schädigt das Einatmen hoher Konzentrationen die Lunge, Asthma und Lungenentzündungen können eintreten. Zur gefährdeten Personengruppe zählen vor allem Arbeiter, die mit Kobalt hantieren müssen."
 > Pflanzen, die auf mit Kobalt kontaminierten Böden wachsen, reichern es in kleinen Partikeln an- Haupt-sächlich in den Teilen, die gegessen werden, wie in Früchten und Samen. Stark kontaminiert sind meist Böden in der Nähe von Bergbau- und Schmelzwerken.
 
 - [Lenntech.de](https://www.lenntech.de/pse/elemente/co.htm)
@@ -148,6 +146,7 @@ Laut dem [NZZ](https://www.nzz.ch/wirtschaft/fuer-bolivien-schlaegt-die-stunde-d
 
 Gemäß [Carl Roth](https://www.carlroth.com/medias/SDB-3995-DE-DE.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wxOTg3Mzd8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oZjEvaDhjLzg5NDc4Mzc1MDE0NzAucGRmfDBhNzY2NjM1M2E3N2U2YmQ2ZTMwNGE2YTVlZjQwNWUzOGYyNWI0ZGQ1NDU1ZDAyYTA1YjA2MWVkNDdhNTc1OTY) sind folgende Sicherheitsmaßnahmen einzuhalten unter den entsprechenden Umständen:
 Auch hier ist ein Hautschutz sowie Augenschutz zu verwenden und bei Staubpartikeln wird ein Partikelschutz von mindestens. 94% benötigt. Bei Augenkontakt ist mit starken Augenreizungen zu rechnen. Sonst gibt es keine spezifischen Angaben über die Toxizität.
+
 
 
 *Alle Diagramme wurden mit den Daten von https://www.usgs.gov/ und https://www.deutsche-rohstoffagentur.de zusammen getragen und selbst erstellt.

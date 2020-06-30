@@ -28,6 +28,10 @@ Tesla möchte alle Fabriken komplett durch erneuerbare Energien versorgen und is
 Über den [Tagesspiegel](https://www.tagesspiegel.de/wirtschaft/tesla-akkus-wenn-elf-avocados-umweltschaedlicher-als-eine-e-auto-batterie-sind/25291904.html) berichtet Maximilian Fichtner, Direktor am Helmholtz-Institut, über den Wasserverbauch einer E-Auto Batterie. Nach den gängigen Berechnungsmethoden verdunstet 3840 Liter Wasser für die Gewinnung von Lithium zur Herstellung eines Akkus mit einer Kapazität von 64Kw/h. Dies entspricht dem Verbrauch bei der Produktion von 250 Gramm Rindfleisch, zehn Avocados, 30 Tassen Kaffee oder einer halben Jeans. Laut Fichtner ist der Entwicklungsstand bereits soweit, dass 2025, kobaltfreie Akkumulatoren auf dem Markt sein werden.
 Der Wasserverbrauch ist somit verkraftbar, wenn man es mit dem Wasserverbrauch zur Herstellung einer halben Jeans zu tun hat. Ein guter Vergleich hierzu ist das leistungsstarke Tesla Model 3, welches 900‘000km Fahrt garantiert bevor man den Akku ersetzen muss.
 
+## Recycling
+
+
+
 ## Herstellung
 
 Viele Elektromobilhersteller zeigen sich zurückhaltend bei der Offenlegung der benötigten Menge an Material zur Herstellung eines Akkus. Tesla hingegen gibt seine Kosten bekannt. Für einen Lithium-Ionen Akkumulator wird zirka 8 kg Lithium benötigt. Im Vergleich mit einem IPhone ist das gerade mal 1 Gramm. Im Durchschnitt benötigt ein Lithium-Ionen Akkumulator 40 - 100 Kg Graphit und 4.5kg Kobalt, was einen Anteil von 2.8% ausmacht. Der Autohersteller hat ebenfalls all seine Patente der Autoherstellung komplett frei zugänglich gemacht, um die Branche anzukurbeln.
@@ -74,3 +78,8 @@ Das bedeutet, es wurde der Ausstoss des grössten verfügbaren Akkus genommen un
 2019 wurde diese [Studie](https://www.ivl.se/download/18.14d7b12e16e3c5c36271070/1574923989017/C444.pdf) aktualisiert.
 Nach den neuen Angaben beträgt der Ausstoss eines Elektrofahrzeugs 61 bis 106 kg CO2 pro Kilowattstunde.
 Das bedeutet, nach 50'000Km Fahrt, fährt man nachhaltiger als mit einem Verbrenner samt den Produktionskosten. Diese Daten sind natürlich abhängig von der Stromquelle. 50'000Km ist durch den Strommix in Europa errechnet. Bezieht die Quelle jedoch ausschliesslich Strom von einem Kohlekraftwerk, trifft der Punkt erst ab 310'000Km. Das bedeutet die Nachhaltigkeit der Quelle bestimmt wie umweltfreundlich ein Elektrofahrzeug ist.
+
+
+# Fazit
+
+
