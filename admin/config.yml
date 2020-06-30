@@ -16,13 +16,13 @@ collections:
           widget: "hidden",
           default: "layouts/post.njk",
         }
-      - { label: "Filename", name: "title", widget: "string" }
+      - { label: "Filename", name: "identifier_field", widget: "string" }
       - { label: "Title", name: "heading", widget: "text" }
       - { label: "Publish Date", name: "date", widget: "date", format: "YYYY-MM-DD" }
-      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Description", name: "description", widget: "text", required: false }
       - label: "tags"
         name: "tags"
         widget: "list"
         summary: "{{fields.tag}}"
         field: { label: Tag, name: tag, widget: string }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
