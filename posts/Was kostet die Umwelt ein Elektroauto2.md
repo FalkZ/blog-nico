@@ -80,6 +80,6 @@ Nach den neuen Angaben beträgt der Ausstoss eines Elektrofahrzeugs 61 bis 106 k
 Das bedeutet, nach 50'000Km Fahrt, fährt man nachhaltiger als mit einem Verbrenner samt den Produktionskosten. Diese Daten sind natürlich abhängig von der Stromquelle. 50'000Km ist durch den Strommix in Europa errechnet. Bezieht die Quelle jedoch ausschliesslich Strom von einem Kohlekraftwerk, trifft der Punkt erst ab 310'000Km. Das bedeutet die Nachhaltigkeit der Quelle bestimmt wie umweltfreundlich ein Elektrofahrzeug ist.
 
 
-#Fazit
+# Fazit
 
 
