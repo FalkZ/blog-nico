@@ -89,7 +89,11 @@ Auch Tesla meldete sich, Sie sind seit 2018 auf der Suche nach einer effektivere
 
 <div class="inline">
 
-![](/img/gesundheitsschaedigend.png) ![](/img/vorsicht.png) ![](/img/gewaessergefaehrdend.png)
+![](/img/gesundheitsschaedigend.png) 
+
+![](/img/vorsicht.png) 
+
+![](/img/gewaessergefaehrdend.png)
 
 </div>
 
