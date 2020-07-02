@@ -69,11 +69,11 @@ Auch Tesla meldete sich, Sie sind seit 2018 auf der Suche nach einer effektivere
 
 > „Teslas Zulieferer müssen alle zumutbaren Anstrengungen unternehmen, um sicherzustellen, dass an Tesla gelieferte Teile und Produkte „konfliktfrei“ in Bezug auf die Demokratische Republik Kongo sind. Das bedeutet, dass solche Konfliktrohstoffe keine bewaffneten Gruppen in der Demokratischen Republik Kongo begünstigen dürfen. Konfliktfrei bedeutet hier, dass solche Teile und Lieferungen keine Metalle enthalten, die aus „Konfliktrohstoffen“ hergestellt wurden. Diese werden wie folgt definiert:
 
-1.  Columbo-Tantalit (Tantal)
-2.  Kassiterit (Zinnstein)
-3.  Gold
-4.  Wolfram
-5.  jegliche Derivate der genannten Rohstoffe.
+>1.  Columbo-Tantalit (Tantal)
+>2.  Kassiterit (Zinnstein)
+>3.  Gold
+>4.  Wolfram
+>5.  jegliche Derivate der genannten Rohstoffe.
 
 - Tesla
 
