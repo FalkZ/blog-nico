@@ -469,7 +469,7 @@ main, p, li, blockquote{
 
 @media only screen and (max-width: 720px) {
 .postlist-link{
-    white-space: initial;
+    /* white-space: initial; */
   
   }
 
