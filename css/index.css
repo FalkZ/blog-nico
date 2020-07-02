@@ -323,6 +323,10 @@ img{
   margin-right: 10px;
 }
 
+.inline *{
+  display: inline-block;
+}
+
 .about img[alt="Profilbild"]{
   object-fit: cover;
 margin: 0;
