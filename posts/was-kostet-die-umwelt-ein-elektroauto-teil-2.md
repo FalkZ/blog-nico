@@ -38,7 +38,7 @@ Der Wasserverbrauch ist somit verkraftbar, wenn man es mit dem Wasserverbrauch z
 
 Die meisten Elektromobilhersteller sprechen von 8 Jahren Betriebsdauer, bevor die Batterie ausgewechselt werden sollte. Was danach mit dem Akku passiert, ist unklar. Viele E-Auto Hersteller äussern sich wage z.B. man könne die Batterie als Speicher für ein Gebäude verwenden. Von einem klaren Konzept ist nicht die Rede. Der Markt ist noch sehr jung, was natürlich auch zu beachten ist. Wie bei jeder neuen Erfindung investierte man nicht in die Infrastruktur der Elektromobilität bevor man nicht wusste, ob diese floriert. Trotzdem wuchs Tesla enorm schnell. 
 Bis jetzt übernehmen Recyclings Firmen das Wiederverwerten von E-Auto Batterien. In der Schweiz ist es die Firma Batrec die bereits für verschiedene Elektrofahrzeugunternehmen rezyklieren. Wie der [SRF]( https://www.srf.ch/news/wirtschaft/mobilitaet-im-umbruch-am-ende-bleibt-die-batterie) berichtet, stammen nicht einmal ein Prozent aller Batterien von E-Autos.
-Für eine nachhaltige Zukunft ist eine Infrastruktur dringend nötig, Tesla besitzt in Nordamerika bereits ein [Recycling System]( https://www.tesla.cn/en/blog/teslas-closed-loop-battery-recycling-program#deutsch) für Batterien, die 60% der verwendeten Mineralien wiederverwendet. Zurzeit entwickelt Tesla Motors ein Konzept mit der belgischen Firma Umicore die für ganz Europa ein Recycling System bietet, welches 70% der CO2-Emissionen einsparen soll. Die Firma hat auch in Planung die Akkumulatoren in den jeweiligen Gigafactories selbst zu verwerten.
+Für eine nachhaltige Zukunft ist eine Infrastruktur dringend nötig. Tesla besitzt in Nordamerika bereits ein [Recycling System]( https://www.tesla.cn/en/blog/teslas-closed-loop-battery-recycling-program#deutsch) für Batterien, die 60% der verwertet Mineralien wiederverwendet. Zurzeit entwickelt Tesla Motors ein Konzept mit der belgischen Firma Umicore die für ganz Europa ein Recycling System bietet, welches 70% der CO2-Emissionen einsparen soll. Die Firma hat auch in Planung die Akkumulatoren in den jeweiligen Gigafactories selbst zu verwerten.
 >“Während wir dabei helfen, die globale Abhängigkeit von auf Öl basierendem Verkehr zu mindern, und die Kosten von Elektroautos zu senken, übernehmen wir auch die Führung in der Entwicklung eines geschlossenen Batterie-Recycling-Systems“
 - Kurt Kelty Director (Tesla) Energy Systems
 
@@ -95,4 +95,9 @@ Das bedeutet, es wurde der Ausstoss des grössten verfügbaren Akkus genommen un
 2019 wurde diese [Studie](https://www.ivl.se/download/18.14d7b12e16e3c5c36271070/1574923989017/C444.pdf) aktualisiert.
 Nach den neuen Angaben beträgt der Ausstoss eines Elektrofahrzeugs 61 bis 106 kg CO2 pro Kilowattstunde.
 Das bedeutet, nach 50'000Km Fahrt, fährt man nachhaltiger als mit einem Verbrenner samt den Produktionskosten. Diese Daten sind natürlich abhängig von der Stromquelle. 50'000Km ist durch den Strommix in Europa errechnet. Bezieht die Quelle jedoch ausschliesslich Strom von einem Kohlekraftwerk, trifft der Punkt erst ab 310'000Km. Das bedeutet die Nachhaltigkeit der Quelle bestimmt wie umweltfreundlich ein Elektrofahrzeug ist.
+
+
+## Stromversorgung
+
+Was wenn alle Verbrenner durch E-Autos ersetzt werden würden? Bräuchten wir mehr Atom- oder Kohlekraftwerke? Werden erneuerbare Energieressourcen jemals den Stromverbrauch der Welt decken können? Diese Frage stellte sich auch die Universität für Technologie in Finnland. Gemäss ihrer [Studie](http://energywatchgroup.org/wp-content/uploads/2017/11/Full-Study-100-Renewable-Energy-Worldwide-Power-Sector.pdf) wäre es möglich die ganze Welt bis 2050 mit erneuerbarer Energie zu versorgen. 
 
