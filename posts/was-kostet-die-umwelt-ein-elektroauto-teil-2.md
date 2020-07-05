@@ -102,7 +102,7 @@ Das bedeutet, nach 50'000Km Fahrt, fährt man nachhaltiger als mit einem Verbren
 
 Was wenn alle Verbrenner durch E-Autos ersetzt werden würden? Bräuchten wir mehr Atom- oder Kohlekraftwerke? Werden erneuerbare Energieressourcen jemals den Stromverbrauch der Welt decken können? Diese Frage stellte sich auch die Universität für Technologie in Finnland. Gemäss ihrer [Studie](http://energywatchgroup.org/wp-content/uploads/2017/11/Full-Study-100-Renewable-Energy-Worldwide-Power-Sector.pdf) wäre es möglich die ganze Welt bis 2050 mit erneuerbarer Energie zu versorgen. 
 
-![](/img/Erneuerbare Energien.PNG)
+![](/img/ErneuerbareEnergien.PNG)
 (Bild: Energywatchgroup)
 
 Bereits nach 4 Jahren im 2019 gab es einen Zuwachs von knapp 13% an erneuerbarer Energiequellen, das sind um genauer zu sein [34,7%]( https://www.solarserver.de/2020/04/06/erneuerbare-energie-weltweit-zuwachs-von-176-gw-in-2019/).
