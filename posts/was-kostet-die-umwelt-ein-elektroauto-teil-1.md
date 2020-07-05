@@ -13,8 +13,9 @@ description: Schon zu oft wurde mit Schlagzeilen die Elektromobilindustrie in
   heutigen Stand bringen.
 tags:
   - Technik
-  - Umwelt
   - Industrie
+  - Umwelt
+  - Energie
 ---
 
 # Die Batterie
