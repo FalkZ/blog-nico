@@ -101,3 +101,19 @@ Das bedeutet, nach 50'000Km Fahrt, fährt man nachhaltiger als mit einem Verbren
 
 Was wenn alle Verbrenner durch E-Autos ersetzt werden würden? Bräuchten wir mehr Atom- oder Kohlekraftwerke? Werden erneuerbare Energieressourcen jemals den Stromverbrauch der Welt decken können? Diese Frage stellte sich auch die Universität für Technologie in Finnland. Gemäss ihrer [Studie](http://energywatchgroup.org/wp-content/uploads/2017/11/Full-Study-100-Renewable-Energy-Worldwide-Power-Sector.pdf) wäre es möglich die ganze Welt bis 2050 mit erneuerbarer Energie zu versorgen. 
 
+![](/img/Erneuerbare Energien.PNG)
+(Bild: Energywatchgroup)
+
+Bereits nach 4 Jahren im 2019 gab es einen Zuwachs von knapp 13% an erneuerbarer Energiequellen, das sind um genauer zu sein [34,7%]( https://www.solarserver.de/2020/04/06/erneuerbare-energie-weltweit-zuwachs-von-176-gw-in-2019/).
+
+### Solarenergie
+
+Fast ¾ der erneuerbaren Energie soll der Solarenergie entspringen. Nicht nur die Studie sieht die Zukunft in Photovoltaikanlagen sondern auch Elon Musk und diverse andere Experten. Es stimmt, seit den 20 Jahren in denen Photovoltaik eingesetzt wurde, gab es riesige Sprünge in der Effizienz. Der jeweilige Hersteller übernimmt auch die Kosten des Recyceln. Anhand der Daten von [Photovoltaic Power Systems Programme](https://iea-pvps.org/publications/) die seit 1993 an der Solar Energie forschen, sieht man in einem Diagramm eine immense Leistungsverbesserung.
+
+![](/img/Photovoltaikanlagen.PNG)
+(Bild: Wikimedia)
+
+>Its better to get to a renewable future, sustainable future sooner rather than later and get there before we do the environmental damage then not after”
+-Elon Musk
+Mariska de Wild-Scholten von der niederländischen Firma SmartGreenScans sagte "Bei einer für Mitteleuropa typischen Einstrahlung dauert es zweieinhalb Jahre, bis eine herkömmliche kristalline Anlage die Energie erzeugt hat, die in ihre Fertigung gesteckt wurde" Die Firma Smartgreen ist spezialisiert auf die Lebenszyklusanalyse der Photovoltaik-Technik. Es gibt verschiedene Herstellungsverfahren einer solchen Anlage, die meisten jedoch verschmutzen die Umwelt. Chemikalien und Schwermetalle, die ins Abwasser gelangen oder [Stickstofftrifluorid](https://www.heise.de/hintergrund/Die-schmutzige-Seite-des-sauberen-Stroms-1279759.html), die in die Atmosphäre gelangt. Derzeit gibt es Firmen, die sich nach dem „triple Green“ Gesetz richten. Grüne Stromerzeugung, grünes Herstellungs- und Recyclingverfahren. Jedoch ist dieser Markt noch sehr jung und teuer. Wie die Firma Greenfab oder Q-Cells vorgeht ist vorbildlich. Greenfab hat als Beispiel noch keine ihrer Anlagen verkaufen können, da der Preis noch zu hoch ist und Firmen aus China einen starken Preisdruck ausüben. Das bedeutet, der Markt wird von Firmen dominiert, welche die billigen aber auch die umweltschädlichen Herstellungsverfahren anwenden. Carlos Lee vom Halbleiter-Branchenverband SEMI meint das triple green noch einen Durchbruch erleben wird, da man die Fortschritte in den letzten 15 Jahren enorm vorangetrieben hat. Auch der Photovoltaik Experte Eric Maiser vom deutschen Verband für Maschinen- und Anlagebau befürwortet den Fortschritt, wenn auch „Grün in kleinen Dosen“.
+
