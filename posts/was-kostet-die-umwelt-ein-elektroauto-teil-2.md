@@ -4,7 +4,7 @@ title: Was kostet die Umwelt ein Elektroauto Teil 2
 heading: |
   Was kostet die Umwelt ein Elektroauto? 
   Teil 2
-date: 2020-06-30
+date: 2020-07-05
 description: Tesla ist eine US amerikanische Firma und der bedeutendste
   Elektromobil Hersteller der Welt. Bekannt dafür als erster ernstzunehmender
   Konkurrent der konventionellen Fahrzeugindustrie. Nehmen wir in Augenschein,
