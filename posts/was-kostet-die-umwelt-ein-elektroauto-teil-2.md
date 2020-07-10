@@ -15,7 +15,8 @@ tags:
   - Umwelt
   - Energie
 ---
-![](/img/Tesla.PNG)
+
+![](/img/Tesla.jpg)
 
 
 # Tesla und Nachhaltigkeit
