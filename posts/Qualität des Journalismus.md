@@ -12,8 +12,6 @@ layout: layouts/post.njk
 ---
 
 
-# Wie wird die Qualität gemessen?
-
 Die Qualität definiert sich aus verschieden Aspekten. Zu einem die Prüfung der Quellen, die Ergründung von Zusammenhängen, Themenvielfalt und politisch wertvollen Inhalten. Als oberstes Gesetz gilt die unparteiische Berichterstattung und die Ausführlichkeit eines Berichtes. Studien und Fakten sowie die Befragung von Fachleuten oder von Zeugen eines Ereignisses zählen zu diesen Faktoren. Eine klare und für die Allgemeinheit verständliche Übermittlung ist ebenfalls sehr wichtig
 
 # Medienqualität Schweiz
