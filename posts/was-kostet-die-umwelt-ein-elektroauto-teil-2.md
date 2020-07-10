@@ -57,6 +57,7 @@ Viele Elektromobilhersteller zeigen sich zurückhaltend bei der Offenlegung der 
 
 ![](/img/Congomining.jpeg)
 *(Bild: ethicalconsumer.org)*
+
 Nach eigener Aussage via [Twitter](https://twitter.com/elonmusk/status/444359283736473600?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E444359283736473600&ref_url=https%3A%2F%2Fteslamag.de%2Fnews%2Ftesla-anschuldigungen-graphit-abbau-china-244) bezieht Elon Musk, Grafit auf sauberen Weg aus Japan über die Firma „Sumitomo Metal Mining“.
 Woher Tesla sein Kobalt bezieht ist schwierig nachzuvollziehen. Tesla produziert in seiner Gigafactory in China eigene Batteriezellen, viele jedoch bezieht er über andere Hersteller. Die Materialzulieferer funktionieren meist über mehrere Firmen. Laut der [Sammelklage](http://iradvocates.org/sites/iradvocates.org/files/stamped%20-Complaint.pdf) von IR Advocates wird Tesla angeklagt, betreffend eine seiner Lieferanten, LGChem. LGChem ist ein koreanisches Unternehmen und beliefert unter anderem: General Motor, Ford, Audi und Renault mit Batteriezellen.
 Tesla ist seit Anfangs 2020 in Verhandlungen mit dem Schweizer Unternehmen Glencore laut [Financal Times](https://www.ft.com/content/48fac39e-37a0-11ea-a6d3-9a26f8c3cba4), ein Jahr später als BMW. Glencore besitzt Minen in den DRC, Australien und in Marokko. Die Begründung ist, beide Unternehemen wollen ihr Kobalt aus ethnisch vertretbaren Quellen gewinnen. Tesla und Glencore äusserten sich nicht zu den Verhandlungen. BMW handelt bereits seit Anfang 2019 mit Glencore und sichert sich seine Materialien bis 2025. Zudem meldeten sie, sie würden das Kobalt nurnoch aus Australien und Marokko beziehen und den Kauf aus den DRC einstellen.
@@ -109,7 +110,7 @@ Das bedeutet, nach 50'000Km Fahrt, fährt man nachhaltiger als mit einem Verbren
 Was wenn alle Verbrenner durch E-Autos ersetzt werden würden? Bräuchten wir mehr Atom- oder Kohlekraftwerke? Werden erneuerbare Energieressourcen jemals den Stromverbrauch der Welt decken können? Diese Frage stellte sich auch die Universität für Technologie in Finnland. Gemäss ihrer [Studie](http://energywatchgroup.org/wp-content/uploads/2017/11/Full-Study-100-Renewable-Energy-Worldwide-Power-Sector.pdf) wäre es möglich die ganze Welt bis 2050 mit erneuerbarer Energie zu versorgen. 
 
 ![](/img/ErneuerbareEnergien.PNG)
-(Bild: Energywatchgroup)
+*(Bild: Energywatchgroup)*
 
 Bereits nach 4 Jahren im 2019 gab es einen Zuwachs von knapp 13% an erneuerbarer Energiequellen, das sind um genauer zu sein [34,7%]( https://www.solarserver.de/2020/04/06/erneuerbare-energie-weltweit-zuwachs-von-176-gw-in-2019/).
 
@@ -118,7 +119,7 @@ Bereits nach 4 Jahren im 2019 gab es einen Zuwachs von knapp 13% an erneuerbarer
 Fast ¾ der erneuerbaren Energie soll der Solarenergie entspringen. Nicht nur die Studie sieht die Zukunft in Photovoltaikanlagen sondern auch Elon Musk und diverse andere Experten. Es stimmt, seit den 20 Jahren in denen Photovoltaik eingesetzt wurde, gab es riesige Sprünge in der Effizienz. Der jeweilige Hersteller übernimmt auch die Kosten des Recyceln. Anhand der Daten von [Photovoltaic Power Systems Programme](https://iea-pvps.org/publications/) die seit 1993 an der Solar Energie forschen, sieht man in einem Diagramm eine immense Leistungsverbesserung.
 
 ![](/img/Photovoltaikanlagen.PNG)
-(Bild: Wikimedia)
+*(Bild: Wikimedia)*
 
 >Its better to get to a renewable future, sustainable future sooner rather than later and get there before we do the environmental damage then not after”
 
