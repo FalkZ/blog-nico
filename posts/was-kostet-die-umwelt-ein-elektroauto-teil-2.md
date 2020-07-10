@@ -56,7 +56,7 @@ Viele Elektromobilhersteller zeigen sich zurückhaltend bei der Offenlegung der 
 
 
 ![](/img/Congomining.jpeg)
-*(Bild: ethicalconsumer.org)*
+*(Bild: Globalwitness)*
 
 Nach eigener Aussage via [Twitter](https://twitter.com/elonmusk/status/444359283736473600?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E444359283736473600&ref_url=https%3A%2F%2Fteslamag.de%2Fnews%2Ftesla-anschuldigungen-graphit-abbau-china-244) bezieht Elon Musk, Grafit auf sauberen Weg aus Japan über die Firma „Sumitomo Metal Mining“.
 Woher Tesla sein Kobalt bezieht ist schwierig nachzuvollziehen. Tesla produziert in seiner Gigafactory in China eigene Batteriezellen, viele jedoch bezieht er über andere Hersteller. Die Materialzulieferer funktionieren meist über mehrere Firmen. Laut der [Sammelklage](http://iradvocates.org/sites/iradvocates.org/files/stamped%20-Complaint.pdf) von IR Advocates wird Tesla angeklagt, betreffend eine seiner Lieferanten, LGChem. LGChem ist ein koreanisches Unternehmen und beliefert unter anderem: General Motor, Ford, Audi und Renault mit Batteriezellen.
