@@ -34,8 +34,7 @@ Tesla möchte alle Fabriken komplett durch erneuerbare Energien versorgen und is
 
 ## Wasserverbrauch
 
-Über den [Tagesspiegel](https://www.tagesspiegel.de/wirtschaft/tesla-akkus-wenn-elf-avocados-umweltschaedlicher-als-eine-e-auto-batterie-sind/25291904.html) berichtet Maximilian Fichtner, Direktor am Helmholtz-Institut, über den Wasserverbauch einer E-Auto Batterie. Nach den gängigen Berechnungsmethoden verdunstet 3840 Liter Wasser für die Gewinnung von Lithium zur Herstellung eines Akkus mit einer Kapazität von 64Kw/h. Dies entspricht dem Verbrauch bei der Produktion von 250 Gramm Rindfleisch, zehn Avocados, 30 Tassen Kaffee oder einer halben Jeans. Laut Fichtner ist der Entwicklungsstand bereits soweit, dass 2025, kobaltfreie Akkumulatoren auf dem Markt sein werden.
-Der Wasserverbrauch ist somit verkraftbar, wenn man es mit dem Wasserverbrauch zur Herstellung einer halben Jeans zu tun hat. Ein guter Vergleich hierzu ist das leistungsstarke Tesla Model 3, welches 900‘000km Fahrt garantiert bevor man den Akku ersetzen muss.
+Über den [Tagesspiegel](https://www.tagesspiegel.de/wirtschaft/tesla-akkus-wenn-elf-avocados-umweltschaedlicher-als-eine-e-auto-batterie-sind/25291904.html) berichtet Maximilian Fichtner, Direktor am Helmholtz-Institut, über den Wasserverbauch einer E-Auto Batterie. Nach den gängigen Berechnungsmethoden verdunstet 3840 Liter Wasser für die Gewinnung von Lithium zur Herstellung eines Akkus mit einer Kapazität von 64Kw/h. Kleine Kompakte Fahrzeuge haben im Vergleich ca. 35Kw/h, Alltagsmodelle können einen Akku von bis zu 70Kw/h haben und SUV's und Sportwagen können eine Kapazität von bis zu 150kw/h liefern. Dieser Wasserverbrauch entspricht dem Verbrauch bei der Produktion von 250 Gramm Rindfleisch oder zehn Avocados, 30 Tassen Kaffee oder einer halben Jeans. Laut Fichtner ist der Entwicklungsstand bereits soweit, dass 2025, kobaltfreie Akkumulatoren auf dem Markt sein werden.
 
 
 ## Recycling
