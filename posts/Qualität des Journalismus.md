@@ -53,11 +53,11 @@ Das fehlende Interesse kann verschiedene Gründe haben. Zu einem die fehlenden R
 Die Internationale Nachrichtenagentur Reuters, machte eine [weltweite Studie](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2020-06/DNR_2020_FINAL.pdf) über den Konsum von digitalen Medien. Zusammen mit dem Foeg wurden in der Schweiz Daten gesammelt und ausgewertet. In der Schweiz liegt die Bereitschaft für Onlinezeitungen zu zahlen bei zirka 13%. Jedoch zeigt sich weltweit das sich dieses Interesse positiv entwickelt. Die gesammelten Daten wurden zwischen Online- oder Print-, Radio-, Fernsehnews unterteilt. Die gratis Onlinezeitungen haben offensichtlich die meisten Konsumenten. Die meisten Schweizer beziehen ihre Informationen laut der Medienqualität Schweiz von den Zeitungen mit der schlechtesten Berichterstattung.
 
 ![](/img/Online.png) 
-*(Bild:Reuters)
+*(Bild:Reuters)*
 
 
 ![](/img/Print.png) 
-*(Bild:Reuters)
+*(Bild:Reuters)*
 
 # Pressefreiheit
 Eine unabhängige und ausführliche Berichterstattung ist nur dann möglich wenn die Pressefreiheit gewährleistet ist.
@@ -80,12 +80,12 @@ Für jede der 7 Kategorien wird eine Punktzahl von optimal 0 bis schlecht mögli
 Die erste Tabelle zeigt die ersten 19 und die zweite, die letzten 10 und das letzte Bild gibt eine klare Übersicht der Pressefreiheit weltweit.
 
 ![](/img/Ranglisteanfang.png)
-*(Bild:Reporter ohne Grenzen)
+*(Bild:Reporter ohne Grenzen)*
 
 ![](/img/Ranglisteende.png)
-*(Bild:Reporter ohne Grenzen)
+*(Bild:Reporter ohne Grenzen)*
 
 ![](/img/Pressefreiheit2020.png)
-*(Bild:Reporter ohne Grenzen)
+*(Bild:Reporter ohne Grenzen)*
 
 # Mord an Daphne Caruana Galizia
