@@ -88,4 +88,4 @@ Die erste Tabelle zeigt die ersten 19 und die zweite, die letzten 10 und das let
 ![](/img/Pressefreiheit2020.png)
 *(Bild:Reporter ohne Grenzen)
 
-
+# Mord an Daphne Caruana Galizia
