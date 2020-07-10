@@ -89,3 +89,6 @@ Die erste Tabelle zeigt die ersten 19 und die zweite, die letzten 10 und das let
 *(Bild:Reporter ohne Grenzen)*
 
 # Mord an Daphne Caruana Galizia
+
+![](/img/Galizia.jpeg)
+*(Bild: Guglielmo Mangiapane / Reuters)*
