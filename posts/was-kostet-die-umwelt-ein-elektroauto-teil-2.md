@@ -54,6 +54,9 @@ Viele Elektromobilhersteller zeigen sich zurückhaltend bei der Offenlegung der 
 
 ## Konfliktmaterial
 
+
+![](/img/Congomining.jpeg)
+*(Bild: ethicalconsumer.org)*
 Nach eigener Aussage via [Twitter](https://twitter.com/elonmusk/status/444359283736473600?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E444359283736473600&ref_url=https%3A%2F%2Fteslamag.de%2Fnews%2Ftesla-anschuldigungen-graphit-abbau-china-244) bezieht Elon Musk, Grafit auf sauberen Weg aus Japan über die Firma „Sumitomo Metal Mining“.
 Woher Tesla sein Kobalt bezieht ist schwierig nachzuvollziehen. Tesla produziert in seiner Gigafactory in China eigene Batteriezellen, viele jedoch bezieht er über andere Hersteller. Die Materialzulieferer funktionieren meist über mehrere Firmen. Laut der [Sammelklage](http://iradvocates.org/sites/iradvocates.org/files/stamped%20-Complaint.pdf) von IR Advocates wird Tesla angeklagt, betreffend eine seiner Lieferanten, LGChem. LGChem ist ein koreanisches Unternehmen und beliefert unter anderem: General Motor, Ford, Audi und Renault mit Batteriezellen.
 Tesla ist seit Anfangs 2020 in Verhandlungen mit dem Schweizer Unternehmen Glencore laut [Financal Times](https://www.ft.com/content/48fac39e-37a0-11ea-a6d3-9a26f8c3cba4), ein Jahr später als BMW. Glencore besitzt Minen in den DRC, Australien und in Marokko. Die Begründung ist, beide Unternehemen wollen ihr Kobalt aus ethnisch vertretbaren Quellen gewinnen. Tesla und Glencore äusserten sich nicht zu den Verhandlungen. BMW handelt bereits seit Anfang 2019 mit Glencore und sichert sich seine Materialien bis 2025. Zudem meldeten sie, sie würden das Kobalt nurnoch aus Australien und Marokko beziehen und den Kauf aus den DRC einstellen.
