@@ -27,7 +27,7 @@ Dies betrifft die privaten Medienhäuser am meisten. Die Ressourcen reichen nich
 Das hat zu bedeuten, dass bald eine andere Lösung gefunden werden muss um die Qualität zu garantieren. Deshalb wurde die Studie gemacht, um genau darauf hinzuweisen. Der beste Vergleich der Studie lässt sich diesem Bild entnehmen. Zur einen Seite wurde die Wahrnehmung der Bevölkerung in einer Umfrage erfasst und verglichen mit ihren eigenen Bewertungskriterien.
 
 ![](/img/MedienqualitätSchweiz.png) 
-*(Bild: Forschungszentrum Öffentlichkeit und Gesellschaft)
+*(Bild: Forschungszentrum Öffentlichkeit und Gesellschaft)*
 
 ## Fehlendes Interesse
 Das Foeg der Universität Zürich veröffentlichte eine [Studie](https://www.foeg.uzh.ch/de/analyse/alleanalysen/Anteil-News-Deprivierter-nimmt-erneut-zu.html) bezüglich dem Interesse gegenüber News an der Bevölkerung. Es ist bereits die Rede von «News-Deprivierter» mit diesen Begriff wird der Teil der Bevölkerung bezeichnet, welcher hauptsächlich an der digitalen Medienwelt interessiert sind.
@@ -39,7 +39,7 @@ Das Foeg der Universität Zürich veröffentlichte eine [Studie](https://www.foe
 Das bedeutet «News-Deprivierte» haben fast kein, bis gar kein Interesse an News und informieren sich durch Social Media, Youtube oder andere Medien. Diese Definition trifft mit einem Anteil von 32% auf die Schweizer Bevölkerung zu. Hauptsächlich betroffen sind 16 bis 29 jährige. Zwischen 2009 und 2017 gab es einen Anstieg von 11%.
 
 ![](/img/Zeitverlauf.png) 
-*(Bild: Forschungszentrum Öffentlichkeit und Gesellschaft)
+*(Bild: Forschungszentrum Öffentlichkeit und Gesellschaft)*
 
 Auch dies könnte ein Grund sein, weshalb private Medienhäuser wenig Einnahmen machen. Ein grosser Teil der Bevölkerung konsumiert keine Printmedien mehr und das Online Angebot der Zeitungen ist derzeit nicht attraktiv. Zudem wird erwartet, dass sich der Anteil  an Deprivierten über Generationen erhöhen wird. Ein weiteres Problem ist, dass die Qualität der Berichte das allgemeine Interesse auch nicht erhöhen wird. 
 Das fehlende Interesse kann verschiedene Gründe haben. Zu einem die fehlenden Ressourcen, das Geschäftsmodell für Onlinenews. Jedoch kann auch die Informationsflut durch digitale Medien wie Social Media, Youtube und Co. müde machen auf noch mehr Informationen.
