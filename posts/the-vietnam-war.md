@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: The Vietnam war
-heading: |
+heading: |-
   The Vietnam war 
   [layout check].
 date: 2020-07-19
