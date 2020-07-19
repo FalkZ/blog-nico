@@ -152,6 +152,9 @@ main blockquote {
   
   font-size: 18px;
 }
+main em{
+  color:#8b8b9c;
+}
 .post ul {
   list-style: none;
   margin-left: 0;
