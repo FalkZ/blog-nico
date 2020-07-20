@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Qualität des Journalismus
 heading: Qualität des Journalismus.
-date: 2020-07-10
+date: 2020-07-20
 description: Laut einer Untersuchung des Vereins Medienqualität Schweiz sinkt
   die Qualität der Berichterstattung stetig. Wieso?
 tags:
