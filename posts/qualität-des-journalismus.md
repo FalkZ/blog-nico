@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Qualität des Journalismus
 heading: Qualität des Journalismus.
-date: 2020-07-10
+date: 2020-07-20
 description: Laut einer Untersuchung des Vereins Medienqualität Schweiz sinkt
   die Qualität der Berichterstattung stetig. Wieso?
 tags:
@@ -759,7 +759,7 @@ Die erste Tabelle zeigt die ersten 19 und die zweite, die letzten 10 und das let
 
 # Mord an Daphne Caruana Galizia
 
-In Malta wurde am 16. Oktober 2017 die Journalistin Daphne Caruana Galizia durch eine Autobombe ermordet, die maltesische Regierung startete die Ermittlung letztes Jahr. Sie schrieb über die Korruption zwischen Unternehmen und Politik in Malta und über den Skandal der Panama Papers. Maltas Tourismusminister Konrad Mizzi und Keith Schembri, Stabschef des Ministerpräsidenten [stehen unter Verdacht]( https://www.nzz.ch/international/ermittlungen-zum-mord-an-daphne-galizia-provozieren-ruecktritt-des-stabschefs-in-malta-ld.1524483#back-register). Caruana enthüllte das Mizzi und Schembri eine Briefkastenfirma in Panama unterhielten. 2019 gaben beide ihren Rücktritt bekannt. Drei Männer wurden bereits festgenommen und angeklagt, die Autobombe platziert zu haben. Der oder die Auftraggeber wurden noch nicht gefunden, der Hauptverdächtige ist der Unternehmer Yorden Fenech, CEO der Tumas Group und gleichzeitig der reichste Mann der Insel. Dieser wurde nachdem er die Leitung als CEO abgegeben hatte, am 20. November 2019 auf seiner Yacht gefunden und festgenommen.
+In Malta wurde am 16. Oktober 2017 die Journalistin Daphne Caruana Galizia durch eine Autobombe ermordet, die maltesische Regierung startete die Ermittlung letztes Jahr. Sie schrieb über die Korruption zwischen Unternehmen und Politik in Malta und über den Skandal der Panama Papers. Maltas Tourismusminister Konrad Mizzi und Keith Schembri, Stabschef des Ministerpräsidenten [stehen unter Verdacht]( https://www.nzz.ch/international/ermittlungen-zum-mord-an-daphne-galizia-provozieren-ruecktritt-des-stabschefs-in-malta-ld.1524483#back-register). Caruana enthüllte das Mizzi und Schembri eine Briefkastenfirma in Panama unterhielten. 2019 gaben beide ihren Rücktritt bekannt. Drei Männer wurden bereits festgenommen und angeklagt, die Autobombe platziert zu haben. Der oder die Auftraggeber wurden noch nicht gefunden, der Hauptverdächtige ist der Unternehmer Yorden Fenech, CEO der Tumas Group und gleichzeitig der reichste Mann der Insel. Dieser wurde, nachdem er die Leitung als CEO abgegeben hatte, am 20. November 2019 auf seiner Yacht gefunden und festgenommen.
 
 Die Investigativ Journalistin gab an, dass die Frau des Premierminister Joseph Muscat eine Briefkastenfirma namens Egrant in Panama besitze. Er veranlasste darauf eine Untersuchung, welche die Anschuldigung zurückweisen sollte. Der Bericht wurde von Muscat’s Anwalt geschrieben und im Moment ist nur die [Hälfte des Untersuchungsberichts]( https://timesofmalta.com/articles/view/egrant-one-year-on-no-prosecutions-no-full-report.723736) veröffentlicht worden.
 
