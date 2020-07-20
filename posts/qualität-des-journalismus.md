@@ -45,7 +45,7 @@ Das fehlende Interesse kann verschiedene Gründe haben. Zu einem die fehlenden R
 
 > „Der durchschnittliche Konsument teilt kaum die Ansicht, es herrsche auf dem Medienmarkt ein Mangel an Ressourcen. Vielmehr nimmt er ein Überangebot wahr, das Gefühle der Überforderung weckt und damit eine Abwehrhaltung fördert. Zudem: Je schneller die Informationsapparate rattern, desto langsamer erscheinen die Fortschritte, die bei der Lösung politischer Fragen erzielt werden. Medienwirklichkeit und politische Realität klaffen auseinander. Auch diese Erfahrung mag dazu verleiten, sich von den Nachrichten zu distanzieren. Wenn es wichtig ist, so wird sich mancher sagen, werde ich es gewiss erfahren.“
 
-\-[NZZ](https://www.nzz.ch/data/ein-problembaer-der-news-deprivierte-ld.1516420)
+-[NZZ](https://www.nzz.ch/data/ein-problembaer-der-news-deprivierte-ld.1516420)
 
 ## Digitale Medien
 
@@ -77,9 +77,10 @@ Ihre [Bewertungsmethode](https://www.reporter-ohne-grenzen.de/fileadmin/Redaktio
 4. rechtliche Rahmenbedingungen, 
 5. institutionelle Transparenz sowie
 6. Produktionsinfrastruktur.
-   Und eine quantitative Kategorie die Gewalttaten, Inhaftierungen oder Mord eines Journalisten miteinbezieht.
-   Für jede der 7 Kategorien wird eine Punktzahl von optimal 0 bis schlecht möglichst 100 benotet. Durch die siebte Kategorie werden Übergriffe miteinbezogen, wenn ein Land zum Beispiel Massnahmen ergreift, Gesetze ändert und so gewaltfrei die Freiheit eines Journalisten einschränkt.
-   Die erste Tabelle zeigt die ersten 19 und die zweite, die letzten 10 und das letzte Bild gibt eine klare Übersicht der Pressefreiheit weltweit.
+
+Und eine quantitative Kategorie die Gewalttaten, Inhaftierungen oder Mord eines Journalisten miteinbezieht.
+Für jede der 7 Kategorien wird eine Punktzahl von optimal 0 bis schlecht möglichst 100 benotet. Durch die siebte Kategorie werden Übergriffe miteinbezogen, wenn ein Land zum Beispiel Massnahmen ergreift, Gesetze ändert und so gewaltfrei die Freiheit eines Journalisten einschränkt.
+Die erste Tabelle zeigt die ersten 19 und die zweite, die letzten 10 und das letzte Bild gibt eine klare Übersicht der Pressefreiheit weltweit.
 
 ![](/img/Ranglisteanfang.png)
 *(Bild:Reporter ohne Grenzen)*
