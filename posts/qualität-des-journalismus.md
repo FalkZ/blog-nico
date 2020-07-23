@@ -21,7 +21,7 @@ Laut Experten lässt die Qualität der Medienberichte in der Schweiz nach. In ei
 
 \-Marc Eisenegger
 
-Dies betrifft die privaten Medienhäuser am meisten. Die Ressourcen reichen nicht, die Zeitungen haben nicht genügend Einnahmen und so rückt die Quantität immer mehr vor die Qualität. Ein grosses Problem ist, dass noch kein Geschäftsmodell gefunden wurde, das im Online-Journalismus genügend Einnahmen bring.
+Dies betrifft die privaten Medienhäuser am meisten. Die Ressourcen reichen nicht, die Zeitungen haben nicht genügend Einnahmen und so rückt die Quantität immer mehr vor die Qualität. Ein grosses Problem ist, dass noch kein Geschäftsmodell gefunden wurde, das im Online-Journalismus genügend Einnahmen bringt.
 Das hat zu bedeuten, dass bald eine andere Lösung gefunden werden muss um die Qualität zu garantieren. Deshalb wurde die Studie gemacht, um genau darauf hinzuweisen. Der beste Vergleich der Studie lässt sich diesem Bild entnehmen. Zur einen Seite wurde die Wahrnehmung der Bevölkerung in einer Umfrage erfasst und verglichen mit ihren eigenen Bewertungskriterien.
 
 ![](/img/MedienqualitätSchweiz.png) 
