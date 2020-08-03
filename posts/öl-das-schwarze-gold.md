@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Öl das schwarze Gold
 heading: "Öl das schwarze Gold. "
-date: 2020-07-19
+date: 2020-08-03
 description: Erdöl ist eines der wichtigsten Ressourcen der Erde. Wir verwenden
   es als Kraftstoff für Motoren und Kunststoffe jeglicher Art. Vom Haushalt bis
   zur Industrie werden Erdöl haltige Produkte gebraucht. Woher das Erdöl stammt
