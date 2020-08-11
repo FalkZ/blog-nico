@@ -93,8 +93,15 @@ Drei US Firmen.
 
 ![](/img/conocophillips.jpeg)
 
+</div>
+
+<div class="inline">
+
 ![](/img/exxon.png)
- <div class="inline">
+
+</div>
+
+<div class="inline">
 
 ![](/img/chevron.png)
 
