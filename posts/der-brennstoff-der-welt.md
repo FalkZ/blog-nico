@@ -107,6 +107,7 @@ ExxonMobil
 
 <div class="inline">
 
+
 ![](/img/chevron.png)
 
 </div>
@@ -115,19 +116,15 @@ Chevron.
 
 Eine Italienische.
 
-Kleines Bild
+
 
 Eni
 
 BP und Shell aus Grossbritannien/Holland.
 
-Kleines Bild               Kleines Bild
-
 BP                             Shell
 
 Und aus Frankreich.
-
-Kleines Bild
 
 Total
 
