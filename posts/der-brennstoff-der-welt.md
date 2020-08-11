@@ -14,7 +14,7 @@ tags:
 ---
 ![Oilpump](/img/oilpump.jpg "Oilpump")
 
-\*(Bild: Wallheaven)\*
+*(Bild: Wallheaven)*
 
 # Geschichte
 
@@ -32,7 +32,7 @@ Vorher wurden Lampen mit teurem Tierfett betrieben, welches hauptsächlich von W
 
 Edwin Drake auf der rechten Seite, ist an seinem Zylinder zu erkennen.
 
-\*(Bild: Bettman / Getty images)\*
+*(Bild: Bettman / Getty images)*
 
 
 
@@ -54,7 +54,7 @@ Standart Oil wuchs seit der Erfindung des Verbrennerfahrzeugs rasant zu einem ri
 
 ![](/img/standartoil-34.png)
 
-\*(Bild: Wikipedia)\*
+*(Bild: Wikipedia)*
 
 ## Kriegszeit
 
@@ -76,7 +76,7 @@ Als die Kriege vorbei waren gab es 1950 einen Wirtschaftsboom. Der Ölverbrauch 
 
 Zu sehen ist ein brennendes Ölfeld in Kuwait. Kuwait ist ein wichtiger Öllieferant der USA und deswegen sind US-Soldaten zur Verteidigung von Kuwaits Ölanlagen und zur Sicherung der Transporte stationiert
 
-(Bild: US Army Corps of Engineers)
+*(Bild: US Army Corps of Engineers)*
 
 > „Zwischen einem Viertel und der Hälfte der zwischenstaatlichen Kriege seit 1973 waren mit einem oder mehreren erdölbedingten kausalen Mechanismen verbunden. Kein anderes Gut hat die internationale Sicherheit in dieser Weise beeinflusst„.
 
