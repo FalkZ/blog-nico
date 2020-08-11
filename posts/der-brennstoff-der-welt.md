@@ -34,8 +34,6 @@ Edwin Drake auf der rechten Seite, ist an seinem Zylinder zu erkennen.
 
 *(Bild: Bettman / Getty images)*
 
-
-
 Da man noch keine richtigen Behälter hatte, entschied Drake, Öl in Whiskyfässern zu transportieren woher die Einheit „Barrel“ stammt. Ein Barrel fasst aufgerundet 159 Liter.
 
 Nach dem Bürgerkrieg in den USA nahm John D. Rockefeller 1870 eine bedeutende Position im Öl Geschäft ein und gründete die Standart Oil Company.
@@ -89,15 +87,13 @@ Darunter sind Operationen genannt, die Diktatoren in Ländern Südamerikas unter
 
 Wie früher sind auch heute die USA die führenden Rohstoffproduzenten der Welt. Die „[supermajors](https://www.worldoil.com/news/2020/6/16/supermajors-find-obstacles-and-opportunities-as-pandemic-drags-on)“ bestehen aus: 
 
-
 Drei US Firmen.
+</div=class"inline">
 
-<div class="inline">
+![](/img/conocophillips.jpeg)
 
-![ConocoPhillips](/img/ConocoPhillips.jpeg)
+</div>
 ConocoPhillips                    ExxonMobil           Chevron.
-
-
 
 Eine Italienische.
 
@@ -105,15 +101,11 @@ Kleines Bild
 
 Eni
 
-
-
 BP und Shell aus Grossbritannien/Holland.
 
 Kleines Bild               Kleines Bild
 
 BP                             Shell
-
-<div class>
 
 Und aus Frankreich.
 
@@ -125,7 +117,7 @@ In der Förderung sind die S[pitzenreiter Russland, Saudi Arabien und die Verein
 
 Exxon Mobil ist immer noch eine der grössten Firmen der Welt. Die Firma zählt ca. 75‘000 Mitarbeiter und machte 2019 einen Umsatz von 255 Mrd. US Dollar. Zu ihrer Spitzenzeit in 2008 erreichte die Firma einen [Reingewinn von 300 Milliarden Dollar](https://www.tagesschau.de/wirtschaft/boerse/rockefeller-oel-101.html). Viel Geld bedeutet auch immer eine Machtanhäufung die es von der Regierung zu kontrollieren gilt. Tatsache jedoch ist, das die Regierung sich von den Ölfirmen kontrollieren lässt. Die Konzerne haben bereits eine so wichtige Position in der Wirtschaft erhalten, dass Regierungen sie unterstützen.
 
-## To big to fail 
+## To big to fail
 
 „Die Ölindustrie gibt viel Geld aus, um Einfluss auf die Politik der EU zu nehmen. Nach Recherchen mehrerer Nichtregierungsorganisationen gaben die fünf größten privaten Öl- und Gasfirmen seit 2010 mindestens 251 Millionen für Lobbyarbeit in Brüssel aus, zeigt eine Studie, die Donnerstag veröffentlicht wird. Genannt werden die Konzerne BP, Chevron, ExxonMobil, Shell und Total. Insgesamt seien derzeit 200 Lobbyisten für die Firmen tätig. Ihnen sei es etwa gelungen, Maßnahmen der EU gegen den Klimawandel zu verzögern, zu verwässern oder zu verhindern, kritisieren die Greenpeace, Friends of the Earth und Corporate Europe Observatory (CEO).“
 -Süddeutsche Zeitung
