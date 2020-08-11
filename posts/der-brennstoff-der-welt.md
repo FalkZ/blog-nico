@@ -88,11 +88,15 @@ Darunter sind Operationen genannt, die Diktatoren in Ländern Südamerikas unter
 Wie früher sind auch heute die USA die führenden Rohstoffproduzenten der Welt. Die „[supermajors](https://www.worldoil.com/news/2020/6/16/supermajors-find-obstacles-and-opportunities-as-pandemic-drags-on)“ bestehen aus: 
 
 Drei US Firmen.
-</div=class"inline">
+
+<div class="inline">
 
 ![](/img/conocophillips.jpeg)
+![](/img/exxon.png)
+![](/img/chevron.png)
 
 </div>
+
 ConocoPhillips                    ExxonMobil           Chevron.
 
 Eine Italienische.
