@@ -92,10 +92,9 @@ Wie früher sind auch heute die USA die führenden Rohstoffproduzenten der Welt.
 
 Drei US Firmen.
 
+<div class="inline">
 
-
-Kleines Bild                         Kleines Bild            Kleines Bild
-
+![ConocoPhillips](/img/ConocoPhillips.jpeg)
 ConocoPhillips                    ExxonMobil           Chevron.
 
 
@@ -114,7 +113,7 @@ Kleines Bild               Kleines Bild
 
 BP                             Shell
 
-
+<div class>
 
 Und aus Frankreich.
 
