@@ -95,11 +95,15 @@ Drei US Firmen.
 
 </div>
 
+ConocoPhillips 
+
 <div class="inline">
 
-![](/img/exxon.png)
+![](/img/exxon-mobil.png)
 
 </div>
+
+ExxonMobil
 
 <div class="inline">
 
@@ -107,7 +111,7 @@ Drei US Firmen.
 
 </div>
 
-ConocoPhillips                    ExxonMobil           Chevron.
+Chevron.
 
 Eine Italienische.
 
