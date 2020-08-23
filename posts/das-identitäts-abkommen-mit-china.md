@@ -14,8 +14,7 @@ tags:
 
 Eine ungewöhnliche Zusammenarbeit.
 
-#Gettyimages#
-
+\#Gettyimages#
 
 Durch das Abkommen sind Angehörige der chinesischen Behörden dazu befähigt, in der Schweiz zwei Wochen "ohne offizielen Status" einzureisen. Das Ziel diese Abkommens ist die Auslieferung von illegaler Einwanderer aus China. Die chinesischen Beamten sind somit bemächtigt Befragungen in der Schweiz durchzuführen. 
 Wenn eine Person mit chinesischer Staatsangehörigkeit Identifiziert wird, wird diese in ihre Heimat zurück geführt. Für diese Kosten kommt die Schweiz auf. 
