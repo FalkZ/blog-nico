@@ -41,3 +41,7 @@ Die Schweiz ist neutral und ein demokratischer Staat. Zudem steht im Vertrag, da
 
 \- Fabian Molina, SP Nationalrat
 
+#### Was schliesst der Vertrag aus?
+
+Der Vertrag verbietet jegliche Zwecksentfremdung der Personendaten. 
+Jedoch lässt sich dies schlecht überprüfen.
