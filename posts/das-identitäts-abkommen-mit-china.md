@@ -45,3 +45,9 @@ Die Schweiz ist neutral und ein demokratischer Staat. Zudem steht im Vertrag, da
 
 Der Vertrag verbietet jegliche Zwecksentfremdung der Personendaten. 
 Jedoch lässt sich dies schlecht überprüfen.
+
+Laut dem Staatssektretariat für Migration, dürfen nur chinesische Staatsangehörige von Beamten Befragt und Ausgewiesen werden. Dies Bedeutet das Personen tibetischer Ethnie, ausdrücklich vom Verfahren ausgeschlossen werden. Auch bei einem negativem Asylentscheid, werden Tibeter nicht an China ausgeliefert.
+
+#### Gab es bereits einen solchen Einsatz?
+
+2016 reisten chinesische Beamte in die Schweiz ein. 13 Chinesen wurden an China ausgeliefert, neun reisten Illegal ein und vier mit einem abgewiesenem Asylgesuch. Mehr Details über den Einsatz sind nicht bekannt und ist bisher auch der einzige der stattgefunden hat.
