@@ -20,7 +20,7 @@ Durch das Abkommen sind Angehörige der chinesischen Behörden dazu befähigt, i
 Wenn eine Person mit chinesischer Staatsangehörigkeit Identifiziert wird, wird diese in ihre Heimat zurück geführt. Für diese Kosten kommt die Schweiz auf. 
 Laut des Stattssekretariats für Migratuin ist die Schweiz grundsätzlich an einer Fortsetzung des Vertrags interessiert.
 
-#### Was ist speziell?
+## Was ist speziell?
 
 Ausländische Beamte sind nur in Sonderfällen erlaubt innerhalb der Schweiz zu operieren. Durch dieses Abkommen zählen Chinas Beamte als Sonderfälle.
 
@@ -40,13 +40,13 @@ Die Schweiz ist neutral und ein demokratischer Staat. Zudem steht im Vertrag, da
 
 \- Fabian Molina, SP Nationalrat
 
-#### Was schliesst der Vertrag aus?
+## Was schliesst der Vertrag aus?
 
 Der Vertrag verbietet jegliche Zwecksentfremdung der Personendaten. 
 Jedoch lässt sich dies schlecht überprüfen.
 
 Laut dem Staatssektretariat für Migration, dürfen nur chinesische Staatsangehörige von Beamten Befragt und Ausgewiesen werden. Dies Bedeutet das Personen tibetischer Ethnie, ausdrücklich vom Verfahren ausgeschlossen werden. Auch bei einem negativem Asylentscheid, werden Tibeter nicht an China ausgeliefert.
 
-#### Gab es bereits einen solchen Einsatz?
+## Gab es bereits einen solchen Einsatz?
 
 2016 reisten chinesische Beamte in die Schweiz ein. 13 Chinesen wurden an China ausgeliefert, neun reisten Illegal ein und vier mit einem abgewiesenem Asylgesuch. Mehr Details über den Einsatz sind nicht bekannt und ist bisher auch der einzige der stattgefunden hat.
