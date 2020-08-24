@@ -101,9 +101,9 @@ Drei US Firmen.
 
 ![](/img/chevron.png)
 
-**Chevron**.
-
 </div>
+
+**Chevron**
 
 Eine Italienische.
 
@@ -114,8 +114,6 @@ Eine Italienische.
 </div>
 
 **Eni**
-
-
 
 BP und Shell aus Grossbritannien/Holland.
 
@@ -130,6 +128,12 @@ BP und Shell aus Grossbritannien/Holland.
 **BP                             Shell**
 
 Und aus Frankreich.
+
+<div class="height100">
+
+![](/img/total.png)
+
+</div>
 
 **Total**
 
