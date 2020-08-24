@@ -93,37 +93,45 @@ Drei US Firmen.
 
 ![](/img/conocophillips.jpeg)
 
-</div>
-
-ConocoPhillips 
-
-<div class="height100">
+**ConocoPhillips** 
 
 ![](/img/exxon-mobil.png)
 
-</div>
-
-ExxonMobil
-
-<div class="height100">
+**ExxonMobil**
 
 ![](/img/chevron.png)
 
-</div>
+**Chevron**.
 
-Chevron.
+</div>
 
 Eine Italienische.
 
-Eni
+<div class="height100">
+
+![](/img/eni.png)
+
+</div>
+
+**Eni**
+
+
 
 BP und Shell aus Grossbritannien/Holland.
 
-BP                             Shell
+<div class="height100">
+
+![](/img/bp.png)
+
+![](/img/shell.png)
+
+</div>
+
+**BP                             Shell**
 
 Und aus Frankreich.
 
-Total
+**Total**
 
 In der Förderung sind die S[pitzenreiter Russland, Saudi Arabien und die Vereinigten Staaten.](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/xlsx/energy-economics/statistical-review/bp-stats-review-2019-all-data.xlsx)
 
