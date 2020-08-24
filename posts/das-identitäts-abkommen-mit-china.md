@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
-title: Das Identitäts Abkommen mit China
-heading: Das Identitäts Abkommen mit China
+title: Das Schweizer Abkommen mit China
+heading: Das Schweizer Abkommen mit China
 date: 2020-08-23
 description: Die Schweiz unterzeichnete im Dezember 2015 ein Abkommen mit China,
   dass die Freilegung der Personendaten von geflüchteten Chinesen fordert. Nun
