@@ -319,7 +319,19 @@ img{
 }
 }
 
+.inline {
+  display: block;
+}
+
 .inline img{
+  width: auto;
+  height: 100%;
+  display: inline-block;
+  margin: 0;
+  margin-right: 10px;
+}
+.height100 *{
+  height: 100px;
   width: auto;
   display: inline-block;
   margin: 0;
