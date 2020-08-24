@@ -89,7 +89,7 @@ Wie früher sind auch heute die USA die führenden Rohstoffproduzenten der Welt.
 
 Drei US Firmen.
 
-<div class="inline">
+<div class="height100">
 
 ![](/img/conocophillips.jpeg)
 
@@ -97,7 +97,7 @@ Drei US Firmen.
 
 ConocoPhillips 
 
-<div class="inline">
+<div class="height100">
 
 ![](/img/exxon-mobil.png)
 
@@ -105,8 +105,7 @@ ConocoPhillips
 
 ExxonMobil
 
-<div class="inline">
-
+<div class="height100">
 
 ![](/img/chevron.png)
 
@@ -115,8 +114,6 @@ ExxonMobil
 Chevron.
 
 Eine Italienische.
-
-
 
 Eni
 
