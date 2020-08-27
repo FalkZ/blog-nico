@@ -50,7 +50,7 @@ Die Ölindustrie war gerettet.
 
 ## Kriegszeit
 
-Gerade in Kriegszeiten zeigte sich für alle betroffenen Nationen des Krieges, wie wichtig Öl war. Im ersten Weltkrieg, der 1917 begann, startete der erste motorisierte Krieg. Es wurde vorher nie mit Panzern, Flugzeugen, Schiffen usw. das Schlachtfeld betreten. Öl brachte Mobilität und Kriegsmaschinerien, was völlig neue Strategien hervorrief/mit sich brachte und zu einer eindeutigen Überlegenheit denen gegenüber führte, die nicht darüber verfügten. Dies funktionierte solange, wie ein Land Ölreserven hatte. 
+Gerade in Kriegszeiten zeigte sich für alle betroffenen Nationen des Krieges, wie wichtig Öl war. Im ersten Weltkrieg, der 1917 begann, startete der erste motorisierte Krieg. Es wurde vorher nie mit Panzern, Flugzeugen, Schiffen usw. das Schlachtfeld betreten. Öl brachte Mobilität und Kriegsmaschinerien, was völlig neue Strategien mit sich brachte und zu einer eindeutigen Überlegenheit denen gegenüber führte, die nicht darüber verfügten. Dies funktionierte solange, wie ein Land Ölreserven hatte. 
 
 Nur schon die Zahlen sprechen aus, wie tödlich die Industrie eingesetzt wurde. Mit knapp [20 Millionen Todesopfern](http://www.centre-robert-schuman.org/userfiles/files/REPERES%20-%20Modul%201-1-1%20-%20Notiz%20-%20Bilanz%20in%20Ziffern%20des%20Ersten%20Weltkrieges%20-%20DE.pdf) wurde der 1. Weltkrieg zum zweit verheerendsten Konflikt in der Menschheitsgeschichte. Die Todesopfer setzten sich aus 9,7 Mio. Soldaten und 10 Mio. Zivilisten zusammen.
 
@@ -139,11 +139,11 @@ Und aus Frankreich.
 
 **Total**
 
-In der Förderung sind die S[pitzenreiter Russland, Saudi Arabien und die Vereinigten Staaten.](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/xlsx/energy-economics/statistical-review/bp-stats-review-2019-all-data.xlsx)
+In der Förderung sind die [Spitzenreiter Russland, Saudi Arabien und die Vereinigten Staaten.](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/xlsx/energy-economics/statistical-review/bp-stats-review-2019-all-data.xlsx)
 
-Exxon Mobil ist immer noch eine der grössten Firmen der Welt. Die Firma zählt ca. 75‘000 Mitarbeiter und machte 2019 einen Umsatz von 255 Mrd. US Dollar. Zu ihrer Spitzenzeit in 2008 erreichte die Firma einen [Reingewinn von 300 Milliarden Dollar](https://www.tagesschau.de/wirtschaft/boerse/rockefeller-oel-101.html). Viel Geld bedeutet auch immer eine Machtanhäufung die es von der Regierung zu kontrollieren gilt. Tatsache jedoch ist, das die Regierung sich von den Ölfirmen kontrollieren lässt. Die Konzerne haben bereits eine so wichtige Position in der Wirtschaft erhalten, dass Regierungen sie unterstützen.
+Exxon Mobil ist immer noch eine der grössten Firmen der Welt. Die Firma zählt ca. 75‘000 Mitarbeiter und machte 2019 einen Umsatz von 255 Mrd. US-Dollar. Zu ihrer Spitzenzeit in 2008 erreichte die Firma einen [Reingewinn von 300 Milliarden Dollar](https://www.tagesschau.de/wirtschaft/boerse/rockefeller-oel-101.html). Viel Geld bedeutet auch immer eine Machtanhäufung die es von der Regierung zu kontrollieren gilt. Tatsache jedoch ist, dass die Regierung sich von den Ölfirmen kontrollieren lässt. Die Konzerne haben bereits eine so wichtige Position in der Wirtschaft erhalten, dass Regierungen sie unterstützen.
 
-## To big to fail
+## Too big to fail
 
 „Die Ölindustrie gibt viel Geld aus, um Einfluss auf die Politik der EU zu nehmen. Nach Recherchen mehrerer Nichtregierungsorganisationen gaben die fünf größten privaten Öl- und Gasfirmen seit 2010 mindestens 251 Millionen für Lobbyarbeit in Brüssel aus, zeigt eine Studie, die Donnerstag veröffentlicht wird. Genannt werden die Konzerne BP, Chevron, ExxonMobil, Shell und Total. Insgesamt seien derzeit 200 Lobbyisten für die Firmen tätig. Ihnen sei es etwa gelungen, Maßnahmen der EU gegen den Klimawandel zu verzögern, zu verwässern oder zu verhindern, kritisieren die Greenpeace, Friends of the Earth und Corporate Europe Observatory (CEO).“
 -Süddeutsche Zeitung
