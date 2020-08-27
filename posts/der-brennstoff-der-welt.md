@@ -24,6 +24,8 @@ Forscher konnten nachweisen, dass bereits in Mesopotamien vor 12‘000 Jahren Er
 
 Die Idee Erdöl als Petroleum aus dem Boden zu gewinnen und als Brennstoff für Lampen zu verwenden, stammt vom US-Amerikaner George Bissel. Der Eisenbahner Edwin Drake fand daraufhin eine Ölquelle in Pennsylvania und begann 1859 mit dem ersten Abbau von Erdöl. 
 
+
+
 Vorher wurden Lampen mit teurem Tierfett betrieben, welches hauptsächlich von Walen gewonnen wurde.
 
 <!--EndFragment-->
