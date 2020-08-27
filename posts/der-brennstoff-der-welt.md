@@ -23,6 +23,7 @@ Forscher konnten nachweisen, dass bereits in Mesopotamien vor 12‘000 Jahren Er
 ## Erdöl in der Moderne
 
 Die Idee Erdöl als Petroleum aus dem Boden zu gewinnen und als Brennstoff für Lampen zu verwenden, stammt vom US-Amerikaner George Bissel. Der Eisenbahner Edwin Drake fand daraufhin eine Ölquelle in Pennsylvania und begann 1859 mit dem ersten Abbau von Erdöl. 
+
 Vorher wurden Lampen mit teurem Tierfett betrieben, welches hauptsächlich von Walen gewonnen wurde.
 
 <!--EndFragment-->
@@ -34,10 +35,14 @@ Vorher wurden Lampen mit teurem Tierfett betrieben, welches hauptsächlich von W
 *(Bild: Bettman / Getty images)*
 
 Da man noch keine richtigen Behälter hatte, entschied Drake, Öl in Whiskyfässern zu transportieren, woher die Einheit „Barrel“ stammt. Ein Barrel fasst aufgerundet 159 Liter. 
+
 Nach dem Bürgerkrieg in den USA nahm John D. Rockefeller 1870 eine bedeutende Position im Öl-Geschäft ein und gründete die „Standard Oil Company“.
+
 Edison ersetze den Treibstoff für Lampen mit der Erfindung der Elektrizität– die Geschichte des Erdöls schien dem Ende. Die „Standard Oil Company“ erfand Heizöfen und Ölbrenner für Schiffe und Fabriken, um neue Produkte zu bieten und somit das eigene Überleben zu sichern. 
 1886 wurde ein neuer Grundstein gesetzt, der die Zukunft der Ölindustrie bedeutend veränderte. Carl Benz erfand zu diesem Zeitpunkt das erste Auto mit einem benzinbetriebenen Verbrennungsmotor. 
+
 Das erste auf dem Markt erhältliche Elektrofahrzeug wurde 1888 von der deutschen Firma „Maschinenfabrik A. Flocken“ hergestellt.
+
 1900 wurden in Amerika 9‘000 Fahrzeuge registriert, [12 Jahre später waren es, 900‘000.](http://www.oekosystem-erde.de/html/geschichte_erdoel.html) es 900‘000. Zur selben Zeit waren [34‘000 elektrobetriebene Fahrzeuge](https://de.wikipedia.org/wiki/Elektroauto#Geschichte) auf dem Markt und machten somit 34% aus. Benzin mit 22% und dampfbetriebene 40%. Gegenüber dem Elektroauto hatte der Verbrenner eine grössere Reichweite zu bieten und bewies sich auch gegenüber Dampffahrzeugen als effizienter.
 
 Die Ölindustrie war gerettet.
@@ -64,9 +69,7 @@ Mit dem Wiederaufbau nach dem Krieg setze ein enormer technologischer Fortschrit
 
 Als die Kriege vorbei waren gab es 1950 einen Wirtschaftsboom. Der Ölverbrauch stieg rasant an, vor allem in den USA, wo bereits 50 Millionen Fahrzeuge registriert wurden. Die sogenannten „Seven Sisters“ kontrollierten den Markt, von denen heute ExxonMobil, Chevron, Shell und BP immer noch existieren. Zur selben Zeit schritt die Plastikproduktion an. Nicht nur die Chemie-, sondern auch die Ölindustrie blühte somit auf. Dichtungen, Verpackungen, Elektronik, Spielzeuge, Behälter, so ziemlich jede Branche profitierte von der Flexibilität und den Eigenschaften von Plastik.
 
-Öl war von höchster Priorität, denn es bedeutete Sicherheit in unsicheren Zeiten. Die Supermächte China, Russland und Amerika und viele weitere, wie etwa Großbritannien und Frankreich waren sich der Wichtigkeit der Ressource bewusst. Durch unzählige Versuche, egal wie hinterlistig sie auch sein mochten, probierte man mehr Öl anzuhäufen, um sich einen Vorteil gegenüber seinem Gegenspieler zu erschaffen. Leider geschah dies oft nicht gewaltfrei und artete in richtigen Konflikten aus. Die ganze Welt musste schon mehrere Male beobachten, wie dies genau geschah, wobei der UNO-Sicherheitsrat schon längst hätte einschreiten sollen. 
-
-Welche Konflikte waren es nochmals? Und wieso unternahm der Sicherheitsrat nichts?
+Öl war von höchster Priorität, denn es bedeutete Sicherheit in unsicheren Zeiten. Die Supermächte China, Russland und Amerika und viele weitere, wie etwa Großbritannien und Frankreich waren sich der Wichtigkeit der Ressource bewusst. Durch unzählige Versuche, egal wie hinterlistig sie auch sein mochten, probierte man mehr Öl anzuhäufen, um sich einen Vorteil gegenüber seinem Gegenspieler zu erschaffen. Leider geschah dies oft nicht gewaltfrei und artete in richtigen Konflikten aus. Die ganze Welt musste schon mehrere Male beobachten, wie dies genau geschah, wobei der UNO-Sicherheitsrat schon längst hätte einschreiten sollen. Welche Konflikte waren es nochmals? Und wieso unternahm der Sicherheitsrat nichts?
 
 ![Kuwait](/img/kuwait_burn_oilfield.png)
 
@@ -77,7 +80,6 @@ Welche Konflikte waren es nochmals? Und wieso unternahm der Sicherheitsrat nicht
 > "Zwischen einem Viertel und der Hälfte der zwischenstaatlichen Kriege seit 1973 waren mit einem oder mehreren erdölbedingten kausalen Mechanismen verbunden. Kein anderes Gut hat die internationale Sicherheit in dieser Weise beeinflusst."
 
 Historiker und Universitäten haben die Konflikte aus aller Welt bereits untersucht und sind zu dem Schluss gekommen, dass in bis zur Hälfte der von den USA ausgeführten Konflikte, die zwischen [1973 und 2013](https://www.belfercenter.org/sites/default/files/files/publication/colgan-final-policy-brief-2013.pdf) sstattfanden, Öl die Hauptursache war. Seit dem zweiten Weltkrieg gab es [44 Konflikte](https://en.wikipedia.org/wiki/List_of_wars_involving_the_United_States) bei denen die vereinigten Staaten der Aggressor war. Im Zeitraum der Studie fanden somit zwischen 7 und 15 Konflikte statt, die direkt mit dem fossilen Brennstoff in Verbindung standen.
-
 
 Es gibt auch eine Liste von Staatsstreichen und CIA Operationen, die durch Historiker oder Enthüllungsjournalisten an die Öffentlichkeit kam. In den USA gibt es den „Freedom of Information Act“. Dieses Gesetzt gibt das Recht, Zugang zu Dokumenten von staatlichen Behörden zu verlangen. 
 
