@@ -7,11 +7,15 @@ description: Unter führung Obamas 2015, begann die USA mit den ersten Sanktione
   gegen Venezuela. Obama erklärte Venzuela zur "außergewöhnlichen Bedrohung für
   die nationale Sicherheit und Außenpolitik der Vereinigten Staaten".
 ---
-Der demokratisch gewählte Präsident Maduro regiert Venezuela seit 2013. Seine Amtszeit dauerte vorraussichtlich bis 2019 hin. 2018 gab es eine vorgezogene Neuwahl die Maduro erneut gewann. Die Wahlergebnisse wurden von den meisten westlichen Länder nicht anerkannt und wegen mutmasslicher Wahlfälschung beschuldigt. Dies sehen nicht nur die westlichen Länder, sondern auch die eigene Bevölkerung Venezuelas. Ihm werden verschiedene Menschenrechtverletzungen angehängt, sowie Verwicklungen mit dem venezolanischem Drogenkartell.
+Nicolás Maduros ursprung in der Politik startet in der vereinigten Sozialistischen Partei kurz PSUV. Der demokratisch gewählte Präsident Maduro regiert Venezuela seit 2013. Seine Amtszeit dauerte vorraussichtlich bis 2019. 2018 gab es eine vorgezogene Neuwahl die Maduro erneut gewann. Die Wahlergebnisse wurden von den meisten westlichen Länder nicht anerkannt und wegen mutmasslicher Wahlfälschung beschuldigt. Dies sehen nicht nur die westlichen Länder, sondern auch die eigene Bevölkerung Venezuelas. Ihm werden verschiedene Menschenrechtverletzungen angehängt, sowie Verwicklungen mit dem venezolanischem Drogenkartell.
 
+![Political Map](/img/1920px-venezuela_president_recognition_map.svg.png "Political Map")
 
+Die Karte zeigt, welche Länder den rechtmässigen Präsidenten Anerkennen. 
 
-Von ZiaLater - Eigenes Werk, Gemeinfrei, https://commons.wikimedia.org/w/index.php?curid=75890028
+Rot Steht für Maduro. Blau für Juan Guaidó. Hellblau für die Nationalversammlung. Schwarz ist neutral.
+
+*Bild: ZiaLater/Wikimedia* 
 
 ## Die Opposition
 
