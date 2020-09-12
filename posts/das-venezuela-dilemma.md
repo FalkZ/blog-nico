@@ -116,3 +116,7 @@ Im August beschloss Maduro, das Parlament der Opposition durch die regierungstre
 Im September werden über 100 Oppositionelle Politiker die in Gefangenschaft waren, begnadigt. 
 
 Am 11. September haben Behörden einen Plan zur Sprengung einer Öl Raffinerie in Caracas entdeckt. Laut Maduro sei einen Tag später, in der Nähe der Raffinerie ein CIA Agent festgenommen worden. Schwer Bewaffnet und mit viel Geld. Der momentane Aufenthalt ist unbekannt.
+
+Lateinamerika-Experte Carlos Hidalgo von der Washingtoner Cato Institute sagt bezüglich den Wirtschaftssanktionen:
+
+- "Sie treffen vor allem die, denen sie helfen sollen, garantieren aber    nicht das Ende des Regimes. Denken wir nur an Kuba nach mehr als 50 Jahren Handelsembargo."
