@@ -8,8 +8,8 @@ description: Unter Führung Obamas 2015, begann die USA mit den ersten Sanktione
   die nationale Sicherheit und Außenpolitik der Vereinigten Staaten". Seit dem
   ist das ölreichste Land der Welt in einer tiefen Krise gestürzt.
 tags:
-  - Kurzbericht
   - Geopolitik
+  - Wirtschaft
 ---
 ![](/img/gettyimages-680491272-2048x2048.jpg)
 
