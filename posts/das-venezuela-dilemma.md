@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
-title: Das Venezuela Dilemma
-heading: Das Venezuela Dilemma
+title: Sanktionen gegen Venezuela
+heading: Sanktionen gegen Venezuela
 date: 2020-09-12
 description: Unter Führung Obamas 2015, begann die USA mit den ersten Sanktionen
   gegen Venezuela. Obama erklärte Venezuela zur "außergewöhnlichen Bedrohung für
@@ -15,15 +15,13 @@ tags:
 
 **Ein Demonstrant steht der Militärpolizei gegenüber.**
 
-Der Mangel an medizinischer Versorgung sowie an Lebensmittel, treibt das Öl Reiche Land in eine Krise. Früher unter der Regierung von Hugo Chávez welcher das Land mit einer sozialistischen Ideologie von 1999 bis zu seinem Tod 2013 führte. Er verstaatlichte die gesamte Öl Industrie in Venezuela, jedoch nicht ohne Konsequenzen. Mehrere Putschversuche wurden gegen Chávez unternommen. Die Putschisten waren bereits im April 2002 in Verdacht mit den USA kooperiert zu haben. Hauptsächlich davon betroffen war ein Joint Venture bestehend aus "Petróleos de Venezuela" und des US-amerikanischen Rüstungskonzerns "SAIC". Dies führte zu einem Generalstreik. Als Chávez an Lungenkrebs erkrankte, schlug er Nicolás Maduro als seinen Nachfolger vor.
+Der Mangel an medizinischer Versorgung sowie an Lebensmittel, treibt das Öl Reiche Land in eine Krise. Früher unter der Regierung von Hugo Chávez welcher das Land mit einer sozialistischen Ideologie von 1999 bis zu seinem Tod 2013 führte. Er verstaatlichte die gesamte Öl Industrie in Venezuela. Durch das konnte er die arme Bevölkerung durch eine teures Sozialprogramm unterstützen. Mit der verstaatlichung machte er sich Feinde. Mehrere Putschversuche wurden gegen Chávez unternommen. Die Putschisten waren bereits im April 2002 in Verdacht mit den USA kooperiert zu haben. Hauptsächlich davon betroffen war ein Joint Venture bestehend aus "Petróleos de Venezuela" und des US-amerikanischen Rüstungskonzerns "SAIC". Diese führten einen Generalstreik. Als Chávez an Lungenkrebs erkrankte, schlug er Nicolás Maduro als seinen Nachfolger vor.
 
 
 
 ![Maduro](/img/gettyimages-1088561028-2048x2048.jpg "Maduro")
 
  **Maduro während einer Presse Konferenz in Caracas, Venezuela 25. Januar 2019.**
-
-
 
 Nicolás Maduros Ursprung in der Politik startet in der vereinigten Sozialistischen Partei, kurz PSUV. Der demokratisch gewählte Präsident Maduro regiert Venezuela seit 2013. Seine Amtszeit dauerte voraussichtlich bis 2019. 2018 gab es eine vorgezogene Neuwahl die Maduro erneut gewann. Die Wahlergebnisse wurden von den meisten westlichen Länder nicht anerkannt und wegen mutmasslicher Wahlfälschung beschuldigt. Dies sehen nicht nur die westlichen Länder, sondern auch die Nationalversammlung Venezuelas. Ihm werden Korruption, verschiedene Menschenrechtverletzungen sowie Vernetzung mit dem venezolanischem Drogenkartell angehängt.
 
