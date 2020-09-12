@@ -3,10 +3,10 @@ layout: layouts/post.njk
 title: Das Venezuela Dilemma
 heading: Das Venezuela Dilemma
 date: 2020-09-12
-description: Unter führung Obamas 2015, begann die USA mit den ersten Sanktionen
-  gegen Venezuela. Obama erklärte Venzuela zur "außergewöhnlichen Bedrohung für
+description: Unter Führung Obamas 2015, begann die USA mit den ersten Sanktionen
+  gegen Venezuela. Obama erklärte Venezuela zur "außergewöhnlichen Bedrohung für
   die nationale Sicherheit und Außenpolitik der Vereinigten Staaten". Seit dem
-  ist das Land in einer tiefen Krise gestürtzt.
+  ist das ölreichste Land der Welt in einer tiefen Krise gestürzt.
 tags:
   - Kurzbericht
   - Geopolitik
@@ -15,7 +15,7 @@ tags:
 
 **Ein Demonstrant steht der Militärpolizei gegenüber.**
 
-Der Mangel an medizinischer Versorgung sowie an Lebensmittel, treibt das Öl Reiche Land in eine Krise. Früher unter der Regierung von Hugo Chávez welcher das Land mit einer sozialistischen Ideologie von 1999 bis zu seinem Tod 2013 führte. Er verstaatlichte die gesamte Öl Industrie in Venezuela, jedoch nicht ohne Konsequenzen. Mehrere Putschversuche wurden gegen Chávez unternommen. Die Putschisten waren bereits im April 2002 in Verdacht mit den USA kooperiert zu haben. Hauptächlich davon betroffen war ein Joint Venture bestehend aus "Petróleos de Venezuela" und des US-amerikanischen Rüstungskonzerns "SAIC". Dies führte zu einem Generalstreik. Als Chávez an Lungenkrebs erkrankte, schlug er Nicolás Maduro als seinen Nachfolger vor.
+Der Mangel an medizinischer Versorgung sowie an Lebensmittel, treibt das Öl Reiche Land in eine Krise. Früher unter der Regierung von Hugo Chávez welcher das Land mit einer sozialistischen Ideologie von 1999 bis zu seinem Tod 2013 führte. Er verstaatlichte die gesamte Öl Industrie in Venezuela, jedoch nicht ohne Konsequenzen. Mehrere Putschversuche wurden gegen Chávez unternommen. Die Putschisten waren bereits im April 2002 in Verdacht mit den USA kooperiert zu haben. Hauptsächlich davon betroffen war ein Joint Venture bestehend aus "Petróleos de Venezuela" und des US-amerikanischen Rüstungskonzerns "SAIC". Dies führte zu einem Generalstreik. Als Chávez an Lungenkrebs erkrankte, schlug er Nicolás Maduro als seinen Nachfolger vor.
 
 
 
@@ -25,17 +25,17 @@ Der Mangel an medizinischer Versorgung sowie an Lebensmittel, treibt das Öl Rei
 
 
 
-Nicolás Maduros ursprung in der Politik startet in der vereinigten Sozialistischen Partei, kurz PSUV. Der demokratisch gewählte Präsident Maduro regiert Venezuela seit 2013. Seine Amtszeit dauerte vorraussichtlich bis 2019. 2018 gab es eine vorgezogene Neuwahl die Maduro erneut gewann. Die Wahlergebnisse wurden von den meisten westlichen Länder nicht anerkannt und wegen mutmasslicher Wahlfälschung beschuldigt. Dies sehen nicht nur die westlichen Länder, sondern auch die Nationalversammlung Venezuelas. Ihm werden Korruption, verschiedene Menschenrechtverletzungen sowie Vernetzung mit dem venezolanischem Drogenkartell angehängt.
+Nicolás Maduros Ursprung in der Politik startet in der vereinigten Sozialistischen Partei, kurz PSUV. Der demokratisch gewählte Präsident Maduro regiert Venezuela seit 2013. Seine Amtszeit dauerte voraussichtlich bis 2019. 2018 gab es eine vorgezogene Neuwahl die Maduro erneut gewann. Die Wahlergebnisse wurden von den meisten westlichen Länder nicht anerkannt und wegen mutmasslicher Wahlfälschung beschuldigt. Dies sehen nicht nur die westlichen Länder, sondern auch die Nationalversammlung Venezuelas. Ihm werden Korruption, verschiedene Menschenrechtverletzungen sowie Vernetzung mit dem venezolanischem Drogenkartell angehängt.
 
 ## Die Opposition
 
 ![Juan Guaidó](/img/gettyimages-1124235558-2048x2048.jpg "Juan Guaidó")
 
-**Zu sehen ist Juan Guaidó, in einer Demostration in Canacas. Der Präsident der Nationalversammlung von Venezuela, wird von vielen Ländern bereits als der Rechtmässige Präsident anerkennt. Er spielt eine bedeutende Rolle der Opposition von Maduro.**
+**Zu sehen ist Juan Guaidó, in einer Demostration in Caracas. Der Präsident der Nationalversammlung von Venezuela, wird von vielen Ländern bereits als der Rechtmässige Präsident anerkennt. Er spielt eine bedeutende Rolle der Opposition von Maduro.**
 
 
 
-Maduro versuchte die Opposition, die Nationalversammlung mehrfach abzusetzen. Durch diese Aktionen betitelte das Parlament, Maduro als Diktator. Gemäss der NZZ erklärte der Präsident der Nationalversammlung Juan Guaidó sich deshalb am 23. Januar vor Zehntausenden Anhängern zum Interimspräsidenten und versprach unter anderem, freie Wahlen abhalten zu lassen. Maduro lehnt dies bis jetzt ab. Die Oppostion wird als eine Marionette der USA kritisiert und Maduro als korrupter Diktator. Nicht nur das Land ist gespaltet, sondern die ganze Welt.
+Maduro versuchte die Opposition, die Nationalversammlung mehrfach abzusetzen. Durch diese Aktionen betitelte das Parlament, Maduro als Diktator. Gemäss der NZZ erklärte der Präsident der Nationalversammlung Juan Guaidó sich deshalb am 23. Januar vor Zehntausenden Anhängern zum Interimspräsidenten und versprach unter anderem, freie Wahlen abhalten zu lassen. Maduro lehnt dies bis jetzt ab. Die Opposition wird als eine Marionette der USA kritisiert und Maduro als korrupter Diktator. Nicht nur das Land ist gespaltet, sondern die ganze Welt.
 
 
 
@@ -61,7 +61,7 @@ Die USA friert mehrere Internationale Bankkonten von Spitzenbeamten und Offizier
 
 **2016**
 
-Nicolás Maduro bittet die US-Regierung um keine Verlängerung der Sanktionien. Obama reagierte mit dem Gegenteil. Die Regierung habe sich nicht verbessert, die Pressefreiheit sei noch immer Eingeschränkt, Oppositionelle Politiker werden verfolgt und die Verletzung an Menschenrechte gehe weiter. Das Embargo gegen Kuba hatte sich leicht gelockert, wärend in Venezuela es sich verschäfte.
+Nicolás Maduro bittet die US-Regierung um keine Verlängerung der Sanktionen. Obama reagierte mit dem Gegenteil. Die Regierung habe sich nicht verbessert, die Pressefreiheit sei noch immer Eingeschränkt, Oppositionelle Politiker werden verfolgt und die Verletzung an Menschenrechte gehe weiter. Das Embargo gegen Kuba hatte sich leicht gelockert, während in Venezuela es sich verschärfte.
 
 **2017**
 
@@ -75,15 +75,15 @@ Europa startet die ersten Sanktionen.
 
 **2018**
 
-20 Konten von Unternehmen werden ebenfalls gefrohren.
+20 Konten von Unternehmen werden ebenfalls gefroren.
 
 **2019**
 
-Donald Trump lässt den handel mit Öl immernoch erlaubt, die Zahlungen müssen aber über Sperrkonten erfolgen. Zudem werden weitere Personen ihre Konten eingefrohren:
+Der Handel mit Öl ist immer noch erlaubt, die Zahlungen müssen aber über Sperrkonten erfolgen. Zudem werden weitere Personen ihre Konten eingefroren:
 
 *"Betroffen ist der Chef des Geheimdienstes Sebin, der Generaldirektor der militärischen Spionageabwehr, der Leiter der Polizeispezialeinheit FAES und der Präsident des staatlichen Ölkonzerns PDVSA."* So die Deutsche Welle**.**
 
-Die Sanktionen halten bis heute an. Einheimische vergaben den Titel "Maduro diät". Die Nahrungsmittelknappheit schadet der gesamten Bevölkerung. Medizinische Güter wie auch Ersatzteile für Geräte in Spitälern erreichen sehr begrenzt den venezolanischen Boden. Die Bevölkerung ist am Limit und brauchen eine Veränderung. Derzeit gibt es massenhaft Demonstrationen, gegen die Sanktionen und dem Westen sowie gegen Maduro.
+Die Sanktionen halten bis heute an. Einheimische vergaben den Titel "[Maduro Diät](https://www.tagesanzeiger.ch/ausland/amerika/das-oelreichste-land-der-welt-haelt-madurodiaet/story/20747266)". Die Nahrungsmittelknappheit schadet der gesamten Bevölkerung. Medizinische Güter wie auch Ersatzteile für Geräte in Spitälern erreichen sehr begrenzt den venezolanischen Boden. Die Bevölkerung ist am Limit und brauchen eine Veränderung. Derzeit gibt es massenhaft Demonstrationen, gegen die Sanktionen und dem Westen sowie gegen Maduro.
 
 
 
@@ -91,7 +91,7 @@ Die Sanktionen halten bis heute an. Einheimische vergaben den Titel "Maduro diä
 
 ![](/img/respect-live.jpg)
 
-**"Respekt für Leben". Eine Demonstation organisiert von Juan Guiadó. Im Februar 2019 in Caracas.**
+**"Respekt für Leben". Eine Demonstration organisiert von Juan Guiadó. Im Februar 2019 in Caracas.**
 
 ![](/img/resistance.jpg)
 
