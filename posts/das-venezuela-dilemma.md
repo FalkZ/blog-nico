@@ -91,7 +91,7 @@ Die Sanktionen halten bis heute an. Einheimische vergaben den Titel "Maduro diä
 
 ![](/img/respect-live.jpg)
 
-**"Respekt für Leben". Eine Demonstation organisiert von Juan Guiado. Im Februar 2019 in Caracas.**
+**"Respekt für Leben". Eine Demonstation organisiert von Juan Guiadó. Im Februar 2019 in Caracas.**
 
 ![](/img/resistance.jpg)
 
@@ -103,4 +103,18 @@ Die Sanktionen halten bis heute an. Einheimische vergaben den Titel "Maduro diä
 
 **Eine riesige Demonstration, wieder in der Hauptstadt Caracas gegen Maduro. Im Februar 2019.**
 
-Heute ist Caracas einer der gefährlichsten Städte geworden auf der ganzen Welt. 2015 hatte sie die höchste Mordrate weltweit mit [120 Morden pro 100.000 Einwohner](https://www.dw.com/de/leben-in-caracas-nach-18-uhr-traut-sich-niemand-mehr-auf-die-stra%C3%9Fe/a-38501955). In 5 Jahren gab es keine Positiven Veränderungen für die Einheimischen. Viele die können, verlassen das Land.
+Heute ist Caracas einer der gefährlichsten Städte geworden auf der ganzen Welt. 2015 hatte sie die höchste Mordrate weltweit mit [120 Morden pro 100.000 Einwohner](https://www.dw.com/de/leben-in-caracas-nach-18-uhr-traut-sich-niemand-mehr-auf-die-stra%C3%9Fe/a-38501955). In 5 Jahren gab es keine positiven Veränderungen für die Einheimischen. Viele die können, verlassen das Land. 
+
+Im Februar 2020 sendete die amerikanische Entwicklungsbehörde USAID Hilfsgüter in Form von Lebensmittel und Medizin. Die Lastwagen brachten rund [100 Tonnen](https://www.nzz.ch/international/venezuela-die-neuesten-entwicklungen-im-machtkampf-ld.1457301) Lebensmittel, Medizin sowie Hygieneartikel in ein Lager an der Grenze zwischen Venezuela und Kolumbien. Maduro sieht darin aber eine Militärische Intervention der USA und blockiert die Grenze. Maduro begründet die Krise im Land sei aufgrund der Sanktionen, diese gilt es zu beheben. Guaidó kritisiert den Entscheid: *"Eine absurde Reaktion eines Regimes, das sich nicht für die Bürger interessiert».* Er rief die Soldaten auf, die Grenze frei zu geben.
+
+Gegenüber der Nachrichtenagentur Reuters haben hochrangige Mitglieder der venezolanischen Regierung von Gesprächen mit den USA erzählt, die die Abkehr von Maduros einleiten sollte.
+
+Juan Guaidó möchte eine US-Militärintervention nicht ausschliessen und unterstütze diese, er werde alles Notwendige tun um Menschenleben zu retten.
+
+Die USA hat im UNO-Sicherheitsrat eine Resolution entworfen um Neuwahlen und die Hilfsgüter auf Venezuela zu bringen. Russland sprach sich sofort dagegen.
+
+Im August beschloss Maduro, das Parlament der Opposition durch die regierungstreue verfassungsgebende Versammlung durch eine Wahl zu bestätigen. Somit drängt er die einzige Opposition aus der Politik, bereits haben sich 25 Parteien gegen eine Wahl ausgesprochen und lehnten ab teilzunehmen. 
+
+Im September werden über 100 Oppositionelle Politiker die in Gefangenschaft waren, begnadigt. 
+
+Am 11. September haben Behörden einen Plan zur Sprengung einer Öl Raffinerie in Caracas entdeckt. Laut Maduro sei einen Tag später, in der Nähe der Raffinerie ein CIA Agent festgenommen worden. Schwer Bewaffnet und mit viel Geld. Der momentane Aufenthalt ist unbekannt.
