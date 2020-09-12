@@ -7,6 +7,9 @@ description: Unter führung Obamas 2015, begann die USA mit den ersten Sanktione
   gegen Venezuela. Obama erklärte Venzuela zur "außergewöhnlichen Bedrohung für
   die nationale Sicherheit und Außenpolitik der Vereinigten Staaten". Seit dem
   ist das Land in einer tiefen Krise gestürtzt.
+tags:
+  - Kurzbericht
+  - Geopolitik
 ---
 ![](/img/gettyimages-680491272-2048x2048.jpg)
 
@@ -46,11 +49,11 @@ Maduro versuchte die Opposition, die Nationalversammlung mehrfach abzusetzen. Du
 
 ## Sanktionen
 
-Nicht nur die USA betreiben heute Sanktionen gegenüber Venezuela, sondern viele Europäische Länder sowie die Schweiz auch.
+Nicht nur die USA betreiben heute Sanktionen gegenüber Venezuela, sondern viele Europäische Länder, die Schweiz miteingeschlossen.
 
 Auf der Website der [Schweizer Eidgenossenschaft](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen/massnahmen-gegenueber-venezuela.html) steht geschrieben:
 
-**"Der Bundesrat hat am 28. März 2018 die Verordnung über Massnahmen gegenüber Venezuela erlassen. Damit schloss sich die Schweiz den Sanktionsmassnahmen an, welche die Europäische Union am 13. November 2017 und am 22. Januar 2018 gegen Venezuela verhängt hatte."**
+*"Der Bundesrat hat am 28. März 2018 die Verordnung über Massnahmen gegenüber Venezuela erlassen. Damit schloss sich die Schweiz den Sanktionsmassnahmen an, welche die Europäische Union am 13. November 2017 und am 22. Januar 2018 gegen Venezuela verhängt hatte."*
 
 **2015**
 
@@ -66,6 +69,10 @@ Als Trump seine Amtszeit startete verschärfte er die Sanktionen. Sämtliche Kon
 
 Europa startet die ersten Sanktionen. 
 
+*"Laut Maduro trifft es vor allem das venezolanische Gesundheitswesen: 300.000 Einheiten Insulin könnten nicht importiert werden, weil venezolanische Devisen von der Citybank blockiert werden würden. Außerdem sollen neun Millionen Pakete mit Grundnahrungsmitteln in einem ausländischen Hafen festliegen, eine US-Bank habe aufgrund der Sanktionen den Zahlungsvorgang blockiert."*
+
+*\-*Deutsche Welle
+
 **2018**
 
 20 Konten von Unternehmen werden ebenfalls gefrohren.
@@ -74,4 +81,26 @@ Europa startet die ersten Sanktionen.
 
 Donald Trump lässt den handel mit Öl immernoch erlaubt, die Zahlungen müssen aber über Sperrkonten erfolgen. Zudem werden weitere Personen ihre Konten eingefrohren:
 
-"Betroffen ist der Chef des Geheimdienstes Sebin, der Generaldirektor der militärischen Spionageabwehr, der Leiter der Polizeispezialeinheit FAES und der Präsident des staatlichen Ölkonzerns PDVSA." So die Deutsche Welle.
+*"Betroffen ist der Chef des Geheimdienstes Sebin, der Generaldirektor der militärischen Spionageabwehr, der Leiter der Polizeispezialeinheit FAES und der Präsident des staatlichen Ölkonzerns PDVSA."* So die Deutsche Welle**.**
+
+Die Sanktionen halten bis heute an. Einheimische vergaben den Titel "Maduro diät". Die Nahrungsmittelknappheit schadet der gesamten Bevölkerung. Medizinische Güter wie auch Ersatzteile für Geräte in Spitälern erreichen sehr begrenzt den venezolanischen Boden. Die Bevölkerung ist am Limit und brauchen eine Veränderung. Derzeit gibt es massenhaft Demonstrationen, gegen die Sanktionen und dem Westen sowie gegen Maduro.
+
+
+
+## Heute
+
+![](/img/respect-live.jpg)
+
+**"Respekt für Leben". Eine Demonstation organisiert von Juan Guiado. Im Februar 2019 in Caracas.**
+
+![](/img/resistance.jpg)
+
+![](/img/brennendes-auto.jpg)
+
+![](/img/policeforce.jpg)
+
+![](/img/riesenprotest.jpg)
+
+**Eine riesige Demonstration, wieder in der Hauptstadt Caracas gegen Maduro. Im Februar 2019.**
+
+Heute ist Caracas einer der gefährlichsten Städte geworden auf der ganzen Welt. 2015 hatte sie die höchste Mordrate weltweit mit [120 Morden pro 100.000 Einwohner](https://www.dw.com/de/leben-in-caracas-nach-18-uhr-traut-sich-niemand-mehr-auf-die-stra%C3%9Fe/a-38501955). In 5 Jahren gab es keine Positiven Veränderungen für die Einheimischen. Viele die können, verlassen das Land.
