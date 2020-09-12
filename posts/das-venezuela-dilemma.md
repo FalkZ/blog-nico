@@ -26,30 +26,48 @@ Nicolás Maduros ursprung in der Politik startet in der vereinigten Sozialistisc
 
 ## Die Opposition
 
-Maduro versuchte die Opposition, die Nationalversammlung mehrfach abzusetzen. Durch diese Aktionen betitelte das Parlament, Maduro als Diktator. 
+Maduro versuchte die Opposition, die Nationalversammlung mehrfach abzusetzen. Durch diese Aktionen betitelte das Parlament, Maduro als Diktator. Gemäss der NZZ erklärte der Präsident der Nationalversammlung Juan Guaidó sich deshalb am 23. Januar vor Zehntausenden Anhängern zum Interimspräsidenten und versprach unter anderem, freie Wahlen abhalten zu lassen. Maduro lehnt dies bis jetzt ab. Die Oppostion wird als eine Marionette der USA kritisiert und Maduro als korrupter Diktator. Nicht nur das Land ist gespaltet, sondern die ganze Welt.
 
 
 
 ![Political Map](/img/1920px-venezuela_president_recognition_map.svg.png "Political Map")
 
-Die Karte zeigt, welche Länder den rechtmässigen Präsidenten Anerkennen. 
+**Die Karte zeigt, welche Länder den rechtmässigen Präsidenten Anerkennen.** 
 
-Rot Steht für Maduro. Blau für Juan Guaidó. Hellblau für die Nationalversammlung. Schwarz ist neutral.
+**Rot Steht für Maduro. Blau für Juan Guaidó. Hellblau für die Nationalversammlung. Schwarz ist neutral.**
 
 *Bild: ZiaLater/Wikimedia* 
 
-Gemäss dem NZZ 
 
-Präsident der Nationalversammlung Juan Guaidó erklärte sich deshalb am 23. Januar vor Zehntausenden Anhängern zum Interimspräsidenten und versprach unter anderem, freie Wahlen abhalten zu lassen. Maduro lehnt dies bis jetzt ab.
 
 ## Sanktionen
 
+Nicht nur die USA betreibt Sanktionen gegenüber Venezuela, sondern viele Europäschie Länder sowie die Schweiz auch.
+
+Auf der Website der [Schweizer Eidgenossenschaft](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen/massnahmen-gegenueber-venezuela.html) steht geschrieben:
+
+**"Der Bundesrat hat am 28. März 2018 die Verordnung über Massnahmen gegenüber Venezuela erlassen. Damit schloss sich die Schweiz den Sanktionsmassnahmen an, welche die Europäische Union am 13. November 2017 und am 22. Januar 2018 gegen Venezuela verhängt hatte."**
+
 **2015**
+
+Die USA friert mehrere Internationale Bankkonten von Spitzenbeamten und Offizieren von Maduros Regierung ein. Mit der Begründung das Proteste gegen die Regierung mit Gewalt gestoppt wurden.
 
 **2016**
 
+Nicolás Maduro bittet die US-Regierung um keine Verlängerung der Sanktionien. Obama reagierte mit dem Gegenteil. Die Regierung habe sich nicht verbessert, die Pressefreiheit sei noch immer Eingeschränkt, Oppositionelle Politiker werden verfolgt und die Verletzung an Menschenrechte gehe weiter. Das Embargo gegen Kuba hatte sich leicht gelockert, wärend in Venezuela es sich verschäfte.
+
 **2017**
+
+Als Trump seine Amtszeit startete verschärfte er die Sanktionen. Sämtliche Konten in den USA werden eingefroren und jeglicher Handel mit Maduro wurde untersagt.
+
+Europa startet die ersten Sanktionen. 
 
 **2018**
 
-**"Der Bundesrat hat am 28. März 2018 die Verordnung über Massnahmen gegenüber Venezuela erlassen. Damit schloss sich die Schweiz den Sanktionsmassnahmen an, welche die Europäische Union am 13. November 2017 und am 22. Januar 2018 gegen Venezuela verhängt hatte."**
+20 Konten von Unternehmen werden ebenfalls gefrohren.
+
+**2019**
+
+Donald Trump lässt den handel mit Öl immernoch erlaubt, die Zahlungen müssen aber über Sperrkonten erfolgen. Zudem werden weitere Personen ihre Konten eingefrohren:
+
+"Betroffen ist der Chef des Geheimdienstes Sebin, der Generaldirektor der militärischen Spionageabwehr, der Leiter der Polizeispezialeinheit FAES und der Präsident des staatlichen Ölkonzerns PDVSA." So die Deutsche Welle.
