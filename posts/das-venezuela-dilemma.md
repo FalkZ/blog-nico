@@ -95,7 +95,7 @@ Die Sanktionen halten bis heute an. Einheimische vergaben den Titel "[Maduro Di�
 
 Heute ist Caracas einer der gefährlichsten Städte geworden auf der ganzen Welt. 2015 hatte sie die höchste Mordrate weltweit mit [120 Morden pro 100.000 Einwohner](https://www.dw.com/de/leben-in-caracas-nach-18-uhr-traut-sich-niemand-mehr-auf-die-stra%C3%9Fe/a-38501955). In 5 Jahren gab es keine positiven Veränderungen für die Einheimischen. Viele die können, verlassen das Land. 
 
-Im Februar 2020 sendete die amerikanische Entwicklungsbehörde USAID Hilfsgüter in Form von Lebensmittel und Medizin. Die Lastwagen brachten rund [100 Tonnen](https://www.nzz.ch/international/venezuela-die-neuesten-entwicklungen-im-machtkampf-ld.1457301) Lebensmittel, Medizin sowie Hygieneartikel in ein Lager an der Grenze zwischen Venezuela und Kolumbien. Maduro sieht darin aber eine Militärische Intervention der USA und blockiert die Grenze. Maduro begründet die Krise im Land sei aufgrund der Sanktionen, diese gilt es zu beheben. Guaidó kritisiert den Entscheid: ***"Eine absurde Reaktion eines Regimes, das sich nicht für die Bürger interessiert»**.* Er rief die Soldaten auf, die Grenze frei zu geben.
+Im Februar 2020 sendete die amerikanische Entwicklungsbehörde USAID Hilfsgüter in Form von Lebensmittel und Medizin. Die Lastwagen brachten rund [100 Tonnen](https://www.nzz.ch/international/venezuela-die-neuesten-entwicklungen-im-machtkampf-ld.1457301) Lebensmittel, Medizin sowie Hygieneartikel in ein Lager an der Grenze zwischen Venezuela und Kolumbien. Maduro sieht darin aber eine Militärische Intervention der USA und blockiert die Grenze. Maduro begründet die Krise im Land sei aufgrund der Sanktionen, diese gilt es zu beheben. Guaidó kritisiert den Entscheid: **\*"Eine absurde Reaktion eines Regimes, das sich nicht für die Bürger interessiert»**.* Er rief die Soldaten auf, die Grenze frei zu geben.
 
 Gegenüber der Nachrichtenagentur Reuters haben hochrangige Mitglieder der venezolanischen Regierung von Gesprächen mit den USA erzählt, die die Abkehr von Maduros einleiten sollte.
 
@@ -111,4 +111,4 @@ Am 11. September haben Behörden einen Plan zur Sprengung einer Öl Raffinerie i
 
 Lateinamerika-Experte Carlos Hidalgo von der Washingtoner Cato Institute sagt bezüglich den Wirtschaftssanktionen:
 
-* "Sie treffen vor allem die, denen sie helfen sollen, garantieren aber nicht das Ende des Regimes. Denken wir nur an Kuba nach mehr als 50 Jahren Handelsembargo."
+* ***"Sie treffen vor allem die, denen sie helfen sollen, garantieren aber nicht das Ende des Regimes. Denken wir nur an Kuba nach mehr als 50 Jahren Handelsembargo."***
