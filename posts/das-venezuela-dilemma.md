@@ -10,9 +10,9 @@ description: Unter führung Obamas 2015, begann die USA mit den ersten Sanktione
 ---
 ![](/img/gettyimages-680491272-2048x2048.jpg)
 
-**Oppostion demonstriert gegen Maduro.**
+**Ein Demonstrant steht der Militärpolizei gegenüber.**
 
-Der Mangel an medizinischer Versorgung sowie an Lebensmittel, treibt das Öl Reiche Land in eine Krise. Früher unter der Regierung von Hugo Chávez welcher das Land mit einer sozialistischen Ideologie von 1999 bis zu seinem Tod 2013 führte. Er verstaatlichte die gesamte Öl Industrie in Venezuela, jedoch nicht ohne Konsequenzen. Mehrere Putschversuche wurden gegen Chávez unternommen. Die Putschisten waren bereits im Putsch vom April 2002 in Verdacht mit den USA kooperiert zu haben. Ebenfalls löste es einen Generalstreik aus, hauptächlich davon betroffen war ein Joint Venture bestehend aus "Petróleos de Venezuela" und des US-amerikanischen Rüstungskonzerns "SAIC". Als Chávez an Lungenkrebs erkrankte, schlug er Nicolás Maduro als Präsidenten vor.
+Der Mangel an medizinischer Versorgung sowie an Lebensmittel, treibt das Öl Reiche Land in eine Krise. Früher unter der Regierung von Hugo Chávez welcher das Land mit einer sozialistischen Ideologie von 1999 bis zu seinem Tod 2013 führte. Er verstaatlichte die gesamte Öl Industrie in Venezuela, jedoch nicht ohne Konsequenzen. Mehrere Putschversuche wurden gegen Chávez unternommen. Die Putschisten waren bereits im April 2002 in Verdacht mit den USA kooperiert zu haben. Hauptächlich davon betroffen war ein Joint Venture bestehend aus "Petróleos de Venezuela" und des US-amerikanischen Rüstungskonzerns "SAIC". Dies führte zu einem Generalstreik. Als Chávez an Lungenkrebs erkrankte, schlug er Nicolás Maduro als seinen Nachfolger vor.
 
 
 
