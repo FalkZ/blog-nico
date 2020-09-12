@@ -22,11 +22,11 @@ Der Mangel an medizinischer Versorgung sowie an Lebensmittel, treibt das Öl Rei
 
 
 
-Nicolás Maduros ursprung in der Politik startet in der vereinigten Sozialistischen Partei kurz PSUV. Der demokratisch gewählte Präsident Maduro regiert Venezuela seit 2013. Seine Amtszeit dauerte vorraussichtlich bis 2019. 2018 gab es eine vorgezogene Neuwahl die Maduro erneut gewann. Die Wahlergebnisse wurden von den meisten westlichen Länder nicht anerkannt und wegen mutmasslicher Wahlfälschung beschuldigt. Dies sehen nicht nur die westlichen Länder, sondern auch die eigene Bevölkerung Venezuelas. Ihm werden verschiedene Menschenrechtverletzungen angehängt, sowie Verwicklungen mit dem venezolanischem Drogenkartell.
+Nicolás Maduros ursprung in der Politik startet in der vereinigten Sozialistischen Partei, kurz PSUV. Der demokratisch gewählte Präsident Maduro regiert Venezuela seit 2013. Seine Amtszeit dauerte vorraussichtlich bis 2019. 2018 gab es eine vorgezogene Neuwahl die Maduro erneut gewann. Die Wahlergebnisse wurden von den meisten westlichen Länder nicht anerkannt und wegen mutmasslicher Wahlfälschung beschuldigt. Dies sehen nicht nur die westlichen Länder, sondern auch die Nationalversammlung Venezuelas. Ihm werden Korruption, verschiedene Menschenrechtverletzungen sowie Vernetzung mit dem venezolanischem Drogenkartell angehängt.
 
 ## Die Opposition
 
-Maduro versuchte die Opposition, also das Parlament mehrfach abzusetzen. Durch diese Aktionen betitelte das Parlament Maduro als Diktator.
+Maduro versuchte die Opposition, die Nationalversammlung mehrfach abzusetzen. Durch diese Aktionen betitelte das Parlament, Maduro als Diktator. 
 
 
 
