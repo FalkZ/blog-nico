@@ -26,6 +26,12 @@ Nicolás Maduros ursprung in der Politik startet in der vereinigten Sozialistisc
 
 ## Die Opposition
 
+![Juan Guaidó](/img/gettyimages-1124235558-2048x2048.jpg "Juan Guaidó")
+
+**Zu sehen ist Juan Guaidó, in einer Demostration in Canacas. Der Präsident der Nationalversammlung von Venezuela, wird von vielen Ländern bereits als der Rechtmässige Präsident anerkennt. Er spielt eine bedeutende Rolle der Opposition von Maduro.**
+
+
+
 Maduro versuchte die Opposition, die Nationalversammlung mehrfach abzusetzen. Durch diese Aktionen betitelte das Parlament, Maduro als Diktator. Gemäss der NZZ erklärte der Präsident der Nationalversammlung Juan Guaidó sich deshalb am 23. Januar vor Zehntausenden Anhängern zum Interimspräsidenten und versprach unter anderem, freie Wahlen abhalten zu lassen. Maduro lehnt dies bis jetzt ab. Die Oppostion wird als eine Marionette der USA kritisiert und Maduro als korrupter Diktator. Nicht nur das Land ist gespaltet, sondern die ganze Welt.
 
 
@@ -38,11 +44,9 @@ Maduro versuchte die Opposition, die Nationalversammlung mehrfach abzusetzen. Du
 
 *Bild: ZiaLater/Wikimedia* 
 
-
-
 ## Sanktionen
 
-Nicht nur die USA betreibt Sanktionen gegenüber Venezuela, sondern viele Europäschie Länder sowie die Schweiz auch.
+Nicht nur die USA betreiben heute Sanktionen gegenüber Venezuela, sondern viele Europäische Länder sowie die Schweiz auch.
 
 Auf der Website der [Schweizer Eidgenossenschaft](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen/massnahmen-gegenueber-venezuela.html) steht geschrieben:
 
