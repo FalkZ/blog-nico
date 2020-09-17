@@ -13,3 +13,24 @@ tags:
   - Wirtschaft
   - Umwelt
 ---
+Start in Luzern mit Noemie.
+
+
+
+Greenpeace Unterlagen.
+
+
+
+Hof Oberdorf anfragen für Interview.
+
+
+
+Food Inc.
+
+
+
+Vergleich Ausland mit Schweiz.
+
+
+
+Die Schweiz konsumiert jährlich ...tonnen Fleisch...
