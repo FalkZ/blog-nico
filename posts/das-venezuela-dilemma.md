@@ -111,4 +111,4 @@ Am 11. September haben Behörden einen Plan zur Sprengung einer Öl Raffinerie i
 
 Lateinamerika-Experte Carlos Hidalgo von der Washingtoner Cato Institute sagt bezüglich den Wirtschaftssanktionen:
 
-> **"Sie treffen vor allem die, denen sie helfen sollen, garantieren aber nicht das Ende des Regimes. Denken wir nur an Kuba nach mehr als 50 Jahren Handelsembargo."**
+> ***"Sie treffen vor allem die, denen sie helfen sollen, garantieren aber nicht das Ende des Regimes. Denken wir nur an Kuba nach mehr als 50 Jahren Handelsembargo."***
