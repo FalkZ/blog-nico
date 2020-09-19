@@ -24,8 +24,6 @@ Forscher konnten nachweisen, dass bereits in Mesopotamien vor 12‘000 Jahren Er
 
 Die Idee Erdöl als Petroleum aus dem Boden zu gewinnen und als Brennstoff für Lampen zu verwenden, stammt vom US-Amerikaner George Bissel. Der Eisenbahner Edwin Drake fand daraufhin eine Ölquelle in Pennsylvania und begann 1859 mit dem ersten Abbau von Erdöl. 
 
-
-
 Vorher wurden Lampen mit teurem Tierfett betrieben, welches hauptsächlich von Walen gewonnen wurde.
 
 <!--EndFragment-->
@@ -65,13 +63,15 @@ Mit dem Wiederaufbau nach dem Krieg setze ein enormer technologischer Fortschrit
 
 Öl bedeutet Macht.
 
-
-
 ## Nachkriegszeit
 
 Als die Kriege vorbei waren gab es 1950 einen Wirtschaftsboom. Der Ölverbrauch stieg rasant an, vor allem in den USA, wo bereits 50 Millionen Fahrzeuge registriert wurden. Die sogenannten „Seven Sisters“ kontrollierten den Markt, von denen heute ExxonMobil, Chevron, Shell und BP immer noch existieren. Zur selben Zeit schritt die Plastikproduktion an. Nicht nur die Chemie-, sondern auch die Ölindustrie blühte somit auf. Dichtungen, Verpackungen, Elektronik, Spielzeuge, Behälter, so ziemlich jede Branche profitierte von der Flexibilität und den Eigenschaften von Plastik.
 
 Öl war von höchster Priorität, denn es bedeutete Sicherheit in unsicheren Zeiten. Die Supermächte China, Russland und Amerika und viele weitere, wie etwa Großbritannien und Frankreich waren sich der Wichtigkeit der Ressource bewusst. Durch unzählige Versuche, egal wie hinterlistig sie auch sein mochten, probierte man mehr Öl anzuhäufen, um sich einen Vorteil gegenüber seinem Gegenspieler zu erschaffen. Leider geschah dies oft nicht gewaltfrei und artete in richtigen Konflikten aus. Die ganze Welt musste schon mehrere Male beobachten, wie dies genau geschah, wobei der UNO-Sicherheitsrat schon längst hätte einschreiten sollen. Welche Konflikte waren es nochmals? Und wieso unternahm der Sicherheitsrat nichts?
+
+
+
+
 
 ![Kuwait](/img/kuwait_burn_oilfield.png)
 
@@ -97,13 +97,19 @@ Drei US-Firmen.
 
 <div class="height100">
 
-![](/img/conocophillips.jpeg)
 
-**ConocoPhillips** 
 
-![](/img/exxon-mobil.png)
+| ![](/img/conocophillips.jpeg) |  ![](/img/exxon-mobil.png)  |
+|-------------------------------|-----------------------------|
+| **ConocoPhillips**            |  **ExxonMobil**             |
 
-**ExxonMobil**
+</div>
+
+
+
+
+
+
 
 ![](/img/chevron.png)
 
