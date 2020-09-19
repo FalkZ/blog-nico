@@ -45,7 +45,7 @@ Nicht nur die USA betreiben heute Sanktionen gegenüber Venezuela, sondern viele
 
 Auf der Website der [Schweizer Staatssekretariat für Wirtschaftnossenschaf](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen/massnahmen-gegenueber-venezuela.html) steht geschrieben:
 
-***"Der Bundesrat hat am 28. März 2018 die Verordnung über Massnahmen gegenüber Venezuela erlassen. Damit schloss sich die Schweiz den Sanktionsmassnahmen an, welche die Europäische Union am 13. November 2017 und am 22. Januar 2018 gegen Venezuela verhängt hatte."***
+**_"Der Bundesrat hat am 28. März 2018 die Verordnung über Massnahmen gegenüber Venezuela erlassen. Damit schloss sich die Schweiz den Sanktionsmassnahmen an, welche die Europäische Union am 13. November 2017 und am 22. Januar 2018 gegen Venezuela verhängt hatte."_**
 
 **2015**
 
@@ -73,7 +73,7 @@ Europa startet die ersten Sanktionen.
 
 Der Handel mit Öl ist immer noch erlaubt, die Zahlungen müssen aber über Sperrkonten erfolgen. Zudem werden weitere Personen ihre Konten eingefroren:
 
-***"Betroffen ist der Chef des Geheimdienstes Sebin, der Generaldirektor der militärischen Spionageabwehr, der Leiter der Polizeispezialeinheit FAES und der Präsident des staatlichen Ölkonzerns PDVSA."*** So die Deutsche Welle**.**
+**_"Betroffen ist der Chef des Geheimdienstes Sebin, der Generaldirektor der militärischen Spionageabwehr, der Leiter der Polizeispezialeinheit FAES und der Präsident des staatlichen Ölkonzerns PDVSA."_** So die Deutsche Welle.
 
 Die Sanktionen halten bis heute an. Einheimische vergaben den Titel "[Maduro Diät](https://www.tagesanzeiger.ch/ausland/amerika/das-oelreichste-land-der-welt-haelt-madurodiaet/story/20747266)". Die Nahrungsmittelknappheit schadet der gesamten Bevölkerung. Medizinische Güter wie auch Ersatzteile für Geräte in Spitälern erreichen sehr begrenzt den venezolanischen Boden. Die Bevölkerung ist am Limit und brauchen eine Veränderung. Derzeit gibt es massenhaft Demonstrationen, gegen die Sanktionen und dem Westen sowie gegen Maduro.
 
@@ -111,4 +111,4 @@ Am 11. September haben Behörden einen Plan zur Sprengung einer Öl Raffinerie i
 
 Lateinamerika-Experte Carlos Hidalgo von der Washingtoner Cato Institute sagt bezüglich den Wirtschaftssanktionen:
 
-> ***"Sie treffen vor allem die, denen sie helfen sollen, garantieren aber nicht das Ende des Regimes. Denken wir nur an Kuba nach mehr als 50 Jahren Handelsembargo."***
+> "Sie treffen vor allem die, denen sie helfen sollen, garantieren aber nicht das Ende des Regimes. Denken wir nur an Kuba nach mehr als 50 Jahren Handelsembargo."
