@@ -14,9 +14,11 @@ tags:
 
 **Eine ungewöhnliche Zusammenarbeit.**
 
-*Gettyimages*
+(Bild: *Gettyimages*)
 
-Durch das Abkommen sind Angehörige der chinesischen Behörden dazu befähigt, in der Schweiz zwei Wochen "ohne offiziellen Status" einzureisen. Das Ziel diese Abkommens ist die Auslieferung von illegaler Einwanderer aus China. Die chinesischen Beamten sind somit bemächtigt, Befragungen in der Schweiz durchzuführen. Wenn eine Person mit chinesischer Staatsangehörigkeit identifiziert wird, wird diese in ihre Heimat zurückgeführt. Für diese Kosten kommt die Schweiz auf. Laut des Staatssekretariats für Migration ist die Schweiz grundsätzlich an einer Fortsetzung des Vertrags interessiert.
+Durch das Abkommen sind Angehörige der chinesischen Behörden dazu befähigt, in der Schweiz zwei Wochen "ohne offiziellen Status" einzureisen. Das Ziel dieses Abkommens ist die Auslieferung von illegaler Einwanderer aus China. Die chinesischen Beamten sind somit bemächtigt, Befragungen in der Schweiz durchzuführen. Wenn eine Person mit chinesischer Staatsangehörigkeit identifiziert wird, wird diese in ihre Heimat zurückgeführt. Für diese Kosten kommt die Schweiz auf. Laut des Staatssekretariats für Migration ist die Schweiz grundsätzlich an einer Fortsetzung des Vertrags interessiert.
+
+_
 
 ### Was ist speziell?
 
@@ -36,10 +38,14 @@ Die Schweiz ist neutral und ein demokratischer Staat. Zudem steht im Vertrag, da
 
 \- Fabian Molina, SP Nationalrat
 
+_
+
 ### Was schliesst der Vertrag aus?
 
 Der Vertrag verbietet jegliche Zweckentfremdung der Personendaten. Jedoch lässt sich dies schlecht überprüfen.
 Laut dem Staatssekretariat für Migration, dürfen nur chinesische Staatsangehörige von Beamten befragt und ausgewiesen werden. Dies bedeutet, dass Personen tibetischer Ethnie ausdrücklich vom Verfahren ausgeschlossen werden. Auch bei einem negativem Asylentscheid, werden Tibeter nicht an China ausgeliefert.
+
+_
 
 ### Gab es bereits einen solchen Einsatz?
 
