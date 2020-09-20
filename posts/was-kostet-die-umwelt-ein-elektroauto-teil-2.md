@@ -15,7 +15,6 @@ tags:
   - Umwelt
   - Energie
 ---
-
 ![](/img/Tesla.jpg)
 *(Bild: Wallheaven)*
 
@@ -27,32 +26,29 @@ Tesla möchte alle Fabriken komplett durch erneuerbare Energien versorgen und is
 
 > "Fossil fuel merchants of doubt have been pushing that bs (bullshit) for years. Tesla Gigafactory will be 100% renewable powered (by Tesla Solar) by end of next year."
 
--[Elon Musk](https://twitter.com/elonmusk/status/1033494277643481089?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1033494277643481089&ref_url=https%3A%2F%2Fecomento.de%2F2018%2F09%2F04%2Ftesla-gigafactory-wird-ab-ende-2019-komplett-mit-erneuerbaren-energien-betrieben%2F)
+\-[Elon Musk](https://twitter.com/elonmusk/status/1033494277643481089?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1033494277643481089&ref_url=https%3A%2F%2Fecomento.de%2F2018%2F09%2F04%2Ftesla-gigafactory-wird-ab-ende-2019-komplett-mit-erneuerbaren-energien-betrieben%2F)
 
 2018 publiziert das [Teslamag.com](https://teslamag.de/news/tesla-gigafactory-1-weltweit-groesstes-solardach-200000-solarpanele-19797), dass die Gigafactory 1 das weltweit grösste "Solarpaneldach" besitzt.
-
 
 ## Wasserverbrauch
 
 Über den [Tagesspiegel](https://www.tagesspiegel.de/wirtschaft/tesla-akkus-wenn-elf-avocados-umweltschaedlicher-als-eine-e-auto-batterie-sind/25291904.html) berichtet Maximilian Fichtner, Direktor am Helmholtz-Institut, über den Wasserverbauch einer E-Auto Batterie. Nach den gängigen Berechnungsmethoden verdunstet 3840 Liter Wasser für die Gewinnung von Lithium zur Herstellung eines Akkus mit einer Kapazität von 64Kw/h. Kleine Kompakte Fahrzeuge haben im Vergleich ca. 35Kw/h, Alltagsmodelle können einen Akku von bis zu 70Kw/h haben und SUV's und Sportwagen können eine Kapazität von bis zu 150kw/h liefern. Dieser Wasserverbrauch entspricht dem Verbrauch bei der Produktion von 250 Gramm Rindfleisch oder zehn Avocados, 30 Tassen Kaffee oder einer halben Jeans. Laut Fichtner ist der Entwicklungsstand bereits soweit, dass 2025, kobaltfreie Akkumulatoren auf dem Markt sein werden.
 
-
 ## Recycling
 
 Die meisten Elektromobilhersteller sprechen von 8 Jahren Betriebsdauer, bevor die Batterie ausgewechselt werden sollte. Was danach mit dem Akku passiert, ist unklar. Viele E-Auto Hersteller äussern sich wage z.B. man könne die Batterie als Speicher für ein Gebäude verwenden. Von einem klaren Konzept ist nicht die Rede. Der Markt ist noch sehr jung, was natürlich auch zu beachten ist. Wie bei jeder neuen Erfindung investierte man nicht in die Infrastruktur der Elektromobilität bevor man nicht wusste, ob diese floriert. Trotzdem wuchs Tesla enorm schnell. 
-Bis jetzt übernehmen Recyclings Firmen das Wiederverwerten von E-Auto Batterien. In der Schweiz ist es die Firma Batrec die bereits für verschiedene Elektrofahrzeugunternehmen rezyklieren. Wie der [SRF]( https://www.srf.ch/news/wirtschaft/mobilitaet-im-umbruch-am-ende-bleibt-die-batterie) berichtet, stammen nicht einmal ein Prozent aller Batterien von E-Autos.
-Für eine nachhaltige Zukunft ist eine Infrastruktur dringend nötig. Tesla besitzt in Nordamerika bereits ein [Recycling System]( https://www.tesla.cn/en/blog/teslas-closed-loop-battery-recycling-program#deutsch) für Batterien, die 60% der verwertet Mineralien wiederverwendet. Zurzeit entwickelt Tesla Motors ein Konzept mit der belgischen Firma Umicore die für ganz Europa ein Recycling System bietet, welches 70% der CO2-Emissionen einsparen soll. Die Firma hat auch in Planung die Akkumulatoren in den jeweiligen Gigafactories selbst zu verwerten.
->“Während wir dabei helfen, die globale Abhängigkeit von auf Öl basierendem Verkehr zu mindern, und die Kosten von Elektroautos zu senken, übernehmen wir auch die Führung in der Entwicklung eines geschlossenen Batterie-Recycling-Systems“
-- Kurt Kelty Director (Tesla) Energy Systems
+Bis jetzt übernehmen Recyclings Firmen das Wiederverwerten von E-Auto Batterien. In der Schweiz ist es die Firma Batrec die bereits für verschiedene Elektrofahrzeugunternehmen rezyklieren. Wie der [SRF](https://www.srf.ch/news/wirtschaft/mobilitaet-im-umbruch-am-ende-bleibt-die-batterie) berichtet, stammen nicht einmal ein Prozent aller Batterien von E-Autos.
+Für eine nachhaltige Zukunft ist eine Infrastruktur dringend nötig. Tesla besitzt in Nordamerika bereits ein [Recycling System](https://www.tesla.cn/en/blog/teslas-closed-loop-battery-recycling-program#deutsch) für Batterien, die 60% der verwertet Mineralien wiederverwendet. Zurzeit entwickelt Tesla Motors ein Konzept mit der belgischen Firma Umicore die für ganz Europa ein Recycling System bietet, welches 70% der CO2-Emissionen einsparen soll. Die Firma hat auch in Planung die Akkumulatoren in den jeweiligen Gigafactories selbst zu verwerten.
 
+> “Während wir dabei helfen, die globale Abhängigkeit von auf Öl basierendem Verkehr zu mindern, und die Kosten von Elektroautos zu senken, übernehmen wir auch die Führung in der Entwicklung eines geschlossenen Batterie-Recycling-Systems“
+
+* Kurt Kelty Director (Tesla) Energy Systems
 
 ## Herstellung
 
 Viele Elektromobilhersteller zeigen sich zurückhaltend bei der Offenlegung der benötigten Menge an Material zur Herstellung eines Akkus. Tesla hingegen gibt seine Kosten bekannt. Für einen Lithium-Ionen Akkumulator wird zirka 8 kg Lithium benötigt. Im Vergleich mit einem IPhone ist das gerade mal 1 Gramm. Im Durchschnitt benötigt ein Lithium-Ionen Akkumulator 40 - 100 Kg Graphit und 4.5kg Kobalt, was einen Anteil von 2.8% ausmacht. Der Autohersteller hat ebenfalls all seine Patente der Autoherstellung komplett frei zugänglich gemacht, um die Branche anzukurbeln.
 
-
 ## Konfliktmaterial
-
 
 ![](/img/Congomining.jpeg)
 *(Bild: Globalwitness)*
@@ -63,24 +59,20 @@ Tesla ist seit Anfangs 2020 in Verhandlungen mit dem Schweizer Unternehmen Glenc
 
 > „Wir haben unsere Lieferketten neu strukturiert und werden ab 2020 Kobalt und Lithium direkt einkaufen“
 
--Andreas Wendt (Einkaufsvorstand BMW)
-
+\-Andreas Wendt (Einkaufsvorstand BMW)
 
 ### Ermittlung gegen Glencore
 
 Gemäss dem Tagesanzeiger vom 20.Juni 2020, ermittelt die Bundesanwaltschaft gegen Glencore. Der Zuger Rohstoffkonzern steht unter Korruptionsverdacht. Es handelt sich darum wie Glencore 2007 an die Schürfrechte im Kongo gelangt ist. Mit hilfe eines Einflussreichen Geschäftsmann, Dan Gertler gelangte es dem Konzern die Schürfechte für einen viel zu tiefen Preis zu erwerben. Es ist nicht das erste Strafverfahren wegen Verdachts auf Bestechung fremder Amtsträger. Auslöser der Ermittlung ist NGO public eye die bereits 2019 eine Strafanzeige gegen Glencore erhoben.
 
-
 ## Lithium
 
 Mitte 2018 beschliesst Tesla sein Lithium von Kidman Resources, einem australisches Unternehmen und von Ganfeng Lithium aus China zu beziehen.
-
 
 ## Der Vergleich zum Verbrennungsmotor
 
 Bisher wurde weder Lithium, Graphit noch Kobalt mit Waffengewalt von einem anderen Land gewonnen. Die Öl-Konflikte hatten nicht nur Auswirkungen auf die ganze Umwelt, sondern gründeten auch auf die Destabilisierung mehreren Länder. Mehr dazu unter dem Artikel: Öl das Schwarze Gold.
 Ein Verbrennungsmotor müsste technisch gesehen als eine mobile Heizung angesehen werden, da der Wirkungsgrad im Durchschnitt nur 25% beträgt und der Rest Abwärme ist (Zahl wurde [Energie.ch](https://energie.ch/verbrennungsmotoren/) entnommen). Der Elektromotor besitzt einen Wirkungsgrad von 93 - 97%. Der Verbrennungsmotor produziert Feinstaub und viel Abwärme, der sogenannte Treibhauseffekt entsteht was die Umwelt zusätzlich belastet.
-
 
 ### Der Akku der explodiert
 
@@ -89,19 +81,32 @@ aus Sicherheitgründen das komplette Auto für 3 Tage in einen Wassercontainer g
 Ein E-Auto muss verschiedene Prüfungen absolvieren, wie zum Beispiel die ECE R100 (gilt nicht für Handyakkus). Dieser Test schliesst Explosionen aus.
 Jedoch ist klar, dass es noch an Schulung bei der Feuerwehr und den Entsorgungsstellen mangelt. Um diese Infrastruktur bereit zu stellen seien minimale Anforderungen nötig.
 
-
 ## CO2 Bilanz
 
 Das schwedische Institut IVL hat 2017 eine Studie veröffentlich welche die CO2 Werte direkt mit einem Dieselmotor verglich. Diese gab an, für die Herstellung eines Tesla's 17 Tonnen CO2 auszustossen. Die Zahlen sind falsch. Der Journalist Johan Kristensson gab seinen Fehler im Schwedischen Magazin [NyTeknik](https://www.nyteknik.se/fordon/stora-utslapp-fran-elbilarnas-batterier-6851761) zu:
 
 > "Da eine 100-Kilowattstunden-Batterie eine im Vergleich sehr Groß ist, ist die Aussage, dass ein durchschnittlicher E-Auto-Akku solche Emissionen verursacht, natürlich nicht gültig.“
 
--Johan Kristesson
+\-Johan Kristesson
 
 Das bedeutet, es wurde der Ausstoss des grössten verfügbaren Akkus genommen und mit dem Durchschnitt eines Verbrennungsmotor verglichen wobei alle Hybridfahrzeuge miteinbezogen wurden.
-2019 wurde diese [Studie](https://www.ivl.se/download/18.14d7b12e16e3c5c36271070/1574923989017/C444.pdf) aktualisiert.
-Nach den neuen Angaben beträgt der Ausstoss eines Elektrofahrzeugs 61 bis 106 kg CO2 pro Kilowattstunde.
-Das bedeutet, nach 50'000Km Fahrt, fährt man nachhaltiger als mit einem Verbrenner samt den Produktionskosten. Diese Daten sind natürlich abhängig von der Stromquelle. 50'000Km ist durch den Strommix in Europa errechnet. Bezieht die Quelle jedoch ausschliesslich Strom von einem Kohlekraftwerk, trifft der Punkt erst ab 310'000Km. Das bedeutet die Nachhaltigkeit der Quelle bestimmt wie umweltfreundlich ein Elektrofahrzeug ist.
+2019 wurde diese [Studie](https://www.ivl.se/download/18.14d7b12e16e3c5c36271070/1574923989017/C444.pdf) aktualisiert. Nach den neuen Angaben beträgt der Ausstoss eines Elektrofahrzeugs 61 bis 106 kg CO2 pro Kilowattstunde.
+
+In einer [Studie](https://www.mdpi.com/2071-1050/12/3/1241/pdf) des Schweizer Unternehmen MDPI wurde ein VW Caddy mit einem Elektromotor umgebaut, dessen Batteriegrösse 51,8kWh betrug. Sie sind auf den Schluss gekommen das die Herstellungskosten eines Elektrofahrzeug Grundsätzlich einen grösseren CO2 Ausstoss verursacht  als ein konventionelles Fahrzeug, aber nach einer Gewissen Strecke dann doch Nachhaltiger fährt als ein verbrenner Motor. Dies variert aber stark von der Stromquelle. 
+
+<!--StartFragment-->
+
+| Herstellung | Aufladen   | Break-even nach |
+| ----------- | ---------- | --------------- |
+| Ökostrom    | Ökostrom   | 20 000 km       |
+| Kohlestrom  | Ökostrom   | 35 000 km       |
+| Kohlestrom  | Kohlestrom | 310 000 km      |
+
+<!--EndFragment-->
+
+Mit Break-even ist der Punkt gemeint ab wann das Elektrofahrzeug nachhaltiger fährt. Mit dem Strommix in Europa wäre der Punkt ab ca. 50'000km.
+
+
 
 
 ## Stromversorgung
@@ -111,7 +116,7 @@ Was wenn alle Verbrenner durch E-Autos ersetzt werden würden? Bräuchten wir me
 ![](/img/ErneuerbareEnergien.PNG)
 *(Bild: Energywatchgroup)*
 
-Bereits nach 4 Jahren im 2019 gab es einen Zuwachs von knapp 13% an erneuerbarer Energiequellen, das sind um genauer zu sein [34,7%]( https://www.solarserver.de/2020/04/06/erneuerbare-energie-weltweit-zuwachs-von-176-gw-in-2019/).
+Bereits nach 4 Jahren im 2019 gab es einen Zuwachs von knapp 13% an erneuerbarer Energiequellen, das sind um genauer zu sein [34,7%](https://www.solarserver.de/2020/04/06/erneuerbare-energie-weltweit-zuwachs-von-176-gw-in-2019/).
 
 ### Solarenergie
 
@@ -120,9 +125,8 @@ Fast ¾ der erneuerbaren Energie soll der Solarenergie entspringen. Nicht nur di
 ![](/img/Photovoltaikanlagen.PNG)
 *(Bild: Wikimedia)*
 
->Its better to get to a renewable future, sustainable future sooner rather than later and get there before we do the environmental damage then not after”
+> Its better to get to a renewable future, sustainable future sooner rather than later and get there before we do the environmental damage then not after”
 
--Elon Musk
+\-Elon Musk
 
 Mariska de Wild-Scholten von der niederländischen Firma SmartGreenScans sagte "Bei einer für Mitteleuropa typischen Einstrahlung dauert es zweieinhalb Jahre, bis eine herkömmliche kristalline Anlage die Energie erzeugt hat, die in ihre Fertigung gesteckt wurde" Die Firma Smartgreen ist spezialisiert auf die Lebenszyklusanalyse der Photovoltaik-Technik. Es gibt verschiedene Herstellungsverfahren einer solchen Anlage, die meisten jedoch verschmutzen die Umwelt. Chemikalien und Schwermetalle, die ins Abwasser gelangen oder [Stickstofftrifluorid](https://www.heise.de/hintergrund/Die-schmutzige-Seite-des-sauberen-Stroms-1279759.html), die in die Atmosphäre gelangt. Derzeit gibt es Firmen, die sich nach dem „triple Green“ Gesetz richten. Grüne Stromerzeugung, grünes Herstellungs- und Recyclingverfahren. Jedoch ist dieser Markt noch sehr jung und teuer. Wie die Firma Greenfab oder Q-Cells vorgeht ist vorbildlich. Greenfab hat als Beispiel noch keine ihrer Anlagen verkaufen können, da der Preis noch zu hoch ist und Firmen aus China einen starken Preisdruck ausüben. Das bedeutet, der Markt wird von Firmen dominiert, welche die billigen aber auch die umweltschädlichen Herstellungsverfahren anwenden. Carlos Lee vom Halbleiter-Branchenverband SEMI meint das triple green noch einen Durchbruch erleben wird, da man die Fortschritte in den letzten 15 Jahren enorm vorangetrieben hat. Auch der Photovoltaik Experte Eric Maiser vom deutschen Verband für Maschinen- und Anlagebau befürwortet den Fortschritt, wenn auch „Grün in kleinen Dosen“.
-
