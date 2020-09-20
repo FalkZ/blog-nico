@@ -14,11 +14,12 @@ tags:
 
 **Eine ungewöhnliche Zusammenarbeit.**
 
-*Gettyimages*
+*(Bild: Gettyimages)*
 
-Durch das Abkommen sind Angehörige der chinesischen Behörden dazu befähigt, in der Schweiz zwei Wochen "ohne offiziellen Status" einzureisen. Das Ziel diese Abkommens ist die Auslieferung von illegaler Einwanderer aus China. Die chinesischen Beamten sind somit bemächtigt, Befragungen in der Schweiz durchzuführen. Wenn eine Person mit chinesischer Staatsangehörigkeit identifiziert wird, wird diese in ihre Heimat zurückgeführt. Für diese Kosten kommt die Schweiz auf. Laut des Staatssekretariats für Migration ist die Schweiz grundsätzlich an einer Fortsetzung des Vertrags interessiert.
+Durch das Abkommen sind Angehörige der chinesischen Behörden dazu befähigt, in der Schweiz zwei Wochen "ohne offiziellen Status" einzureisen. Das Ziel dieses Abkommens ist die Auslieferung von illegaler Einwanderer aus China. Die chinesischen Beamten sind somit bemächtigt, Befragungen in der Schweiz durchzuführen. Wenn eine Person mit chinesischer Staatsangehörigkeit identifiziert wird, wird diese in ihre Heimat zurückgeführt. Für diese Kosten kommt die Schweiz auf. Laut des Staatssekretariats für Migration ist die Schweiz grundsätzlich an einer Fortsetzung des Vertrags interessiert.
 
-### Was ist speziell?
+
+## Was ist speziell?
 
 Ausländischen Beamten ist es nur in Sonderfällen erlaubt, innerhalb der Schweiz zu operieren. Durch dieses Abkommen zählen Chinas Beamte als solche Sonderfälle.
 Laut dem  Staatsekretariat für Migration, handelt sich bei dem Vertrag um eine Verwaltungsvereinbarung. Das hat zu bedeuten, dass der Vertrag nicht veröffentlicht werden muss.
@@ -36,11 +37,15 @@ Die Schweiz ist neutral und ein demokratischer Staat. Zudem steht im Vertrag, da
 
 \- Fabian Molina, SP Nationalrat
 
-### Was schliesst der Vertrag aus?
+
+
+## Was schliesst der Vertrag aus?
 
 Der Vertrag verbietet jegliche Zweckentfremdung der Personendaten. Jedoch lässt sich dies schlecht überprüfen.
 Laut dem Staatssekretariat für Migration, dürfen nur chinesische Staatsangehörige von Beamten befragt und ausgewiesen werden. Dies bedeutet, dass Personen tibetischer Ethnie ausdrücklich vom Verfahren ausgeschlossen werden. Auch bei einem negativem Asylentscheid, werden Tibeter nicht an China ausgeliefert.
 
-### Gab es bereits einen solchen Einsatz?
+
+
+## Gab es bereits einen solchen Einsatz?
 
 Laut der NZZ am Sonntag reisten 2016 chinesische Beamte in die Schweiz ein. 13 Chinesen wurden an China ausgeliefert, neun sind, illegal eingewandert und vier hatten ein abgewiesenes Asylgesuch. Mehr Details über den Einsatz sind nicht bekannt und es ist bisher auch der einzige der stattgefunden hat.
