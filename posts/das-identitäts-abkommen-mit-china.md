@@ -24,15 +24,15 @@ Ausländischen Beamten ist es nur in Sonderfällen erlaubt, innerhalb der Schwei
 Laut dem  Staatsekretariat für Migration, handelt sich bei dem Vertrag um eine Verwaltungsvereinbarung. Das hat zu bedeuten, dass der Vertrag nicht veröffentlicht werden muss.
 Die Schweiz ist neutral und ein demokratischer Staat. Zudem steht im Vertrag, dass es sich beim Partnerstaat um einen Rechtsstaat handeln muss. Viele Politiker sehen dies als Widerspruch:
 
-«Es ist sehr störend, dass Beamte eines Staates, der Menschenrechte systematisch verletzt, in der Schweiz in offizieller Funktion tätig sein dürfen.»
+> «Es ist sehr störend, dass Beamte eines Staates, der Menschenrechte systematisch verletzt, in der Schweiz in offizieller Funktion tätig sein dürfen.»
 
 \- Angela Mattli von der Gesellschaft für bedrohte Völker
 
-«Der Vertrag mit China sollte sofort gekündigt werden. Ich finde es skandalös, dass die Schweiz ein solch autoritäres Regime in dieser Form unterstützt. Mit solchen Verträgen werden unsere Werte wie Freiheit und Demokratie mit Füssen getreten.»
+> «Der Vertrag mit China sollte sofort gekündigt werden. Ich finde es skandalös, dass die Schweiz ein solch autoritäres Regime in dieser Form unterstützt. Mit solchen Verträgen werden unsere Werte wie Freiheit und Demokratie mit Füssen getreten.»
 
 \- Sibel Arslan, GP Nationalrätin
 
-«Das Abkommen mit China ist absolut inakzeptabel. Es darf nicht verlängert werden.»
+> «Das Abkommen mit China ist absolut inakzeptabel. Es darf nicht verlängert werden.»
 
 \- Fabian Molina, SP Nationalrat
 
