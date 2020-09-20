@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
-title: Fazit zur Elektro Mobilität
-heading: Fazit zur Elektro Mobilität
+title: Fazit zur Elektromobilität
+heading: Fazit zur Elektromobilität
 date: 2020-09-20
 description: Im zweiteiligen Artikel "Was kostet die Umwelt ein Elektroauto"
   schrieb ich über die Funktion eines Akkus, die Geschichte der Elektromobilität
@@ -14,3 +14,7 @@ tags:
   - Kommentar
 ---
 Zurzeit ist der Abbau der benötigten Mineralien sehr Grenzwertig. Am schlimmsten ist das Kobalt, da dieses Mineral grössten Teil aus Afrika importiert wird und auch gleichzeitig das günstigste ist. Gewisse Firmen wie BMW oder Tesla verlangen von Ihrem Lieferanten, dass ihr Kobalt nicht aus Kinderarbeit gewonnen wurde. Firmen wie Glencore sind als solche natürlich nicht böswillig und fördern Kinderarbeit absichtlich. Sie sind Geschäftsmänner, der Profit und die Kunden gehen allenfall voraus. Wenn Käufer Bedingungen stellen, wird Glencore darauf eingehen und versuchen diese zu Erfüllen. Sie versicherten ein Kinderarbeit freien Abbau von Kobalt den betreffenden Firmen. Nur die Frage ist ob dies auch wirklich gewährleistet wird. Auf diese Frage habe ich leider keine Kenntnis und somit keine Antwort, das einzige was man tun kann ist weiterhin Aufmerksam bleiben.
+
+Tesla möchte sich komplett vom Kobalt loslösen und investiert sehr viel Geld in die Forschung, um seine Fahrzeuge noch Effizienter zu machen. Er versucht Schritt für Schritt sich unabhängiger von dritten zu machen und jeden Prozess zur Herstellung eines Autos, in seiner eigenen Firma herzustellen.  
+
+Wie Umweltfreundlich ein Elektrofahrzeug ist, hängt am ende von der Stromquelle ab.
