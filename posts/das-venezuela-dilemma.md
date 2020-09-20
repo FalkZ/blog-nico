@@ -61,9 +61,9 @@ Als Trump seine Amtszeit startete verschärfte er die Sanktionen. Sämtliche Kon
 
 Europa startet die ersten Sanktionen. 
 
-***"Laut Maduro trifft es vor allem das venezolanische Gesundheitswesen: 300.000 Einheiten Insulin könnten nicht importiert werden, weil venezolanische Devisen von der Citybank blockiert werden würden. Außerdem sollen neun Millionen Pakete mit Grundnahrungsmitteln in einem ausländischen Hafen festliegen, eine US-Bank habe aufgrund der Sanktionen den Zahlungsvorgang blockiert."***
+_**"Laut Maduro trifft es vor allem das venezolanische Gesundheitswesen: 300.000 Einheiten Insulin könnten nicht importiert werden, weil venezolanische Devisen von der Citybank blockiert werden würden. Außerdem sollen neun Millionen Pakete mit Grundnahrungsmitteln in einem ausländischen Hafen festliegen, eine US-Bank habe aufgrund der Sanktionen den Zahlungsvorgang blockiert."**_
 
-*\-*Deutsche Welle
+-Deutsche Welle
 
 **2018**
 
