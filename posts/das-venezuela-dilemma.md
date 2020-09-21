@@ -19,7 +19,7 @@ Der Mangel an medizinischer Versorgung sowie an Lebensmitteln, treibt das ölrei
 
 ![Maduro](/img/gettyimages-1088561028-2048x2048.jpg "Maduro")
 
- **Maduro während einer Presse Konferenz in Caracas, Venezuela 25. Januar 2019.**
+ **Maduro während einer Pressekonferenz in Caracas, Venezuela 25. Januar 2019.**
 
 Nicolás Maduros Beginn in die Politik startet in der Vereinigten Sozialistischen Partei, kurz PSUV. Davor war er als Busfahrer bei der staatlichen Metro Caracas angestellt. Der demokratisch gewählte Präsident Maduro regiert Venezuela seit 2013. Seine Amtszeit wäre 2019 abgelaufen. 2018 gab es eine vorgezogene Neuwahl die Maduro erneut gewann. Die Wahlergebnisse wurden von den meisten westlichen Länder wegen mutmasslicher Wahlfälschung nicht anerkannt. Dies sehen nicht nur die westlichen Länder, sondern auch die Nationalversammlung Venezuelas. Maduro werden Korruption, verschiedene Menschenrechtverletzungen sowie Vernetzung mit dem venezolanischem Drogenkartell unterstellt.
 
@@ -27,9 +27,9 @@ Nicolás Maduros Beginn in die Politik startet in der Vereinigten Sozialistische
 
 ![Juan Guaidó](/img/gettyimages-1124235558-2048x2048.jpg "Juan Guaidó")
 
-**Zu sehen ist Juan Guaidó an einer Demostration in Caracas. Der Präsident der Nationalversammlung von Venezuela, wird von vielen Ländern bereits als der rechtmässige Präsident anerkennt. Er spielt eine bedeutende Rolle in der Opposition gegen Maduro.**
+**Zu sehen ist Juan Guaidó an einer Demostration in Caracas. Der Präsident der Nationalversammlung von Venezuela, wird von vielen Ländern bereits als der rechtmässige Präsident anerkannt. Er spielt eine bedeutende Rolle in der Opposition gegen Maduro.**
 
-Maduro versuchte die Opposition, die Nationalversammlung mehrfach abzusetzen. Durch diese Aktionen betitelte das Parlament, Maduro als Diktator. Gemäss der NZZ erklärte der Präsident der Nationalversammlung, Juan Guaidó sich deshalb am 23. Januar vor zehntausenden Anhängern zum Interimspräsidenten und versprach unter anderem freie Wahlen abhalten zu lassen. Maduro lehnt dies bis jetzt ab. Die Opposition wird als eine Marionette der USA kritisiert und Maduro als korrupter Diktator. Nicht nur das Land ist gespaltet, sondern die ganze Welt.
+Maduro versuchte die Opposition, die Nationalversammlung mehrfach abzusetzen. Durch diese Aktionen betitelte das Parlament Maduro als Diktator. Gemäss der NZZ erklärte der Präsident der Nationalversammlung, Juan Guaidó sich deshalb am 23. Januar vor zehntausenden Anhängern zum Interimspräsidenten und versprach unter anderem freie Wahlen abhalten zu lassen. Maduro lehnt dies bis jetzt ab. Die Opposition wird als eine Marionette der USA kritisiert und Maduro als korrupter Diktator. Nicht nur das Land ist gespaltet, sondern die ganze Welt.
 
 ![Political Map](/img/1920px-venezuela_president_recognition_map.svg.png "Political Map")
 
@@ -41,7 +41,7 @@ Maduro versuchte die Opposition, die Nationalversammlung mehrfach abzusetzen. Du
 
 ## Sanktionen
 
-Nicht nur die USA betreiben heute Sanktionen gegenüber Venezuela, sondern viele europäische Länder, die Schweiz miteingeschlossen.
+Nicht nur die USA verhängt heute Sanktionen gegenüber Venezuela, sondern viele europäische Länder, die Schweiz miteingeschlossen.
 
 Auf der Website der [Schweizer Staatssekretariat für Wirtschaft](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen/massnahmen-gegenueber-venezuela.html) steht geschrieben:
 
