@@ -21,7 +21,7 @@ Der Mangel an medizinischer Versorgung sowie an Lebensmitteln, treibt das ölrei
 
  **Maduro während einer Presse Konferenz in Caracas, Venezuela 25. Januar 2019.**
 
-Nicolás Maduros Beginn in die Politik startet in der Vereinigten Sozialistischen Partei, kurz PSUV. Der demokratisch gewählte Präsident Maduro regiert Venezuela seit 2013. Seine Amtszeit wäre 2019 abgelaufen. 2018 gab es eine vorgezogene Neuwahl die Maduro erneut gewann. Die Wahlergebnisse wurden von den meisten westlichen Länder wegen mutmasslicher Wahlfälschung nicht anerkannt. Dies sehen nicht nur die westlichen Länder, sondern auch die Nationalversammlung Venezuelas. Maduro werden Korruption, verschiedene Menschenrechtverletzungen sowie Vernetzung mit dem venezolanischem Drogenkartell unterstellt.
+Nicolás Maduros Beginn in die Politik startet in der Vereinigten Sozialistischen Partei, kurz PSUV. Davor war er als Busfahrer bei der staatlichen Metro Caracas angestellt. Der demokratisch gewählte Präsident Maduro regiert Venezuela seit 2013. Seine Amtszeit wäre 2019 abgelaufen. 2018 gab es eine vorgezogene Neuwahl die Maduro erneut gewann. Die Wahlergebnisse wurden von den meisten westlichen Länder wegen mutmasslicher Wahlfälschung nicht anerkannt. Dies sehen nicht nur die westlichen Länder, sondern auch die Nationalversammlung Venezuelas. Maduro werden Korruption, verschiedene Menschenrechtverletzungen sowie Vernetzung mit dem venezolanischem Drogenkartell unterstellt.
 
 ## Die Opposition
 
@@ -43,7 +43,7 @@ Maduro versuchte die Opposition, die Nationalversammlung mehrfach abzusetzen. Du
 
 Nicht nur die USA betreiben heute Sanktionen gegenüber Venezuela, sondern viele europäische Länder, die Schweiz miteingeschlossen.
 
-Auf der Website der [Schweizer Staatssekretariat für Wirtschaftnossenschaf](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen/massnahmen-gegenueber-venezuela.html) steht geschrieben:
+Auf der Website der [Schweizer Staatssekretariat für Wirtschaft](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen/massnahmen-gegenueber-venezuela.html) steht geschrieben:
 
 > "Der Bundesrat hat am 28. März 2018 die Verordnung über Massnahmen gegenüber Venezuela erlassen. Damit schloss sich die Schweiz den Sanktionsmassnahmen an, welche die Europäische Union am 13. November 2017 und am 22. Januar 2018 gegen Venezuela verhängt hatte."
 
