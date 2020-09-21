@@ -43,7 +43,7 @@ Maduro versuchte die Opposition, die Nationalversammlung mehrfach abzusetzen. Du
 
 Nicht nur die USA betreiben heute Sanktionen gegenüber Venezuela, sondern viele europäische Länder, die Schweiz miteingeschlossen.
 
-Auf der Website der [Schweizer Staatssekretariat für Wirtschaftnossenschaf](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen/massnahmen-gegenueber-venezuela.html) steht geschrieben:
+Auf der Website der [Schweizer Staatssekretariat für Wirtschaft](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen/massnahmen-gegenueber-venezuela.html) steht geschrieben:
 
 > "Der Bundesrat hat am 28. März 2018 die Verordnung über Massnahmen gegenüber Venezuela erlassen. Damit schloss sich die Schweiz den Sanktionsmassnahmen an, welche die Europäische Union am 13. November 2017 und am 22. Januar 2018 gegen Venezuela verhängt hatte."
 
