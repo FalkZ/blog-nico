@@ -21,7 +21,7 @@ Der Mangel an medizinischer Versorgung sowie an Lebensmitteln, treibt das ölrei
 
  **Maduro während einer Presse Konferenz in Caracas, Venezuela 25. Januar 2019.**
 
-Nicolás Maduros Beginn in die Politik startet in der Vereinigten Sozialistischen Partei, kurz PSUV. Der demokratisch gewählte Präsident Maduro regiert Venezuela seit 2013. Seine Amtszeit wäre 2019 abgelaufen. 2018 gab es eine vorgezogene Neuwahl die Maduro erneut gewann. Die Wahlergebnisse wurden von den meisten westlichen Länder wegen mutmasslicher Wahlfälschung nicht anerkannt. Dies sehen nicht nur die westlichen Länder, sondern auch die Nationalversammlung Venezuelas. Maduro werden Korruption, verschiedene Menschenrechtverletzungen sowie Vernetzung mit dem venezolanischem Drogenkartell unterstellt.
+Nicolás Maduros Beginn in die Politik startet in der Vereinigten Sozialistischen Partei, kurz PSUV. Davor war er als Busfahrer bei der staatlichen Metro Caracas angestellt. Der demokratisch gewählte Präsident Maduro regiert Venezuela seit 2013. Seine Amtszeit wäre 2019 abgelaufen. 2018 gab es eine vorgezogene Neuwahl die Maduro erneut gewann. Die Wahlergebnisse wurden von den meisten westlichen Länder wegen mutmasslicher Wahlfälschung nicht anerkannt. Dies sehen nicht nur die westlichen Länder, sondern auch die Nationalversammlung Venezuelas. Maduro werden Korruption, verschiedene Menschenrechtverletzungen sowie Vernetzung mit dem venezolanischem Drogenkartell unterstellt.
 
 ## Die Opposition
 
