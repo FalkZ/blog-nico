@@ -136,5 +136,6 @@ Exxon Mobil ist immer noch eine der grössten Firmen der Welt. Die Firma zählt 
 
 ## Too big to fail
 
-„Die Ölindustrie gibt viel Geld aus, um Einfluss auf die Politik der EU zu nehmen. Nach Recherchen mehrerer Nichtregierungsorganisationen gaben die fünf größten privaten Öl- und Gasfirmen seit 2010 mindestens 251 Millionen für Lobbyarbeit in Brüssel aus, zeigt eine Studie, die Donnerstag veröffentlicht wird. Genannt werden die Konzerne BP, Chevron, ExxonMobil, Shell und Total. Insgesamt seien derzeit 200 Lobbyisten für die Firmen tätig. Ihnen sei es etwa gelungen, Maßnahmen der EU gegen den Klimawandel zu verzögern, zu verwässern oder zu verhindern, kritisieren die Greenpeace, Friends of the Earth und Corporate Europe Observatory (CEO).“
+> "Die Ölindustrie gibt viel Geld aus, um Einfluss auf die Politik der EU zu nehmen. Nach Recherchen mehrerer Nichtregierungsorganisationen gaben die fünf größten privaten Öl- und Gasfirmen seit 2010 mindestens 251 Millionen für Lobbyarbeit in Brüssel aus, zeigt eine Studie, die Donnerstag veröffentlicht wird. Genannt werden die Konzerne BP, Chevron, ExxonMobil, Shell und Total. Insgesamt seien derzeit 200 Lobbyisten für die Firmen tätig. Ihnen sei es etwa gelungen, Maßnahmen der EU gegen den Klimawandel zu verzögern, zu verwässern oder zu verhindern, kritisieren die Greenpeace, Friends of the Earth und Corporate Europe Observatory (CEO).“
+
 -Süddeutsche Zeitung
