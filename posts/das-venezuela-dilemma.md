@@ -109,6 +109,12 @@ Im September werden über 100 Oppositionelle Politiker, die in Gefangenschaft wa
 
 Am 11. September haben Behörden einen Plan zur Sprengung einer Öl Raffinerie in Caracas entdeckt. Laut Maduro sei einen Tag später, in der Nähe der Raffinerie ein CIA Agent festgenommen worden. Schwer bewaffnet und mit viel Geld. Der momentane Aufenthalt ist unbekannt.
 
+In der Uno-Vollversammlung am 23.September kritisierte Maduro die USA.
+
+> "Die Vereinigten Staaten haben sich im Laufe der Geschichte zur grössten Bedrohung für den Frieden in dieser Welt verwandelt"
+
+Er fordert erneut zu einem Ende der Sanktionen auf, mit dem die USA einen Regierungswechsel bezwecken wolle. Er sei im Visier des amerikanischen Imperiums und unter ständiger Attacke. Der Grund warum es dem Volk schlecht ergeht sei nicht sein sozialstisches System, sondern die Sanktionen. Diese zwingen das Land mit den grössten Öl-Reserven in eine Wirtschaftskrise.
+
 Lateinamerika-Experte Carlos Hidalgo von der Washingtoner Cato Institute sagt bezüglich den Wirtschaftssanktionen:
 
 > "Sie treffen vor allem die, denen sie helfen sollen, garantieren aber nicht das Ende des Regimes. Denken wir nur an Kuba nach mehr als 50 Jahren Handelsembargo."
