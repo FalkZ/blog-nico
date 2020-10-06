@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Sanktionen gegen Venezuela
 heading: Sanktionen gegen Venezuela
-date: 2020-09-12
+date: 2020-09-24
 description: Unter Führung Obamas 2015 begann die USA mit den ersten Sanktionen
   gegen Venezuela. Obama erklärte Venezuela zur "außergewöhnlichen Bedrohung für
   die nationale Sicherheit und Außenpolitik der Vereinigten Staaten". Seitdem
