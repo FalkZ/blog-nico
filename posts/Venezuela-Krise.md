@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
-title: Sanktionen gegen Venezuela
-heading: Sanktionen gegen Venezuela
+title: Die Venezuela Krise
+heading: Die Venezuela Krise
 date: 2020-09-24
 description: Unter Führung Obamas 2015 begann die USA mit den ersten Sanktionen
   gegen Venezuela. Obama erklärte Venezuela zur "außergewöhnlichen Bedrohung für
